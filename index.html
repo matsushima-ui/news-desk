@@ -1,0 +1,329 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ニュース定点観測</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Shippori+Mincho+B1:wght@400;700;800&family=Zen+Kaku+Gothic+New:wght@400;500;700&family=JetBrains+Mono:wght@400;500;700&display=swap">
+<style>
+  :root {
+    --bg:#f4f5f7; --surface:#fff; --border:#d8dbe2; --text:#14181f; --text-muted:#5b6270;
+    --accent:#2453c2; --accent-soft:#e4ebfc; --shadow:0 1px 2px rgba(20,24,31,.04),0 8px 24px -12px rgba(20,24,31,.12);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg:#10131a; --surface:#171b24; --border:#2b3140; --text:#e7e9ee; --text-muted:#9aa1b0;
+      --accent:#6e93f2; --accent-soft:#22304f; --shadow:0 1px 2px rgba(0,0,0,.3),0 12px 28px -14px rgba(0,0,0,.55);
+    }
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font-family:"Zen Kaku Gothic New","Hiragino Sans","Noto Sans JP",sans-serif; -webkit-font-smoothing:antialiased; }
+  .app { max-width:1080px; margin:0 auto; padding:20px 20px 64px; }
+  .masthead { border-bottom:3px solid var(--text); padding-bottom:14px; margin-bottom:10px; }
+  .site-title { font-family:"Shippori Mincho B1",serif; font-weight:800; font-size:clamp(26px,4vw,34px); letter-spacing:.04em; margin:0; }
+  .site-sub { font-size:12px; color:var(--text-muted); margin-top:2px; }
+  .sync-note { font-size:11.5px; color:var(--text-muted); background:var(--accent-soft); border:1px solid var(--border); border-radius:8px; padding:8px 12px; margin:14px 0; }
+  .sync-note a { color:var(--accent); font-weight:700; }
+  .cat-tabs { display:flex; gap:6px; overflow-x:auto; padding:14px 0; }
+  .tab { flex:none; display:flex; align-items:center; gap:6px; background:var(--surface); border:1px solid var(--border); color:var(--text-muted); padding:7px 13px; border-radius:999px; font-size:13px; font-weight:500; cursor:pointer; white-space:nowrap; }
+  .tab .dot { width:7px; height:7px; border-radius:50%; }
+  .tab.active { background:var(--text); border-color:var(--text); color:var(--bg); }
+  .feed { display:grid; grid-template-columns:repeat(2,1fr); gap:14px; }
+  @media (max-width:680px) { .feed { grid-template-columns:1fr; } }
+  .card { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:16px; box-shadow:var(--shadow); display:flex; flex-direction:column; gap:8px; text-decoration:none; color:var(--text); }
+  .card:hover { border-color:var(--accent); }
+  .card-meta { display:flex; align-items:center; gap:8px; font-size:11.5px; color:var(--text-muted); }
+  .card-meta .dot { width:7px; height:7px; border-radius:50%; }
+  .card-meta .cat-name { font-weight:700; }
+  .card-meta time { font-family:"JetBrains Mono",monospace; margin-left:auto; }
+  .card h3 { margin:0; font-size:16px; line-height:1.45; font-weight:700; text-wrap:balance; }
+  .card p { margin:0; font-size:13px; line-height:1.6; color:var(--text-muted); }
+  footer { margin-top:34px; padding-top:16px; border-top:1px solid var(--border); font-size:11.5px; color:var(--text-muted); }
+  [hidden] { display:none !important; }
+</style>
+</head>
+<body>
+<div class="app">
+  <header class="masthead">
+    <h1 class="site-title">ニュース定点観測</h1>
+    <div class="site-sub">自分で選んだ分野だけを、毎朝自動で集める個人ニュースボード(静的ミラー)</div>
+  </header>
+  <div class="sync-note">これは <strong>2026年09月09日 15:20 UTC</strong> 時点のスナップショットです。分野の追加・削除やリアルタイム更新は <a href="https://claude.ai/code/artifact/77481c43-0519-4a44-8502-27c32be1c994" target="_blank" rel="noopener">claude.ai の本体ページ</a> で行われ、このページはClaudeに依頼したときに手動で同期されます。</div>
+  <div class="cat-tabs" id="tabs"><div class="tab active" data-cat="all">全分野</div><div class="tab" data-cat="base-politics"><span class="dot" style="background:#4B4E9E"></span>政治</div><div class="tab" data-cat="base-economy"><span class="dot" style="background:#0E7C86"></span>経済</div><div class="tab" data-cat="base-accounting"><span class="dot" style="background:#33608A"></span>会計</div><div class="tab" data-cat="base-law"><span class="dot" style="background:#8A5A00"></span>法律</div><div class="tab" data-cat="base-international"><span class="dot" style="background:#9C4221"></span>国際</div><div class="tab" data-cat="base-society"><span class="dot" style="background:#8A5A00"></span>社会</div></div>
+  <main class="feed" id="feed">
+      <a class="card" href="https://www.businesslawyers.jp/articles/1484" target="_blank" rel="noopener noreferrer" data-cat="base-law">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">法律</span>
+          <span class="sep">・</span><span>BUSINESS LAWYERS</span>
+          <time>12/11</time></div>
+        <h3>早期事業再生法 裁判所認可の債務調整手続きを新設(12/11施行)</h3>
+        <p>公正な第三者関与下で債権者多数決と裁判所認可により金融債務調整を可能にする手続を創設。</p>
+      </a>
+      <a class="card" href="https://www.businesslawyers.jp/articles/1451" target="_blank" rel="noopener noreferrer" data-cat="base-law">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">法律</span>
+          <span class="sep">・</span><span>BUSINESS LAWYERS</span>
+          <time>12/1</time></div>
+        <h3>公益通報者保護法 改正で通報者の範囲拡大(12/1施行)</h3>
+        <p>体制整備の徹底と実効性向上、公益通報者の範囲拡大、不利益取扱い抑止を強化。</p>
+      </a>
+      <a class="card" href="https://unitis.jp/articles/16521/" target="_blank" rel="noopener noreferrer" data-cat="base-law">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">法律</span>
+          <span class="sep">・</span><span>Unitis</span>
+          <time>10/1</time></div>
+        <h3>能動的サイバー防御法 基幹インフラの報告義務化(10/1施行)</h3>
+        <p>基幹インフラ事業者に対するサイバー攻撃報告と重要電子計算機導入届出の義務化で官民連携を強化。</p>
+      </a>
+      <a class="card" href="https://www.businesslawyers.jp/articles/1457" target="_blank" rel="noopener noreferrer" data-cat="base-law">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">法律</span>
+          <span class="sep">・</span><span>BUSINESS LAWYERS</span>
+          <time>10/1</time></div>
+        <h3>労働施策総合推進法 カスタマーハラスメント対策義務化(10/1施行)</h3>
+        <p>カスハラ対策の義務化で相談体制整備と被害者保護を要求、プライバシー保護も明記。</p>
+      </a>
+      <a class="card" href="https://unitis.jp/articles/11947/" target="_blank" rel="noopener noreferrer" data-cat="base-law">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">法律</span>
+          <span class="sep">・</span><span>Unitis</span>
+          <time>9/11</time></div>
+        <h3>EUサイバーレジリエンス法 脆弱性報告義務が先行適用開始(9/11施行)</h3>
+        <p>EU市場の「デジタル要素をもつ製品」を対象に、脆弱性およびインシデント報告義務を先行適用開始。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49272" target="_blank" rel="noopener noreferrer" data-cat="base-politics">
+        <div class="card-meta"><span class="dot" style="background:#4B4E9E"></span>
+          <span class="cat-name">政治</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>中道 立民・公明出身に分かれ統一会派の方針決定 分裂へ</h3>
+        <p>中道勢力の統一会派が立憲民主党と公明党出身の議員に分かれることが決定され、会派が分裂することになった。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49361" target="_blank" rel="noopener noreferrer" data-cat="base-politics">
+        <div class="card-meta"><span class="dot" style="background:#4B4E9E"></span>
+          <span class="cat-name">政治</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>全国知事会 給付めぐる政府提案 理解示す意見の一方で指摘も</h3>
+        <p>全国知事会が政府の給付に関する提案について、理解を示す意見がある一方で課題を指摘する声も上がった。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49355" target="_blank" rel="noopener noreferrer" data-cat="base-economy">
+        <div class="card-meta"><span class="dot" style="background:#0E7C86"></span>
+          <span class="cat-name">経済</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>円相場 値上がり 米財務長官の発言受けて円買いの動き進む</h3>
+        <p>米財務長官の発言により円買いが進み、円相場が値上がりした。市場で円高方向への動きが強まっている。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49346" target="_blank" rel="noopener noreferrer" data-cat="base-politics">
+        <div class="card-meta"><span class="dot" style="background:#4B4E9E"></span>
+          <span class="cat-name">政治</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>外国人材の育成就労制度 受け入れ対象に航空分野も追加検討</h3>
+        <p>政府が外国人材の育成・就労制度の対象に航空分野を追加することを検討している。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49342" target="_blank" rel="noopener noreferrer" data-cat="base-politics">
+        <div class="card-meta"><span class="dot" style="background:#4B4E9E"></span>
+          <span class="cat-name">政治</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>国民健康保険決算 実質収支235億円赤字 4年連続のマイナス</h3>
+        <p>国民健康保険の決算で235億円の赤字となり、4年連続の赤字状況が続いている。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49323" target="_blank" rel="noopener noreferrer" data-cat="base-politics">
+        <div class="card-meta"><span class="dot" style="background:#4B4E9E"></span>
+          <span class="cat-name">政治</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>柏崎刈羽原発 東電に安全性向上の取り組み求める 政府</h3>
+        <p>政府が東京電力に対し、柏崎刈羽原発の安全性向上に向けた取り組みを求めた。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49313" target="_blank" rel="noopener noreferrer" data-cat="base-economy">
+        <div class="card-meta"><span class="dot" style="background:#0E7C86"></span>
+          <span class="cat-name">経済</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>エアコン新製品値上がり見通し 27年省エネ基準引き上げ対応で</h3>
+        <p>2027年の省エネ基準引き上げに対応するため、エアコンの新製品が値上がりする見通しが示された。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49284" target="_blank" rel="noopener noreferrer" data-cat="base-economy">
+        <div class="card-meta"><span class="dot" style="background:#0E7C86"></span>
+          <span class="cat-name">経済</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>小麦売り渡し価格12％引き上げへ 中東情勢など影響</h3>
+        <p>中東情勢などの影響で、小麦の売り渡し価格が12%引き上げられることが決定された。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49277" target="_blank" rel="noopener noreferrer" data-cat="base-economy">
+        <div class="card-meta"><span class="dot" style="background:#0E7C86"></span>
+          <span class="cat-name">経済</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>中国消費者物価指数＋0.8％ 2か月連続0％台</h3>
+        <p>中国の消費者物価指数が0.8%上昇し、2か月連続で低い伸びが続いている状況が報告された。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260909de49251" target="_blank" rel="noopener noreferrer" data-cat="base-economy">
+        <div class="card-meta"><span class="dot" style="background:#0E7C86"></span>
+          <span class="cat-name">経済</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/9</time></div>
+        <h3>株価 売り買いが交錯 小幅な値動き</h3>
+        <p>株価は売り買いが交錯し、小幅な値動きとなっている状況が続いている。</p>
+      </a>
+      <a class="card" href="https://www.zeiken.co.jp/news/25268832.php" target="_blank" rel="noopener noreferrer" data-cat="base-accounting">
+        <div class="card-meta"><span class="dot" style="background:#33608A"></span>
+          <span class="cat-name">会計</span>
+          <span class="sep">・</span><span>税務研究会</span>
+          <time>9/9</time></div>
+        <h3>消費税減税動向ニュース～令和9年4月より飲食料品の税率を1％に引下げへ～</h3>
+        <p>自民党が飲食料品の消費税率を臨時的に1％に引き下げる大綱案を議論。令和9年4月から令和11年3月まで適用予定で、簡易課税制度の特例措置も設ける。</p>
+      </a>
+      <a class="card" href="https://www.businesslawyers.jp/articles/1521" target="_blank" rel="noopener noreferrer" data-cat="base-law">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">法律</span>
+          <span class="sep">・</span><span>BUSINESS LAWYERS</span>
+          <time>9/9</time></div>
+        <h3>改正個人情報保護法 16歳未満のデータ厳格化・課徴金導入へ(施行日未定)</h3>
+        <p>16歳未満のデータ厳格化、顔特徴データ規律新設、悪質違反への課徴金導入を予定。施行日は未定。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de48960" target="_blank" rel="noopener noreferrer" data-cat="base-society">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">社会</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>台東区 民泊新規営業を住宅地などで認めない方針 来年1月から</h3>
+        <p>台東区が来年1月から住宅地などでの民泊新規営業を認めない方針を示した。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49178" target="_blank" rel="noopener noreferrer" data-cat="base-society">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">社会</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>上智大生殺害放火事件 未解決のまま30年に</h3>
+        <p>上智大生の殺害放火事件が未解決のまま発生から30年を迎えた。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49163" target="_blank" rel="noopener noreferrer" data-cat="base-international">
+        <div class="card-meta"><span class="dot" style="background:#9C4221"></span>
+          <span class="cat-name">国際</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>ネパール土石流 トンネルに120人以上取り残されたか 捜索続く</h3>
+        <p>ネパールで発生した土石流により、トンネル内に多数の人員が取り残されており、現在も捜索活動が継続されている。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49146" target="_blank" rel="noopener noreferrer" data-cat="base-society">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">社会</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>名古屋市西区の女性殺害事件 民事裁判始まる 被告側は争う姿勢</h3>
+        <p>名古屋市西区で起きた女性殺害事件をめぐる民事裁判が始まり、被告側は争う姿勢を示している。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49153" target="_blank" rel="noopener noreferrer" data-cat="base-society">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">社会</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>岐阜 洋菓子店3人死亡事件 役員が戻ってきて男性刺した</h3>
+        <p>岐阜の洋菓子店で3人が死亡した事件で、役員が戻ってきて男性を刺したとの証言が報じられた。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49147" target="_blank" rel="noopener noreferrer" data-cat="base-international">
+        <div class="card-meta"><span class="dot" style="background:#9C4221"></span>
+          <span class="cat-name">国際</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>ロシアとウクライナで激しい攻撃の応酬 米特使の会談後も</h3>
+        <p>アメリカの特使による会談後も、ロシアとウクライナ間の軍事的緊張が継続し、双方による激しい攻撃が繰り返されている。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49140" target="_blank" rel="noopener noreferrer" data-cat="base-international">
+        <div class="card-meta"><span class="dot" style="background:#9C4221"></span>
+          <span class="cat-name">国際</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>茂木外相 イラン外相と電話会談 事態沈静化向け柔軟対応を</h3>
+        <p>日本の茂木外相がイラン外相と電話会談し、中東情勢の緊張緩和に向けた柔軟な対応を求めた。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49113" target="_blank" rel="noopener noreferrer" data-cat="base-international">
+        <div class="card-meta"><span class="dot" style="background:#9C4221"></span>
+          <span class="cat-name">国際</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>韓国サムスン電子が横浜に半導体研究拠点を設立</h3>
+        <p>韓国の大手電子企業サムスン電子が日本の横浜市に半導体研究施設を開設する計画を発表した。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49056" target="_blank" rel="noopener noreferrer" data-cat="base-society">
+        <div class="card-meta"><span class="dot" style="background:#8A5A00"></span>
+          <span class="cat-name">社会</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>デヴィ夫人 元マネージャーなど暴行事件で罰金20万円求刑</h3>
+        <p>元マネージャーらへの暴行事件でデヴィ夫人に罰金20万円が求刑された。</p>
+      </a>
+      <a class="card" href="https://news.web.nhk/newsweb/na/nd-20260908de49105" target="_blank" rel="noopener noreferrer" data-cat="base-international">
+        <div class="card-meta"><span class="dot" style="background:#9C4221"></span>
+          <span class="cat-name">国際</span>
+          <span class="sep">・</span><span>NHK</span>
+          <time>9/8</time></div>
+        <h3>中国 8月の輸出額25％増加 貿易黒字は拡大傾向続く</h3>
+        <p>中国の8月の輸出が大幅に増加し、国の貿易黒字が拡大し続けている。</p>
+      </a>
+      <a class="card" href="https://www.zeiken.co.jp/news/24768731.php" target="_blank" rel="noopener noreferrer" data-cat="base-accounting">
+        <div class="card-meta"><span class="dot" style="background:#33608A"></span>
+          <span class="cat-name">会計</span>
+          <span class="sep">・</span><span>税務研究会</span>
+          <time>9/4</time></div>
+        <h3>自民税調 2年間限定飲食料品の減税に係る所要の措置の大枠が固まる</h3>
+        <p>2年間限定の飲食料品減税施策における必要措置の基本的な方向性が確定。</p>
+      </a>
+      <a class="card" href="https://www.zeiken.co.jp/news/24768730.php" target="_blank" rel="noopener noreferrer" data-cat="base-accounting">
+        <div class="card-meta"><span class="dot" style="background:#33608A"></span>
+          <span class="cat-name">会計</span>
+          <span class="sep">・</span><span>税務研究会</span>
+          <time>9/4</time></div>
+        <h3>各府省庁の令和9年度税制改正要望 中企庁は事業承継税制の抜本的見直し求める</h3>
+        <p>中小企業庁が事業承継税制の大幅な改善を要望。</p>
+      </a>
+      <a class="card" href="https://www.zeiken.co.jp/news/24768729.php" target="_blank" rel="noopener noreferrer" data-cat="base-accounting">
+        <div class="card-meta"><span class="dot" style="background:#33608A"></span>
+          <span class="cat-name">会計</span>
+          <span class="sep">・</span><span>税務研究会</span>
+          <time>9/4</time></div>
+        <h3>経産省 大胆な投資促進税制の申請要領で申請フローやROIの計算式を示す</h3>
+        <p>経済産業省が投資促進税制の申請手続きと計算方法を明確化。</p>
+      </a>
+      <a class="card" href="https://www.zeiken.co.jp/news/24068610.php" target="_blank" rel="noopener noreferrer" data-cat="base-accounting">
+        <div class="card-meta"><span class="dot" style="background:#33608A"></span>
+          <span class="cat-name">会計</span>
+          <span class="sep">・</span><span>税務研究会</span>
+          <time>8/28</time></div>
+        <h3>国税庁の非上場株式評価の見直し案に係る算式等の細目が明らかに</h3>
+        <p>国税庁が非上場株式の評価方法見直しに関する具体的な計算式を提示。</p>
+      </a>
+      <a class="card" href="https://www.zeiken.co.jp/news/24068602.php" target="_blank" rel="noopener noreferrer" data-cat="base-accounting">
+        <div class="card-meta"><span class="dot" style="background:#33608A"></span>
+          <span class="cat-name">会計</span>
+          <span class="sep">・</span><span>税務研究会</span>
+          <time>8/28</time></div>
+        <h3>自民税調 消費税減税関連の大綱とりまとめへ予約販売等の経過措置を検討</h3>
+        <p>自民党が消費税減税実施における予約販売などの「経過措置」を検討。</p>
+      </a></main>
+  <footer>ニュース定点観測 ・ 静的ミラー ・ matsushima-ui/news-desk</footer>
+</div>
+<script>
+(function () {
+  var tabs = document.getElementById('tabs');
+  var cards = document.querySelectorAll('.card');
+  tabs.addEventListener('click', function (e) {
+    var tab = e.target.closest('.tab');
+    if (!tab) return;
+    Array.prototype.forEach.call(tabs.querySelectorAll('.tab'), function (t) { t.classList.remove('active'); });
+    tab.classList.add('active');
+    var cat = tab.getAttribute('data-cat');
+    cards.forEach(function (c) {
+      c.hidden = (cat !== 'all' && c.getAttribute('data-cat') !== cat);
+    });
+  });
+})();
+</script>
+</body>
+</html>
