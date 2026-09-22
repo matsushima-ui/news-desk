@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-21T22:21:49.423Z",
+  "syncedAt": "2026-09-22T22:26:21.042Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,30 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-law",
+      "title": "令和8年改正個人情報保護法とは？ポイントを弁護士が解説",
+      "url": "https://www.businesslawyers.jp/articles/1521",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-22T22:18:42.000Z",
+      "summary": "令和8年に改正された個人情報保護法について、改正のポイントを弁護士が解説している。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "能動的サイバー防御法による企業への影響と対応",
+      "url": "https://unitis.jp/articles/16521/",
+      "source": "UNITIS",
+      "publishedAt": "2026-09-22T22:18:42.000Z",
+      "summary": "能動的サイバー防御法が一般企業や基幹インフラ事業者、通信事業者などに与える影響と実務対応について解説している。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "21日のNY市場は上昇",
+      "url": "https://www.zaikei.co.jp/article/20260922/870833.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-09-22T00:00:00.000Z",
+      "summary": "9月21日のニューヨーク株式市場は上昇して取引を終えたと伝えられている。"
+    },
     {
       "categoryId": "base-accounting",
       "title": "第583回企業会計基準委員会の概要",
@@ -96,6 +120,118 @@
       "source": "企業法務弁護士ナビ",
       "publishedAt": "2026-09-21T22:18:48.000Z",
       "summary": "2026年12月1日施行予定の改正公益通報者保護法を見据え、企業が取り組むべき実務対応が解説されている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "損保ジャパン 望まない転勤廃止へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595907",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "損害保険ジャパンが、社員の意に反する転勤を廃止する方針を打ち出したと伝えられている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "NHK 戸別訪問営業の外部委託再開",
+      "url": "https://news.yahoo.co.jp/pickup/6596066",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "NHKが受信契約に関する戸別訪問営業の外部委託を再開する方針であると伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "イラン 戦闘終結へ米に7条件伝達",
+      "url": "https://news.yahoo.co.jp/pickup/6595980",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "イランが戦闘終結に向けて、米国に7つの条件を伝達したと伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "独州議会選 極右政党が再び勝利",
+      "url": "https://news.yahoo.co.jp/pickup/6595985",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "ドイツの州議会選挙で、極右政党が再び勝利したと伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "韓国兵が負傷 非武装地帯に地雷か",
+      "url": "https://news.yahoo.co.jp/pickup/6596037",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "南北軍事境界線付近の非武装地帯で地雷とみられる爆発があり、韓国兵が負傷したと伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "CNNなど 記者証没収で米政権提訴",
+      "url": "https://news.yahoo.co.jp/pickup/6596084",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "CNNなど米メディアが、記者証を没収されたとして米政権を提訴したと伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "露与党 下院で過去最多議席獲得へ",
+      "url": "https://news.yahoo.co.jp/pickup/6596101",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "ロシアの与党が下院選挙で過去最多の議席を獲得する見通しであると伝えられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相 国連で「拉致問題訴えたい」",
+      "url": "https://news.yahoo.co.jp/pickup/6596077",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "高市首相が国連総会での演説で、北朝鮮による拉致問題を訴えたい考えを示していると伝えられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "副首都 6道府県6政令市「意欲」",
+      "url": "https://news.yahoo.co.jp/pickup/6596091",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "副首都構想をめぐり、6道府県6政令市が誘致に意欲を示していると伝えられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "重要資源代替の研究力強化へ 政府",
+      "url": "https://news.yahoo.co.jp/pickup/6596100",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "政府が重要資源の代替技術に関する研究力の強化に乗り出す方針であると伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "富士山頂の混雑で転倒懸念 検証へ",
+      "url": "https://news.yahoo.co.jp/pickup/6595990",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "富士山頂付近の混雑によって転倒などの事故が懸念されており、状況の検証が行われる見通しだと伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "学年上がり自転車事故増 識者指摘",
+      "url": "https://news.yahoo.co.jp/pickup/6595995",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "進級により自転車通学が始まる時期に事故が増える傾向があると、識者が指摘している。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "千葉県を中心に停電発生 最新状況",
+      "url": "https://news.yahoo.co.jp/pickup/6596059",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "台風25号の影響で千葉県を中心に停電が発生しており、最新の復旧状況が伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "台風の爪痕残る 川や崖など注意を",
+      "url": "https://news.yahoo.co.jp/pickup/6596089",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-09-21T10:00:00.000Z",
+      "summary": "台風25号の通過後も各地に爪痕が残り、増水した川や崖崩れなどへの注意が呼びかけられている。"
     },
     {
       "categoryId": "base-economy",
@@ -224,6 +360,14 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-09-20T03:00:00.000Z",
       "summary": "村井氏の抜てきをめぐり、国会運営が官邸主導に傾く可能性があるとして野党が警戒していると伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "令和8年台風第25号による被害状況等について",
+      "url": "https://www.mlit.go.jp/saigai/saigai_260920.html",
+      "source": "国土交通省",
+      "publishedAt": "2026-09-20T00:00:00.000Z",
+      "summary": "国土交通省が台風25号による被害状況等について取りまとめて公表している。"
     },
     {
       "categoryId": "base-law",
@@ -538,6 +682,14 @@
       "summary": "衆院選挙制度の見直しについて与野党が10月に結論を出す方向で一致し、抜本改革は第三者機関で議論するとされている。"
     },
     {
+      "categoryId": "base-economy",
+      "title": "政府、消費税減税の税制改正大綱を決定",
+      "url": "https://www.nippon.com/ja/news/kd1472491512722359071/",
+      "source": "nippon.com",
+      "publishedAt": "2026-09-18T00:00:00.000Z",
+      "summary": "政府が消費税減税を盛り込んだ税制改正大綱を決定したことを伝えている。"
+    },
+    {
       "categoryId": "base-society",
       "title": "九州・中国で雨や雷雨 関東は雲が多め10月上旬並みの気温 今日18日(金)の天気",
       "url": "https://news.yahoo.co.jp/articles/174a09d53fe2c81939f6f271335f6bd6a48df048",
@@ -587,14 +739,6 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "NY円、155円台前半",
-      "url": "https://news.yahoo.co.jp/articles/45d6c2057e427188a9691b4c49029cee23e67a8a",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "ニューヨーク外国為替市場で円相場が1ドル155円台前半で推移したと伝えられている。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "東京円、０９銭安の１ドル＝１５４円９７～９９銭",
       "url": "https://news.yahoo.co.jp/articles/4cb692d4b48d42a48a69ff745a08cf4ee48e360b",
       "source": "読売新聞オンライン（Yahoo!ニュース）",
@@ -624,14 +768,6 @@
       "source": "Investing.com",
       "publishedAt": "2026-09-16T22:08:11.000Z",
       "summary": "東京株式市場の大引けで日経平均株価が前日比438.90円高の63923.00円で取引を終えたと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米中首脳会談「アメリカ側から台湾独立認めない姿勢感じ取った」中国の王毅外相が主張",
-      "url": "https://news.yahoo.co.jp/articles/193c7bb917b535031418d584d0f6eafe34d151ad",
-      "source": "TBS NEWS DIG Powered by JNN（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "米中首脳会談を受け、中国の王毅外相はアメリカ側から台湾独立を認めない姿勢を感じ取ったと主張した。"
     },
     {
       "categoryId": "base-international",
@@ -707,14 +843,6 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "【どうする高市総理】内閣改造＆自民党役員人事 “参議院のドン”石井幹事長が交代へ…グループに所属する1人「全面戦争だ」 木原長官「人事は実力、政策で判断」",
-      "url": "https://news.yahoo.co.jp/articles/3dc49b7c24713286287e50f98c34ddb93b5bb769",
-      "source": "テレビ朝日系（ANN）（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "高市首相の内閣改造・自民党役員人事をめぐり、参院のドンと呼ばれる石井幹事長が交代する見通しとなり、党内で反発の声も出ている。"
-    },
-    {
-      "categoryId": "base-politics",
       "title": "【独自】総務会長に梶山国対委員長を起用へ 有村総務会長は入閣か 高市総理あす党役員人事、あさって内閣改造を行う方針表明",
       "url": "https://news.yahoo.co.jp/articles/5f29e1ad187b5a76d9b1da52b0cfb76fc3243ffa",
       "source": "FNNプライムオンライン（フジテレビ系）（Yahoo!ニュース）",
@@ -744,22 +872,6 @@
       "source": "日テレNEWS NNN（Yahoo!ニュース）",
       "publishedAt": "2026-09-16T22:08:11.000Z",
       "summary": "高市首相が内閣改造・党役員人事の大詰めの調整を進めており、有村総務会長の処遇や総裁選で争った林総務相の起用が焦点となっている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "車3台絡む事故で2人けが “ひき逃げ”でベトナム国籍の男逮捕 千葉・匝瑳市",
-      "url": "https://news.yahoo.co.jp/articles/305f09e1cf9eed3505fb687fbac6a422b4c83c5b",
-      "source": "テレビ朝日系（ANN）（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "千葉県匝瑳市で車3台が絡む事故が発生し2人がけがをした件で、ひき逃げの疑いでベトナム国籍の男が逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「遊び感覚でまいたら大事に」高2男子を傷害の疑いで逮捕 教室で催涙スプレーまかれ24人が“のどの痛み”など 大阪・堺市",
-      "url": "https://news.yahoo.co.jp/articles/c0a203a5b3ee51621de1ea4a5b92866a9d60ea00",
-      "source": "日テレNEWS NNN（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "大阪府堺市の教室で催涙スプレーがまかれ24人がのどの痛みなどを訴えた事件で、高校2年の男子生徒が傷害容疑で逮捕された。"
     },
     {
       "categoryId": "base-society",
@@ -794,188 +906,12 @@
       "summary": "自民党と日本維新の会が、飲食料品に対する消費税率の引き下げに関する大綱を決定した。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "Fed政策の市場予想、タカ派に傾きすぎの可能性",
-      "url": "https://jp.investing.com/news/economy-news/article-1680710",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-15T06:00:00.000Z",
-      "summary": "FRBの金融政策に対する市場の織り込みがタカ派方向に傾きすぎている可能性があるとの分析が伝えられている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "エクラット・ヘルスがインドIPOで最大3億ドルの調達を検討――ブルームバーグ",
-      "url": "https://jp.investing.com/news/stock-market-news/article-93CH-1680826",
-      "source": "Investing.com（Bloomberg配信）",
-      "publishedAt": "2026-09-15T06:00:00.000Z",
-      "summary": "インドのエクラット・ヘルスが新規株式公開(IPO)により最大3億ドルの資金調達を検討していると報じられている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "伊藤智洋が読む「日経平均株価・短期シナリオ」(9月15日記）",
-      "url": "https://kabutan.jp/news/marketnews/?b=n202609150113",
-      "source": "株探ニュース",
-      "publishedAt": "2026-09-15T06:00:00.000Z",
-      "summary": "市況アナリストが日経平均株価の短期的な値動きシナリオについて解説している。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東京株式　１５日終値",
-      "url": "https://www.niigata-nippo.co.jp/articles/-/906724",
-      "source": "新潟日報（共同通信配信）",
-      "publishedAt": "2026-09-15T06:00:00.000Z",
-      "summary": "9月15日の東京株式市場の終値の状況が伝えられている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "【速報】政府は消費減税に関する税制改正大綱を閣議決定した",
       "url": "https://www.jiji.com/jc/article?k=2026091500787&g=flash",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-15T03:00:00.000Z",
       "summary": "政府が消費減税に関する税制改正大綱を閣議決定した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "円相場、１５４円７８～７９銭　１５日正午現在",
-      "url": "https://www.jiji.com/jc/article?k=2026091500502&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "9月15日正午時点の円相場が1ドル154円78〜79銭で推移したと報じられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "台湾巡る高市氏の答弁批判　中国友好協会会長、議連に",
-      "url": "https://news.livedoor.com/topics/detail/32326348/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "台湾に関する高市首相の国会答弁について、中国の友好団体トップが議員連盟に対し批判を伝えたと報じられている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "トラック諸島近海の熱帯低気圧が台風に発達へ… シルバーウィークに影響か",
-      "url": "https://news.livedoor.com/topics/detail/32326513/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "トラック諸島近海の熱帯低気圧が台風に発達する見込みで、シルバーウィークの天候に影響する恐れがあると伝えられている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "高2男子死亡で少年4人逮捕…なぜ容疑は「殺人」でなく「一緒にいた中学生への傷害」なのか【弁護士解説】",
-      "url": "https://news.livedoor.com/topics/detail/32327170/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "高校2年の男子生徒が死亡した事件で少年4人が逮捕されたが、容疑が殺人ではなく傷害である理由が弁護士により解説されている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「500万稼げるぞ」女性を誘拐か",
-      "url": "https://news.livedoor.com/topics/detail/32328845/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "「500万稼げるぞ」と持ちかけて女性を誘拐した疑いがある事件が報じられている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "企業の会計不正が最多 「役員は共謀、非管理職は単独」で行う傾向",
-      "url": "https://news.yahoo.co.jp/articles/493386996ea7089f2a9240bf9aa253179f801030",
-      "source": "朝日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "企業の会計不正件数が過去最多となり、役員は共謀して、非管理職は単独で行う傾向があることが分かった。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "99.7％が架空取引。KDDIグループ子会社の巨額粉飾と「納税」という致命的な実損",
-      "url": "https://news.yahoo.co.jp/articles/a46e48ec18884fb658430ba66d587dea317db117",
-      "source": "税理士ドットコム（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "KDDIグループ子会社で発覚した巨額粉飾決算について、架空取引が99.7％を占め、納税面でも実損が生じたと税理士が解説している。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "中部の上場企業 会計不正、過去５年で最多 行政・名証も憂慮 識者の見方 不正の重大性認識を",
-      "url": "https://news.yahoo.co.jp/articles/aa22c117ea1b8ce1e0377d073f574aacedc7b7f4",
-      "source": "中部経済新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "中部地方の上場企業による会計不正が過去5年で最多となり、行政や名古屋証券取引所も憂慮を示している。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "オルツの不正会計問題 IPO市場健全化への教訓に",
-      "url": "https://news.yahoo.co.jp/articles/b62a00cf8ff71b6c77f917442c6c3008ef22eef0",
-      "source": "日刊工業新聞電子版（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "オルツの不正会計問題が、IPO市場の健全化に向けた教訓として取り上げられている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "上場企業の「不適切会計」開示27社・27件 上半期は「粉飾」が12件、前年同期の3倍増",
-      "url": "https://news.yahoo.co.jp/articles/f9be5dd6b27f6f0078ee6768ee53957a18c1e058",
-      "source": "東京商工リサーチ（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "2026年度上半期に「不適切会計」を開示した上場企業は27社・27件で、うち粉飾決算は12件と前年同期の3倍に増加した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "円高恐れる世界の投資家、キャリー取引解消で半導体株安の延長戦警戒",
-      "url": "https://news.yahoo.co.jp/articles/4a6f7ef16340f77c68461a784282f807bff40a93",
-      "source": "Bloomberg（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "円高進行を懸念する投資家の間で、キャリー取引の解消に伴う半導体株安が長引くとの警戒が広がっている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東証、62円安",
-      "url": "https://news.yahoo.co.jp/articles/95a3873917e7621746c509addbd5c35541875ceb",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "東京証券取引所で株価が前日比62円安となったことを伝えている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "円急騰でも業績への影響限定的、日本株は反発見込むとストラテジスト",
-      "url": "https://news.yahoo.co.jp/articles/c6f7a86fad5cb150803fe6296b2db1b59ffb19ab",
-      "source": "Bloomberg（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "円が急騰しても企業業績への影響は限定的であり、日本株は反発が見込まれるとストラテジストが指摘している。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "トランプ関税、米最高裁が違法判決 政権は反発、新関税10%追加へ",
-      "url": "https://news.yahoo.co.jp/articles/0daa853bd75a85f4ff2be005af88585a8df54627",
-      "source": "朝日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "米最高裁がトランプ関税を違法とする判決を下し、政権はこれに反発して新たに10％の関税を追加する方針を示した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "中東情勢の悪化を好機と捉えたウクライナ、湾岸諸国と協力へ",
-      "url": "https://news.yahoo.co.jp/articles/2f1f0ca4903f8a8f3764684b7f09f21ee070c9f9",
-      "source": "Forbes JAPAN（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "ウクライナは中東情勢の悪化を好機と捉え、湾岸諸国との協力関係構築を進めているとされる。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "プーチン氏、ウクライナでの戦争継続の姿勢崩さず－米特使と協議後も",
-      "url": "https://news.yahoo.co.jp/articles/a6b93ddf995467f7b294f5fd65495c777093fa37",
-      "source": "Bloomberg（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "プーチン大統領は米特使との協議後も、ウクライナでの戦争継続の姿勢を崩していない。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ウクライナの攻撃を米国が支援、ロシア外相 米国務省に説明要求",
-      "url": "https://news.yahoo.co.jp/articles/eef32a69a3430ab4cbeefb923058a0a970f81f78",
-      "source": "ロイター（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "ロシア外相はウクライナによる攻撃を米国が支援しているとして、米国務省に説明を求めた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "防空兵器供給への影響を懸念 ウクライナ大統領、中東混乱で",
-      "url": "https://news.yahoo.co.jp/articles/f0090b2c4b699a05a72547d69c9dfa88a20f24e8",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "ウクライナ大統領は中東情勢の混乱によって防空兵器の供給に影響が出ることへの懸念を示した。"
     },
     {
       "categoryId": "base-law",
@@ -1010,118 +946,6 @@
       "summary": "被災者向け住宅からの転居を拒んだ女性に家賃支払いを命じる判決が最高裁で確定した。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "「自分のメンツ守りたいだけだったのか」自民党内に“きしみ” 高市首相がこだわった当初予算案、年度内成立を断念",
-      "url": "https://news.yahoo.co.jp/articles/00990ea24387a4871fa889c4dbc3cfe2a3592742",
-      "source": "西日本新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "高市首相がこだわっていた当初予算案の年度内成立が断念され、自民党内から批判の声が上がっている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市首相の答弁にザワつく「自民党は私１人の決断に従う政党ではない」衆院解散判断と“矛盾”？",
-      "url": "https://news.yahoo.co.jp/articles/041a584f65b47437ec1d01ae72411041a15bc608",
-      "source": "日刊スポーツ（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "高市首相の国会答弁「自民党は私１人の決断に従う政党ではない」が話題となり、衆院解散の判断との整合性が疑問視されている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "個人情報法改正案、衆院を通過 企業が同意なき病犯歴収集可能に",
-      "url": "https://news.yahoo.co.jp/articles/14a313064458bddee6a2739de4e3b3be5c9fc4f0",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "個人情報保護法の改正案が衆院を通過し、企業が本人の同意なく病歴や犯罪歴を収集できるようになる内容が含まれている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市政権の国会運営はなぜ「史上最低」と酷評されたのか…大島理森元衆院議長が語る30年以上続く日本政治の迷走",
-      "url": "https://news.yahoo.co.jp/articles/62842d9258ef165824c6a05fdc6f747e0ae49994",
-      "source": "集英社オンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "大島理森元衆院議長が、高市政権の国会運営が「史上最低」と評される背景について語っている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "中央道で男性はねられ死亡 追突事故起き路上出る",
-      "url": "https://news.yahoo.co.jp/articles/1a9e8bfdda414afa5fbd0cc29cd7eb763eca1dea",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "中央自動車道で追突事故が起きた後、路上に出た男性が別の車にはねられ死亡した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "軽乗用車が大破 運転の50代男性死亡 直線道路で乗用車と衝突 どちらかの車がはみ出したか 北海道北見市",
-      "url": "https://news.yahoo.co.jp/articles/b3a35e393b594c83d9fd4ce286b9979bc7ad167b",
-      "source": "HBCニュース北海道（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "北海道北見市の直線道路で乗用車同士が衝突する事故があり、運転していた50代男性が死亡した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "韓国・釜山のBTS公演で通報26件…大きな事件・事故は確認されず",
-      "url": "https://news.yahoo.co.jp/articles/f2cecad36eb96892861831d38db3c6d3eaa22e35",
-      "source": "KOREA WAVE（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "韓国・釜山で行われたBTSの公演で26件の通報があったが、大きな事件・事故は確認されなかった。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "自民役員１６日、内閣改造１７日　高市首相、人事日程を表明",
-      "url": "https://www.jiji.com/jc/article?k=2026091500106&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-15T01:00:00.000Z",
-      "summary": "高市首相は自民党役員人事を16日、内閣改造を17日に行う方針を表明したと報じられている。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "最高裁判所裁判官の「国民審査」 今回対象の裁判官はどんな人？ 投票の注意点は",
-      "url": "https://news.yahoo.co.jp/articles/01c9f63a84bd2b54412ab90fa2a41b815dfadbcc",
-      "source": "弁護士ドットコムニュース（Yahoo!ニュース）",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "summary": "最高裁判所裁判官の国民審査について、対象となる裁判官の顔ぶれや投票時の注意点が解説されている。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "ルフィ事件で実行役の無期懲役確定へ 狛江の90歳女性死亡 最高裁",
-      "url": "https://news.yahoo.co.jp/articles/116ca888f103c61b92ed53cf8a5a9ad0b819e045",
-      "source": "朝日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "summary": "「ルフィ」を名乗る特殊詐欺グループによる東京都狛江市の90歳女性死亡事件で、実行役の無期懲役が最高裁で確定する見通しとなった。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "最高裁事務官の42歳男を逮捕 駅の女子トイレに侵入した疑い 盗撮目的か",
-      "url": "https://news.yahoo.co.jp/articles/c891f4ff0f3aa31960618b97ecd8899838795388",
-      "source": "FNNプライムオンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "summary": "最高裁判所事務官の42歳の男が、駅の女子トイレに侵入した疑いで逮捕された。盗撮目的とみられている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "黒部市の海で男性溺れ死亡 事件と事故の両面で捜査",
-      "url": "https://news.yahoo.co.jp/articles/b5983586257cdad8c5a0e89273453e3d8f962a5f",
-      "source": "北日本放送（Yahoo!ニュース）",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "summary": "富山県黒部市の海で男性が溺れて死亡し、警察が事件と事故の両面で捜査している。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【最新】意識不明の重体だった98歳男性が死亡…北海道旭川市の中心部で乗用車同士が出会い頭に衝突",
-      "url": "https://news.yahoo.co.jp/articles/dfb5c9e554dee6c3c1e931cbb262e956044e2a2c",
-      "source": "北海道ニュースUHB（Yahoo!ニュース）",
-      "publishedAt": "2026-09-14T09:00:00.000Z",
-      "summary": "北海道旭川市中心部で乗用車同士が出会い頭に衝突する事故があり、意識不明の重体だった98歳男性がその後死亡した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "臨時国会、６９日間で調整　１０月５日召集",
-      "url": "https://www.niigata-nippo.co.jp/articles/-/905297",
-      "source": "新潟日報（共同通信配信）",
-      "publishedAt": "2026-09-14T05:10:00.000Z",
-      "summary": "臨時国会の会期を69日間とする方向で調整が進み、10月5日に召集される見通しであると報じられている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "四半期決算短信へのレビュー、減少続く",
       "url": "https://www.zeiken.co.jp/news/25769006.php",
@@ -1154,44 +978,12 @@
       "summary": "中小企業における事業承継の準備が現在の経営を強くするという観点から解説する記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "ゼレンスキー氏「緊張緩和に向けた措置」講じる用意",
-      "url": "https://www.afpbb.com/articles/-/3652898",
-      "source": "AFPBB News",
-      "publishedAt": "2026-09-14T03:00:00.000Z",
-      "summary": "ウクライナのゼレンスキー大統領が、緊張緩和に向けた措置を講じる用意があると表明したと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米中首脳、９月２４日に会談か",
-      "url": "https://www.kanaloco.jp/news/international/article-1297777.html",
-      "source": "カナロコ（神奈川新聞）",
-      "publishedAt": "2026-09-14T03:00:00.000Z",
-      "summary": "米中首脳が9月24日に会談する可能性があると報じられている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "沖縄県知事選の結果｜古謝玄太氏が42万票で初当選、普天間返還期日「2036年から1〜2年後」の要求と市町村別の得票",
-      "url": "https://kenyaku.work/okinawa-chijisen-2026-kekka-kosha-futenma/",
-      "source": "トレンドニュース（kenyaku.work）",
-      "publishedAt": "2026-09-13T09:00:00.000Z",
-      "summary": "9月13日投開票の沖縄県知事選挙で古謝玄太氏が42万票を獲得して初当選したと伝えられている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "2026年9月に押さえておくべき企業法務の最新動向",
       "url": "https://www.businesslawyers.jp/articles/1572",
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-09-12T22:08:37.000Z",
       "summary": "2026年9月に企業法務担当者が押さえておくべき法改正や実務上の注目トピックがまとめられている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "総裁選 9月27日に新総裁を選出へ9月12日告示 15日間の選挙戦",
-      "url": "https://www.jimin.jp/news/information/208879.html",
-      "source": "自由民主党（公式サイト）",
-      "publishedAt": "2026-09-12T03:00:00.000Z",
-      "summary": "自民党総裁選挙は9月12日に告示され、15日間の選挙戦を経て9月27日に新総裁が選出される日程が示された。"
     },
     {
       "categoryId": "base-accounting",
@@ -1226,28 +1018,12 @@
       "summary": "2026年9月11日から適用されるサイバーレジリエンス法における報告義務の内容と実務対応について解説されている。"
     },
     {
-      "categoryId": "base-law",
-      "title": "個人情報保護法とは？企業の義務・対策をわかりやすく解説",
-      "url": "https://www.businesslawyers.jp/articles/1485",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-09T08:00:00.000Z",
-      "summary": "個人情報保護法における企業の義務や実務上の対策がわかりやすく解説されている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "現在開発中の会計基準に関する今後の計画（2026年9月4日）（企業会計基準委員会）～のれんの会計処理及び関連する開示について検討予定～",
       "url": "https://kaikeinews.hatenablog.com/entry/2026/09/07/022721",
       "source": "会計ニュース・コレクター（小石川経理研究所）",
       "publishedAt": "2026-09-07T03:00:00.000Z",
       "summary": "企業会計基準委員会が2026年9月4日に公表した今後の計画で、のれんの会計処理及び関連する開示について検討予定であることが伝えられている。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "対内直接投資等に関する令和8年外為法改正の概要と実務ポイント",
-      "url": "https://www.businesslawyers.jp/articles/1569",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-02T23:00:00.000Z",
-      "summary": "対内直接投資等に関する令和8年の外為法改正の概要と、実務上のポイントが解説されている。"
     },
     {
       "categoryId": "base-law",
