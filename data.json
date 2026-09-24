@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-23T22:21:41.620Z",
+  "syncedAt": "2026-09-24T22:27:27.601Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,12 +34,116 @@
   ],
   "articles": [
     {
+      "categoryId": "base-politics",
+      "title": "高市内閣支持率「ほぼ横ばい」61.6% 中道改革連合の分裂「よかった」54.2%【FNN世論調査 2026年9月】",
+      "url": "https://www.msn.com/ja-jp/news/other/%E9%AB%98%E5%B8%82%E5%86%85%E9%96%A3%E6%94%AF%E6%8C%81%E7%8E%87-%E3%81%BB%E3%81%BC%E6%A8%AA%E3%81%B0%E3%81%84-616-%E4%B8%AD%E9%81%93%E6%94%B9%E9%9D%A9%E9%80%A3%E5%90%88%E3%81%AE%E5%88%86%E8%A3%82-%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F-542-fnn%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB-2026%E5%B9%B49%E6%9C%88/ar-AA2c98tX",
+      "source": "FNN（MSNニュース）",
+      "publishedAt": "2026-09-24T22:20:44.000Z",
+      "summary": "FNNの9月世論調査で高市内閣の支持率が61.6％とほぼ横ばいだったと伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "全ての都道府県で地域別最低賃金の改定額が答申されました",
+      "url": "https://www.mhlw.go.jp/stf/newpage_75950.html",
+      "source": "厚生労働省",
+      "publishedAt": "2026-09-24T22:20:44.000Z",
+      "summary": "全ての都道府県で地域別最低賃金の改定額が答申されたと厚生労働省が発表している。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均サマリー（24日）",
+      "url": "https://www.oanda.jp/lab-education/market_news/mn_1035650_202609241800/",
+      "source": "OANDA",
+      "publishedAt": "2026-09-24T09:00:00.000Z",
+      "summary": "24日の日経平均株価の値動きなど東京市場の動向がまとめられている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均大引け：前日比495.04円高の65513.99円",
+      "url": "https://www.zaikei.co.jp/article/20260924/871065.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-09-24T06:30:00.000Z",
+      "summary": "24日の東京株式市場で日経平均株価は前日比495.04円高の6万5513円99銭で取引を終えたと伝えられている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "為替相場 24日（日本時間11時）",
+      "url": "https://www.nippon.com/ja/news/kd1475553054341366093/",
+      "source": "nippon.com",
+      "publishedAt": "2026-09-24T02:00:00.000Z",
+      "summary": "24日午前11時（日本時間）時点の東京外国為替市場における円相場の状況が伝えられている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日銀9月会合：タカ派的利上げペースに円安で反応",
+      "url": "https://www.pictet.co.jp/investment-information/market/today/20260924.html",
+      "source": "ピクテ投信投資顧問",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "日銀の9月会合の結果を受け、タカ派的な利上げペースを意識して円安方向に市場が反応したと分析されている。"
+    },
+    {
       "categoryId": "base-international",
       "title": "ベセント氏「大きな合意検討」 米中首脳会談へ再協議",
       "url": "https://www.jiji.com/jc/article?k=2026092400123&g=int&m=rss",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "summary": "ベセント米財務長官が米中首脳会談に向けて「大きな合意」を検討する考えを示し、再協議する方針と伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "北朝鮮外相、核保有の意志「永遠不変」＝日米韓共同声明に反発",
+      "url": "https://news.infoseek.co.jp/article/jiji_2026092400672/",
+      "source": "時事通信（Infoseekニュース）",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "北朝鮮外相が、核保有の意志は「永遠不変」だとして日米韓の共同声明に反発したと伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ＡＩ「暴走」の規制議論に一石 オーストラリア政府系機関侵入で高まるリスク",
+      "url": "https://www.jiji.com/jc/article?k=2026092400891&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "オーストラリア政府系機関へのAIによる侵入事案を受け、AIの「暴走」に関する規制議論のリスクが高まっていると伝えられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "「日本は反中・嫌中の世界チャンピオン」 「斬首投稿」の中国総領事、騒動後初めて姿",
+      "url": "https://www.jiji.com/jc/article?k=2026092401035&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "「斬首投稿」で問題となった中国総領事が騒動後初めて姿を見せ、日本を「反中・嫌中の世界チャンピオン」と発言したと伝えられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市首相が帰国",
+      "url": "https://www.jiji.com/jc/article?k=2026092400262&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "高市首相が国連総会出席などの外遊日程を終えて帰国したと伝えられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相動静（９月２４日）",
+      "url": "https://www.jiji.com/jc/article?k=2026092400267&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "高市首相の9月24日の動静が伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "台風26号は強い勢力で沖縄の南へ その後の進路にも注意 本州付近への影響は?",
+      "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/24/40726.html",
+      "source": "tenki.jp(日本気象協会)",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "台風26号が強い勢力で沖縄の南へ進む見込みで、その後の進路や本州付近への影響にも注意が必要だと伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "台風26号(スリゲ) 週末は沖縄の南に達する その後は北上の予想",
+      "url": "https://weathernews.jp/news/202609/240091/",
+      "source": "ウェザーニュース",
+      "publishedAt": "2026-09-24T00:00:00.000Z",
+      "summary": "台風26号（スリゲ）は週末に沖縄の南へ達し、その後は北上する見込みだと伝えられている。"
     },
     {
       "categoryId": "base-economy",
@@ -120,6 +224,38 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-09-23T00:00:00.000Z",
       "summary": "高市首相が臨時国会について、消費税減税法案など国民に身近な法整備で結果を出したい考えを示したと伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "死者９人、不明４人に 台風２５号、捐索続く―千葉・神奈川",
+      "url": "https://www.jiji.com/jc/article?k=2026092300327&g=soc&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "summary": "台風２５号の被害で千葉・神奈川両県の死者が９人、不明が４人となり、捐索が続いていると伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "海外戦没者、取り違え遗骨を初返還 カザフ、ミャンマーへ６柱―厚労省",
+      "url": "https://www.jiji.com/jc/article?k=2026092300485&g=soc&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "summary": "厚生労働省が取り違えていた海外戦没者の遗骨６柱をカザフスタンとミャンマーに初めて返還したと伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "住民「言葉が出ない」 片付けと土砂撃去、にじむ疲労―台風２５号、広範囲で被害・千葉、神奈川",
+      "url": "https://www.jiji.com/jc/article?k=2026092300512&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "summary": "台風２５号による被害を受けた千葉・神奈川両県では片付けや土砂撃去作業が続き、住民の間に疲労がにじんでいると伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "ＪＲ貨物社員を逆捕 ９０万円収賄容疑―福岡県警",
+      "url": "https://www.jiji.com/jc/article?k=2026092300828&g=soc&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "summary": "福岡県警が９０万円の収賄容疑でJR貨物の社員を逆捕したと伝えられている。"
     },
     {
       "categoryId": "base-law",
@@ -618,14 +754,6 @@
       "summary": "9月18日の韓国国内の主なニュースがまとめられている。"
     },
     {
-      "categoryId": "base-international",
-      "title": "露大統領 和平担当の米特使と会談",
-      "url": "https://news.yahoo.co.jp/pickup/6594371",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "ロシア大統領が、和平交渉を担当する米国特使と会談したことが伝えられている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "令和8年改正個人情報保護法の衆議院・参議院の附帯決議（各14項目）の全文と比較分析",
       "url": "https://www.businesslawyers.jp/articles/1559",
@@ -698,14 +826,6 @@
       "summary": "車が横転する事故で10代男性2人が死亡し、運転していた男子高校生が逮捕された。"
     },
     {
-      "categoryId": "base-society",
-      "title": "生活道路で死亡ひき逃げ疑い 逮捕",
-      "url": "https://news.yahoo.co.jp/pickup/6595669",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "生活道路での死亡ひき逃げ事件に関与した疑いで容疑者が逮捕された。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "外務省テロ訓練、衣装が物議 イスラム系を連想、写真削除",
       "url": "https://www.jiji.com/jc/article?k=2026091900094&g=pol&p=20260919at06S&rel=pv",
@@ -720,6 +840,14 @@
       "source": "みんかぶ FX/為替",
       "publishedAt": "2026-09-18T16:02:00.000Z",
       "summary": "ニューヨーク外国為替市場で、日銀がレートチェックを実施したと伝えられている。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "経済産業省「企業買収における行動指針」のポイント・Q&A等を策定",
+      "url": "https://www.businesslawyers.jp/articles/1574",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-18T06:00:00.000Z",
+      "summary": "経済産業省が公表した「企業買収における行動指針」のポイントやQ&A等について解説している。"
     },
     {
       "categoryId": "base-economy",
@@ -794,6 +922,22 @@
       "summary": "18日は九州・中国地方で雨や雷雨となる一方、関東は雲が多く10月上旬並みの気温になる見込み。"
     },
     {
+      "categoryId": "base-law",
+      "title": "早期事業再生法の概要とポイント",
+      "url": "https://www.businesslawyers.jp/articles/1484",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-17T05:30:00.000Z",
+      "summary": "早期事業再生法の概要とそのポイントについて弁護士が解説している。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年10月カスハラ対策が義務化！企業が講ずべき措置",
+      "url": "https://www.businesslawyers.jp/articles/1457",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-17T03:45:00.000Z",
+      "summary": "2026年10月に義務化されるカスタマーハラスメント対策について、企業が講ずべき措置が解説されている。"
+    },
+    {
       "categoryId": "base-economy",
       "title": "日銀、１．２５％に利上げへ ３カ月ぶり、ペース加速―決定会合",
       "url": "https://www.jiji.com/jc/article?k=2026091700822&g=eco",
@@ -842,70 +986,6 @@
       "summary": "粉飾決算の罪に問われているオルツの前社長が、公判で起訴内容を認めたと報じられている。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "東京円、０９銭安の１ドル＝１５４円９７～９９銭",
-      "url": "https://news.yahoo.co.jp/articles/4cb692d4b48d42a48a69ff745a08cf4ee48e360b",
-      "source": "読売新聞オンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "東京外国為替市場で円相場が前日比9銭安の1ドル154円97〜99銭で取引されたと報じられている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東京円、154円台後半",
-      "url": "https://news.yahoo.co.jp/articles/8834369b182804a7c19398f8c54dff5519e932e1",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "9月16日の東京外国為替市場で円相場が1ドル154円台後半で推移したと伝えられている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均、400円超高＝東京株式",
-      "url": "https://news.yahoo.co.jp/articles/c46a95e72e27bf9eb25730e1bcbeaa064fb73e9c",
-      "source": "時事通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "9月16日の東京株式市場で日経平均株価が400円を超える上昇となったと伝えている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均大引け：前日比438.90円高の63923.00円",
-      "url": "https://jp.investing.com/news/forex-news/article-1681896",
-      "source": "Investing.com",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "東京株式市場の大引けで日経平均株価が前日比438.90円高の63923.00円で取引を終えたと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "トランプ氏、燃料不足の原因は「ゼレンスキー氏」 ロシア製油所への攻撃停止求める",
-      "url": "https://news.yahoo.co.jp/articles/e2ea13b9c883359f32b3677fff943f186b2048b7",
-      "source": "AFP＝時事（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "トランプ大統領はウクライナの燃料不足の原因をゼレンスキー大統領にあるとし、ロシアの製油所への攻撃停止を求めた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米中首脳会談が終了、台湾問題で習近平氏「適切に処理されなければ両国は衝突」とトランプ氏けん制",
-      "url": "https://news.yahoo.co.jp/articles/f986edf6dcaa49c7278bef490f34302c81dade65",
-      "source": "読売新聞オンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "米中首脳会談が終了し、習近平国家主席は台湾問題が適切に処理されなければ両国が衝突するとしてトランプ大統領をけん制した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "森衆院議長とエネルギー支援を協議 ウクライナ大統領、高市首相の訪問招請",
-      "url": "https://www.jiji.com/jc/article?k=2026091600137&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "ウクライナ大統領が森衆院議長とエネルギー支援について協議し、高市首相に訪問を招請したと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ウクライナ大統領機、２回標的か モルドバ上空で帰国時も",
-      "url": "https://www.jiji.com/jc/article?k=2026091600191&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "ウクライナ大統領の専用機が、モルドバ上空を含め2回標的とされた可能性があると伝えられている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "不貞行為の賠償命令破棄、最高裁 「破綻信じた理由検討を」",
       "url": "https://news.yahoo.co.jp/articles/2d3880a3cd9a048d8d129d6c9d812abe3470f0d9",
@@ -946,62 +1026,6 @@
       "summary": "警察官の自宅への立ち入りを「適法」と認め、視覚障害のある夫婦の敗訴が最高裁で確定した。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "【独自】総務会長に梶山国対委員長を起用へ 有村総務会長は入閣か 高市総理あす党役員人事、あさって内閣改造を行う方針表明",
-      "url": "https://news.yahoo.co.jp/articles/5f29e1ad187b5a76d9b1da52b0cfb76fc3243ffa",
-      "source": "FNNプライムオンライン（フジテレビ系）（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "高市首相が総務会長に梶山国対委員長を起用する方針を固め、有村総務会長は入閣する可能性があると報じられている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "内閣改造人事は「ロジカル」に？ 刷新感より専門性重視 高市首相、政策実現へ布陣模索",
-      "url": "https://news.yahoo.co.jp/articles/984eaa8d9e6c0d90ced9bee05fe2c759c03c000f",
-      "source": "産経新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "高市首相が内閣改造にあたり刷新感よりも専門性を重視する「ロジカル」な人事を模索し、政策実現に向けた布陣を検討しているとされる。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "あす内閣改造人事 維新・吉村代表と与党党首会談 高市首相がこのあと内定の連絡か",
-      "url": "https://news.yahoo.co.jp/articles/a29f447c6a108156bd01d2502d53ff48e7684292",
-      "source": "日テレNEWS NNN（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "高市首相が内閣改造を翌日に控え、日本維新の会の吉村代表と与党党首会談を行い、人事内定の連絡が行われる見通しと伝えられている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市首相 “人事”大詰めの調整 有村総務会長は留任も含めた要職起用を検討 “総裁選のライバル候補”林総務相の処遇は？",
-      "url": "https://news.yahoo.co.jp/articles/e681e66648bc885d866f6e0ec5d05ff87775b86d",
-      "source": "日テレNEWS NNN（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "高市首相が内閣改造・党役員人事の大詰めの調整を進めており、有村総務会長の処遇や総裁選で争った林総務相の起用が焦点となっている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【速報】車3台が絡む事故…うち1台が横倒しとなり車内に2人閉じ込め＜北海道函館市＞",
-      "url": "https://news.yahoo.co.jp/articles/c217082f0bc5b2204b33b3575bfbf1fe497d2c60",
-      "source": "北海道ニュースUHB（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "北海道函館市で車3台が絡む事故が発生し、うち1台が横倒しになって車内に2人が閉じ込められた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "バイク運転手が重傷のひき逃げ事件 車を運転していた男（91）を逮捕 親族に付き添われ自首 大分",
-      "url": "https://news.yahoo.co.jp/articles/f73e630a03fc49cd71cfb51a9971b7934b4159fe",
-      "source": "TOSテレビ大分（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "大分県でバイク運転手が重傷を負ったひき逃げ事件があり、91歳の男が親族に付き添われて自首し逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【台風情報】シルバーウィークに台風25号直撃か 東海・関東・東北、20〜21日に接近の可能性 進路予想と各地天気の最新情報",
-      "url": "https://news.yahoo.co.jp/articles/fd08841dd9dccea3181fe1a5f5040d313d735171",
-      "source": "FNNプライムオンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "シルバーウィークに台風25号が東海・関東・東北へ直撃する恐れがあり、20〜21日に接近する可能性があると伝えられている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "自民党・日本維新の会 飲食料品の消費税率引下げに係る大綱を決定",
       "url": "https://www.zeiken.co.jp/news/25969013.php",
@@ -1018,28 +1042,20 @@
       "summary": "自民党と日本維新の会が、連立後初めてとなる令和8年度の与党税制改正大網を決定したと伝えられている。"
     },
     {
+      "categoryId": "base-law",
+      "title": "利用規約が無効に？差止請求事例を踏まえた見直しポイント",
+      "url": "https://www.businesslawyers.jp/articles/1370",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-16T01:50:00.000Z",
+      "summary": "利用規約が無効とされた差止請求事例を踏まえ、規約の見直しポイントが解説されている。"
+    },
+    {
       "categoryId": "base-accounting",
       "title": "【速報】政府は消費減税に関する税制改正大網を閘議決定した",
       "url": "https://www.jiji.com/jc/article?k=2026091500787&g=flash",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-15T03:00:00.000Z",
       "summary": "政府が消費減税に関する税制改正大網を閘議決定した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "外国籍の生活保護認めず 「違憲」反対意見も 最高裁",
-      "url": "https://news.yahoo.co.jp/articles/a6c2607b048e1e42cd6caff4ead3eafa34a9e607",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "最高裁は外国籍者への生活保護支給を認めない判断を示し、判事の一人からは「違憲」とする反対意見も出された。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "療養中の外国人の生活保護、支給認めず 最高裁 判事1人は反対",
-      "url": "https://news.yahoo.co.jp/articles/f19206c996b12063f9901eb1d309d95461904744",
-      "source": "毎日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "療養中の外国人に対する生活保護の支給を認めない最高裁判断が示され、判事1人が反対意見を述べた。"
     },
     {
       "categoryId": "base-law",
@@ -1080,14 +1096,6 @@
       "source": "税務研究会",
       "publishedAt": "2026-09-14T03:00:00.000Z",
       "summary": "のれんの会計処理をめぐり、まずは実務の改善可能性を検討する動きが伝えられている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "事業承継の準備が会社の「今」を強くする【中小企業のための経営情報｜マネジメント倶楽部デジタル9月号】",
-      "url": "https://www.zeiken.co.jp/zeikenpress/column/0037zp20260914/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-14T03:00:00.000Z",
-      "summary": "中小企業における事業承継の準備が現在の経営を強くするという観点から解説する記事。"
     },
     {
       "categoryId": "base-law",
@@ -1168,6 +1176,14 @@
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-09-01T03:00:00.000Z",
       "summary": "2026年9月に企業が押さえておくべき海外の法制度・規制の最新動向がまとめられている。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "改正企業会計基準第27号「法人税等に関する会計基準」等の公表",
+      "url": "https://www.asb-j.jp/jp/accounting_standards/y2026/2026-0707.html",
+      "source": "企業会計基準委員会",
+      "publishedAt": "2026-07-07T00:00:00.000Z",
+      "summary": "企業会計基準委員会が改正企業会計基準第27号「法人税等に関する会計基準」等を公表したと伝えられている。"
     }
   ]
 }
