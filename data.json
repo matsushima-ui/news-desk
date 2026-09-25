@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-24T22:27:27.601Z",
+  "syncedAt": "2026-09-25T22:24:47.061Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -135,7 +135,7 @@
       "url": "https://tenki.jp/forecaster/t_yoshida/2026/09/24/40726.html",
       "source": "tenki.jp(日本気象協会)",
       "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "台風26号が強い勢力で沖縄の南へ進む見込みで、その後の進路や本州付近への影響にも注意が必要だと伝えられている。"
+      "summary": "台風26号は強い勢力で沖縄の南へ進む見込みで、その後の進路や本州付近への影響にも注意が必要だと伝えられている。"
     },
     {
       "categoryId": "base-society",
@@ -667,14 +667,6 @@
     },
     {
       "categoryId": "base-society",
-      "title": "「運転代行お金がかかるから…」酒酔い運転疑い、韓国籍の男を逮捕 鹿児島",
-      "url": "https://news.livedoor.com/topics/detail/32367193/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-19T03:00:00.000Z",
-      "summary": "運転代行の料金を惜しんだとして酒気帯び運転の疑いで韓国籍の男が鹿児島県警に逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "台風25号 接近前から激しい雨で大雨のおそれ 関東では猛烈な風 警戒時間帯は?",
       "url": "https://tenki.jp/forecaster/domoto_yukiyo/2026/09/19/40667.html",
       "source": "tenki.jp(日本気象協会)",
@@ -706,54 +698,6 @@
       "summary": "政府が消費税減税を盛り込んだ税制改正大綱を決定したことを伝えている。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "東京株式 18日終値",
-      "url": "https://news.yahoo.co.jp/articles/ee238440653955b541379be2fcee5d3b95f77939",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "9月18日の東京株式市場の終値の状況を伝えている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "為替相場 18日（日本時間16時）",
-      "url": "https://www.nippon.com/ja/news/kd1473378728052802240/",
-      "source": "nippon.com",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "9月18日午後4時(日本時間)時点の為替相場の状況を伝えている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日本経済指標【日銀政策金利】",
-      "url": "https://fx.minkabu.jp/news/379418",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "日銀の政策金利に関する最新の経済指標情報が伝えられている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東京マーケットダイジェスト・18日 円安・株高",
-      "url": "https://www.oanda.jp/lab-education/market_news/mn_1034806_202609181540/",
-      "source": "OANDA",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "9月18日の東京市場は円安・株高の展開となった。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "日比海洋交渉に中国猛反発 台湾、船舶臨検を警戒",
-      "url": "https://news.yahoo.co.jp/articles/32398ed6fd9eb130dad49396a3bff240617ed3f0",
-      "source": "時事通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "日本とフィリピンの海洋境界交渉に中国が猛反発し、台湾は船舶への臨検を警戒しているとされる。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "韓国 きょうのニュース（9月18日）",
-      "url": "https://news.yahoo.co.jp/articles/6fd31ffdd9510f69a4181fd904a9611aa5de8cdf",
-      "source": "聯合ニュース（Yahoo!ニュース）",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "9月18日の韓国国内の主なニュースがまとめられている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "令和8年改正個人情報保護法の衆議院・参議院の附帯決議（各14項目）の全文と比較分析",
       "url": "https://www.businesslawyers.jp/articles/1559",
@@ -776,54 +720,6 @@
       "source": "朝日新聞（Yahoo!ニュース）",
       "publishedAt": "2026-09-18T22:07:04.000Z",
       "summary": "個人情報保護法の改正案が参議院の特別委員会で可決され、近く成立する見通しとなった。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "【速報】第2次高市改造内閣の顔ぶれは？ 木原官房長官が閣僚名簿を発表",
-      "url": "https://news.yahoo.co.jp/articles/48cc9b944486e4c601a3317424c4085a2a18684a",
-      "source": "TBS NEWS DIG（Yahoo!ニュース）",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "木原官房長官が第2次高市改造内閣の閣僚名簿を発表した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "第2次高市改造内閣が発足 18閣僚のうち10人交代",
-      "url": "https://www.projectdesign.jp/articles/news/b3b4439e-5b5a-439c-862e-775fccdba9d8",
-      "source": "事業構想オンライン",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "高市首相の下で第2次改造内閣が発足し、18閣僚のうち10人が交代した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "第2次高市改造内閣の顔ぶれ : 裏金議員2人が初入閣、維新も閣内へ",
-      "url": "https://www.nippon.com/ja/japan-data/h02906/",
-      "source": "nippon.com",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "第2次高市改造内閣が発足し、政治とカネ問題に関わった議員2人が初入閣、日本維新の会も初めて閣内に加わった。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "第２次高市改造内閣が発足　「決断と実行」主要閣僚留任―裏金議員起用、林氏は退任・維新から初入閣",
-      "url": "https://www.jiji.com/jc/article?k=2026091700731&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "第2次高市改造内閣が発足し、主要閣僚は留任する一方、政治とカネ問題に関わった議員が起用され、林氏は退任、日本維新の会から初入閣した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "台風25号(ドゥージェン) 21日(月)に強い勢力で関東接近のおそれ",
-      "url": "https://weathernews.jp/news/202609/180321/",
-      "source": "ウェザーニュース",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "台風25号(ドゥージェン)が21日に強い勢力で関東へ接近するおそれがあると伝えている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "車横転で10代男性2人死亡 男子高校生を逮捕",
-      "url": "https://news.yahoo.co.jp/articles/4ebab949841c5617a1436ffafb632ecb66a36964",
-      "source": "FNNプライムオンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-18T22:07:04.000Z",
-      "summary": "車が横転する事故で10代男性2人が死亡し、運転していた男子高校生が逮捕された。"
     },
     {
       "categoryId": "base-politics",
@@ -851,27 +747,11 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "日銀、１．２５％に利上げ 決定会合、物価高でペース加速―３カ月ぶり、次は今冬の見方も",
-      "url": "https://www.jiji.com/jc/article?k=2026091800484&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-18T03:00:00.000Z",
-      "summary": "日銀が金融政策決定会合で政策金利を1.25%に引き上げることを決定し、物価高を背景に利上げペースが加速、次回は今冬との見方も出ている。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "日銀総裁「政策の局面が変化」 物価、原油高で上振れリスク―利上げペース加速、１．２５％決定",
       "url": "https://www.jiji.com/jc/article?k=2026091800671&g=eco&p=20260918at39S&rel=pv",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-18T03:00:00.000Z",
       "summary": "日銀総裁が金融政策の局面が変化したと述べ、原油高による物価上振れリスクを踏まえ利上げペースを加速し政策金利を1.25%とする決定を説明したと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "新関税、米中首脳会談後に トランプ政権、対立回避優先―報道",
-      "url": "https://www.jiji.com/jc/article?k=2026091800192&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-18T03:00:00.000Z",
-      "summary": "トランプ政権が対中新関税の発動を米中首脳会談後に先送りする方針で、対立回避を優先しているとの報道が伝えられている。"
     },
     {
       "categoryId": "base-law",
@@ -914,14 +794,6 @@
       "summary": "政府が消費税減税を盛り込んだ税制改正大綱を決定したことを伝えている。"
     },
     {
-      "categoryId": "base-society",
-      "title": "九州・中国で雨や雷雨 関東は雲が多め10月上旬並みの気温 今日18日(金)の天気",
-      "url": "https://news.yahoo.co.jp/articles/174a09d53fe2c81939f6f271335f6bd6a48df048",
-      "source": "tenki.jp（Yahoo!ニュース）",
-      "publishedAt": "2026-09-17T22:00:00.000Z",
-      "summary": "18日は九州・中国地方で雨や雷雨となる一方、関東は雲が多く10月上旬並みの気温になる見込み。"
-    },
-    {
       "categoryId": "base-law",
       "title": "早期事業再生法の概要とポイント",
       "url": "https://www.businesslawyers.jp/articles/1484",
@@ -946,14 +818,6 @@
       "summary": "日銀が金融政策決定会合で政策金利を１．２５％に引き上げることを決定し、３カ月ぶりの利上げでペースが加速していると伝えられている。"
     },
     {
-      "categoryId": "base-international",
-      "title": "豊臣秀吉登場に抗議 アジア大会行事で―韓国",
-      "url": "https://www.jiji.com/jc/article?k=2026091701042&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-17T03:00:00.000Z",
-      "summary": "アジア大会の関連行事に豊臣秀吉を模したキャラクターが登場したことに対し、韓国側から抗議の声が上がっている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "決済代行の全東信、粉飾決算疑い 債務超過600億円以上か",
       "url": "https://news.yahoo.co.jp/articles/37cc046b3d89cd5de1920d2b90d0584ee748543d",
@@ -968,22 +832,6 @@
       "source": "東京商工リサーチ（Yahoo!ニュース）",
       "publishedAt": "2026-09-16T22:08:11.000Z",
       "summary": "企業の再生支援の現場で銀行員が感じた粉飾決算への「違和感」について、実務家座談会の内容を伝えている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "【オルツ粉飾決算裁判】「ないものは作るというカルチャーがあった」「社長が右を向けば(社員も)右を向くという組織だった」…財務責任者の日置友輔被告が9月7日の第2回公判で語った真相",
-      "url": "https://news.yahoo.co.jp/articles/84192af0a9cf15ad34044fed03e07842edf4866b",
-      "source": "東洋経済オンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "オルツの粉飾決算事件の公判で、財務責任者だった被告が社内で「ないものは作る」文化があったと証言したと伝えられている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "粉飾決算「オルツ」前社長が起訴内容を認める",
-      "url": "https://news.yahoo.co.jp/articles/89f074ce4c980b742ae32d5f2f516ca6b71f7918",
-      "source": "ABEMA TIMES（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "粉飾決算の罪に問われているオルツの前社長が、公判で起訴内容を認めたと報じられている。"
     },
     {
       "categoryId": "base-law",
@@ -1008,22 +856,6 @@
       "source": "テレビ朝日系（ANN）（Yahoo!ニュース）",
       "publishedAt": "2026-09-16T22:08:11.000Z",
       "summary": "リニア中央新幹線工事をめぐる談合事件で、大成建設と鹿島の元幹部の有罪が最高裁で確定する見通しとなった。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "死刑囚の手紙で再審依頼を黒塗り、国への賠償命令が確定 最高裁",
-      "url": "https://news.yahoo.co.jp/articles/cd54e617142ad2dd150d782904bdfd22d9d0e19a",
-      "source": "朝日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "死刑囚が再審請求を依頼した手紙を刑務所側が黒塗りにした件で、国に賠償を命じる判決が最高裁で確定した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "警察官の立ち入りは「適法」、視覚障害の夫婦の敗訴が確定 最高裁",
-      "url": "https://news.yahoo.co.jp/articles/e21027eb5ba1b9ea0ee34364fc613a4db854f154",
-      "source": "朝日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-16T22:08:11.000Z",
-      "summary": "警察官の自宅への立ち入りを「適法」と認め、視覚障害のある夫婦の敗訴が最高裁で確定した。"
     },
     {
       "categoryId": "base-accounting",
@@ -1056,22 +888,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-09-15T03:00:00.000Z",
       "summary": "政府が消費減税に関する税制改正大網を閘議決定した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "京大職員組合の敗訴確定 立て看板撤去訴訟、最高裁",
-      "url": "https://news.yahoo.co.jp/articles/fcd08a24b833319e0768a6f7f60b27000aa145dc",
-      "source": "共同通信（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "京都大学の立て看板撤去をめぐる訴訟で、京大職員組合の敗訴が最高裁で確定した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "被災者向け住宅から転居せず、女性への家賃支払い命令が確定 最高裁",
-      "url": "https://news.yahoo.co.jp/articles/fdd63c5ea833a042d7f87ea19a1fba37047831e0",
-      "source": "朝日新聞（Yahoo!ニュース）",
-      "publishedAt": "2026-09-15T01:34:39.000Z",
-      "summary": "被災者向け住宅からの転居を拒んだ女性に家賃支払いを命じる判決が最高裁で確定した。"
     },
     {
       "categoryId": "base-accounting",
@@ -1136,14 +952,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-09-11T03:00:00.000Z",
       "summary": "最高裁が外国籍者への生活保護支給を認めない判断を示し、判事1人からは「違憲」とする反対意見も出された。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "【2026年9月11日適用】サイバーレジリエンス法の報告義務と実務対応",
-      "url": "https://unitis.jp/articles/24097/",
-      "source": "UNITIS",
-      "publishedAt": "2026-09-11T03:00:00.000Z",
-      "summary": "2026年9月11日から適用されるサイバーレジリエンス法における報告義務の内容と実務対応について解説されている。"
     },
     {
       "categoryId": "base-accounting",
