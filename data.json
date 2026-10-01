@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-09-30T05:08:48.554Z",
+  "syncedAt": "2026-10-01T05:08:20.706Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -35,11 +35,203 @@
   "articles": [
     {
       "categoryId": "base-economy",
+      "title": "〔東京外為〕ドル、156円台後半＝期末要因の売りで下落（30日正午）（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/ccf30865303df75f646ceb4ea41b3f1fed8fbbd5",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "30日正午の東京外国為替市場で、期末要因のドル売りによりドルが156円台後半に下落したと伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "【2026年10月】仕入税額控除の経過措置が80％→70％に縮小。発注側・受注側の備えを税理士が解説（税理士ドットコム）",
+      "url": "https://news.yahoo.co.jp/articles/857e26e429dd775a39465b82a74529b55557406d",
+      "source": "Yahoo!ニュース（税理士ドットコム）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "2026年10月からインボイス制度の仕入税額控除に関する経過措置が80%から70%に縮小されることを受け、発注側・受注側が備えるべき対応を税理士が解説する記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均、1400円超高＝東京株式（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/7a02f2538c85c35debb7f6319dfc5bbb940cd156",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "30日の東京株式市場で日経平均株価が一時1400円を超えて上昇したと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均株価 一時1000円超値上がり AI半導体銘柄に買い広がる（テレビ朝日系（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/b94f3ee5544c52b72280f57dfc805cc30fadd4ef",
+      "source": "Yahoo!ニュース（ANN）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "30日の東京株式市場で日経平均株価が一時1000円を超えて値上がりし、AI関連の半導体銘柄に買いが広がったと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日本市場、米半導体株高受け日経平均反発へ－2年債利回り2%乗せ焦点（Bloomberg）",
+      "url": "https://news.yahoo.co.jp/articles/c9226c95750d0d45f49faa0166bd2c52e2e8ae08",
+      "source": "Yahoo!ニュース（Bloomberg）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "米半導体株高を受けて日経平均株価が反発する見通しで、2年債利回りが2%に乗せるかが焦点となっていると伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "年収300万円上限に給付 新制度案、働き手支援",
+      "url": "https://news.livedoor.com/article/detail/32450297",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "所得連動型の現金給付制度を巡り、対象者の年収上限を300万円程度とする新制度案が浮上していると伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
       "title": "9月29日のNY為替概況",
       "url": "https://www.zaikei.co.jp/article/20260930/871656.html",
       "source": "財経新聞",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "summary": "9月29日のニューヨーク外国為替市場の値動きの概況を伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "岩屋前外務大臣が中国副首相と会談 何立峰氏「誤った言動による困難や矛盾を乗り越えた後に発展を推進できる」（FNN）",
+      "url": "https://news.yahoo.co.jp/articles/54791e71d3e44c0aff3f127949f95201d534c0ff",
+      "source": "Yahoo!ニュース（FNN）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "岩屋前外務大臣が中国の何立峰副首相と会談し、両国関係の発展について意見を交わしたと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名（ITmedia NEWS）",
+      "url": "https://news.yahoo.co.jp/articles/781222239070e7628bbdf75a214e04c414f8a467",
+      "source": "Yahoo!ニュース（ITmedia NEWS）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "トランプ米大統領がAI企業トップらとの昼食会に合わせ、政府内で「AI」の呼称を「SI（超知能）」に改める大統領令に署名したと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ氏、CNNなど3社「ホワイトハウスから締め出し」と発表（ＡＦＰ＝時事）",
+      "url": "https://news.yahoo.co.jp/articles/872d465ab2149f9d763fc94ecfa6f1315b4c0b7d",
+      "source": "Yahoo!ニュース（AFP=時事）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "トランプ大統領が、CNNなど報道機関3社をホワイトハウスの取材から締め出すと発表したと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "韓国主要紙の朝刊ヘッドライン（9月30日）（聯合ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/e4a8823ea69b417e8381648d9f82a36dcbf3ad34",
+      "source": "Yahoo!ニュース（聯合ニュース）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "9月30日付の韓国主要紙朝刊の見出しをまとめて紹介する記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "改正犯罪収益移転防止法と「送金犯罪」の核心",
+      "url": "https://www.businesslawyers.jp/lib/publications/18ba63f99fef06f5f8f1cf87a20f3edb95df0c0ad760ff7d4d41f2acf9f0b21c",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "改正犯罪収益移転防止法の内容と、「送金犯罪」対策における実務上の核心的なポイントを解説する記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "不貞行為の賠償命令破棄、最高裁 「破綻信じた理由検討を」（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/2d3880a3cd9a048d8d129d6c9d812abe3470f0d9",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "不貞行為を理由とする賠償命令について、最高裁が破棄し、婚姻関係が破綻していたと信じた理由を検討するよう求めたと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "日本版DBS対応の実務論点",
+      "url": "https://www.businesslawyers.jp/lib/publications/bb3cace2b3bb87090ef0eaab889fe7ddfd77f6f49e02e20793a07d31e7bc8922",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "日本版DBS（性犯罪歴確認制度）への対応をめぐる企業実務上の論点を解説する記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "死刑囚の手紙で再審依頼を黒塗り、国への賠償命令が確定 最高裁（朝日新聞）",
+      "url": "https://news.yahoo.co.jp/articles/cd54e617142ad2dd150d782904bdfd22d9d0e19a",
+      "source": "Yahoo!ニュース（朝日新聞）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "死刑囚が再審請求を依頼した手紙の一部を刑務所が黒塗りにしたことを違法とし、国に賠償を命じた判決が最高裁で確定したと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "警察官の立ち入りは「適法」、視覚障害の夫婦の敗訴が確定 最高裁（朝日新聞）",
+      "url": "https://news.yahoo.co.jp/articles/e21027eb5ba1b9ea0ee34364fc613a4db854f154",
+      "source": "Yahoo!ニュース（朝日新聞）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "警察官による自宅への立ち入りを適法と判断し、視覚障害のある夫婦の敗訴が最高裁で確定したと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "声にも「パブリシティー権」初判断 生成ＡＩで模倣、人気声優訴え―削除請求は退ける・東京地裁",
+      "url": "https://www.jiji.com/jc/article?g=soc&k=2026093000118",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "生成AIによる声の模倣を巡り、東京地裁が声にもパブリシティー権が及び得るとの初判断を示したが、人気声優の削除請求は退けたと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "内閣支持率45％に上昇、3カ月ぶり不支持率を逆転 世論調査（毎日新聞）",
+      "url": "https://news.yahoo.co.jp/articles/46064192f4c390113f5fe74cc229dd928b40dc48",
+      "source": "Yahoo!ニュース（毎日新聞）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "毎日新聞の世論調査で内閣支持率が45%に上昇し、3カ月ぶりに不支持率を上回ったと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相の所信表明演説原案が判明（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/979a1f51fc5fe1e37e64908e9d73656f8e13e703",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "高市首相が臨時国会で行う所信表明演説の原案の内容が判明したと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相出席減を野党警戒 臨時国会、与党が効率化主張（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/b425b8b384cdab05c847e72ce37088514ddbe7b1",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "臨時国会での首相の本会議出席機会を減らす与党の効率化方針に対し、野党が警戒感を示していると伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "渡辺孝一衆院議員をしのび献花 21票差の比例復活…7カ月後の訃報（朝日新聞）",
+      "url": "https://news.yahoo.co.jp/articles/e762e01588e07151687fcef62cc4655e5460c6b3",
+      "source": "Yahoo!ニュース（朝日新聞）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "21票差で比例復活当選した渡辺孝一衆院議員が当選7カ月後に死去し、献花が行われたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【事件】広島の医師を逮捕 13歳未満の女の子に対し淫行など勧誘した疑い（中国新聞デジタル）",
+      "url": "https://news.yahoo.co.jp/articles/03db796096d807a899683fef0b36eee1825df004",
+      "source": "Yahoo!ニュース（中国新聞デジタル）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "13歳未満の女の子に対しわいせつな行為などを勧誘したとして、広島県内の医師の男が逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "男性の背後から抱きつき…暴行加え携帯電話を奪った疑い 闇バイトのリクルーター（30）と実行役（20）を逮捕 名古屋（CBCテレビ）",
+      "url": "https://news.yahoo.co.jp/articles/1ef217a4e5ebe315b2a04cd6a3a6f973ef66d46a",
+      "source": "Yahoo!ニュース（CBCテレビ）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "名古屋市内で男性の背後から抱きついて暴行を加え携帯電話を奪ったとして、闇バイトのリクルーターと実行役の男2人が逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "集団で20代女性に性的暴行を加えた疑い 解体作業員ら男5人を逮捕 岡山県警（KSB瀬戸内海放送）",
+      "url": "https://news.yahoo.co.jp/articles/6062f8f4486708eb075c5572dd2faec7b56b9fb7",
+      "source": "Yahoo!ニュース（KSB瀬戸内海放送）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "集団で20代女性に性的暴行を加えたとして、解体作業員ら男5人が岡山県警に逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "自宅で生後11カ月の娘の首をタオルで絞めて持ち上げたか 27歳父親を殺人未遂の疑いで逮捕（東海テレビ）",
+      "url": "https://news.yahoo.co.jp/articles/c0e8913911bb0c130128d4ddb38e0d0324c7933e",
+      "source": "Yahoo!ニュース（東海テレビ）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "自宅で生後11カ月の娘の首をタオルで絞めて持ち上げたとして、27歳の父親が殺人未遂の疑いで逮捕され、容疑を否認していると伝える記事。"
     },
     {
       "categoryId": "base-international",
@@ -290,6 +482,14 @@
       "summary": "令和9年度税制改正要望のうち、資産税関係の項目について解説するコラム。"
     },
     {
+      "categoryId": "base-accounting",
+      "title": "令和8年分の年末調整に係る改正ポイント",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0007pp20260928/",
+      "source": "ZEIKEN PRESS(税務研究会)",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "summary": "令和8年分の年末調整における改正ポイントを解説するコラム。"
+    },
+    {
       "categoryId": "base-economy",
       "title": "金利引き上げ「機動的に」",
       "url": "https://www.daily.co.jp/society/economics/2026/09/28/0020868675.shtml",
@@ -455,7 +655,7 @@
       "url": "https://news.yahoo.co.jp/articles/6145200c9c0b1cb73c298fb771aaa4527b385862",
       "source": "TBS NEWS DIG（Yahoo!ニュース）",
       "publishedAt": "2026-09-27T00:00:00.000Z",
-      "summary": "群馬県太田市の女性殺人事件で公開手配されていた長女の元夫(30)が逮捕された。長男への殺人未遂容疑でも手配されていた。"
+      "summary": "群馬県太田市の女性殺人事件で公開手配されていた長女の元夫（30）が逮捕された。長男への殺人未遂容疑でも手配されていた。"
     },
     {
       "categoryId": "base-accounting",
@@ -464,22 +664,6 @@
       "source": "時事ドットコム（プレスリリース）",
       "publishedAt": "2026-09-26T22:21:15.000Z",
       "summary": "OBCが、2026年10月から見直されるインボイス制度の経過措置に会計ソフト『奉行クラウド』を対応させたと発表した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "「強い円が望ましい」 日米財務相会談でベセント氏",
-      "url": "https://www.jiji.com/jc/article?k=2026092600125&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "日米財務相会談で、米国のベセント財務長官が「強い円が望ましい」との認識を示した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "ユニコーン創出、道半ば 新興企業育成の課題を聞く―スタートアップ",
-      "url": "https://www.jiji.com/jc/article?k=2026092600317&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "ユニコーン企業の創出が道半ばであるとして、新興企業育成をめぐる課題が伝えられている。"
     },
     {
       "categoryId": "base-economy",
@@ -512,14 +696,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-09-26T00:00:00.000Z",
       "summary": "中国の習近平国家主席が、トランプ米大統領との間で今年あと2回会う機会があるとの見通しを示し、訪中を歓迎する意向を示した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "【速報】中国国営通信によると、中米両軍は危機時の意思疎通と予防を強化する覚書の早期締結で合意した",
-      "url": "https://www.jiji.com/jc/article?k=2026092600356&g=flash&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "中国国営通信によると、米中両軍は危機発生時の意思疎通と予防を強化する覚書の早期締結で合意した。"
     },
     {
       "categoryId": "base-politics",
@@ -587,30 +763,6 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "長期金利、一時３．１１５％に上昇 ３０年ぶり高水準、米国債安で",
-      "url": "https://www.jiji.com/jc/article?k=2026092500318&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "米国債安を受け長期金利が一時3.115%まで上昇し、約30年ぶりの高水準となった。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "城内経財相「リフレ局面、終わった」 高市政権の経済政策方針で",
-      "url": "https://www.jiji.com/jc/article?k=2026092500579&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "城内経済財政相が、高市政権の経済政策方針についてリフレ局面は終わったとの見解を示した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "金利上昇、世界で鮮明に 原油高でインフレ懸念拡大",
-      "url": "https://www.jiji.com/jc/article?k=2026092500931&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "原油高によるインフレ懸念の拡大を背景に、世界的に金利上昇の動きが鮮明になっている。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "【↑】日経平均 大引け｜ 5日続伸、半導体関連や銀行株が買われる (9月25日)",
       "url": "https://kabutan.jp/news/marketnews/?b=n202609251042",
       "source": "株探ニュース",
@@ -624,22 +776,6 @@
       "source": "ライブドアニュース",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "日経平均株価の終値が前日比850円高の6万6364円となり、5営業日連続で上昇したと伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "「中米は日本と戦った」 習氏",
-      "url": "https://www.jiji.com/jc/article?k=2026092500300&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "習近平国家主席が、米国と中国はかつて日本と戦った関係にあると発言したと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米中首脳会談・識者談話（２）",
-      "url": "https://www.jiji.com/jc/article?k=2026092500921&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "米中首脳会談を受けた識者による談話がまとめられている。"
     },
     {
       "categoryId": "base-law",
@@ -667,51 +803,11 @@
     },
     {
       "categoryId": "base-society",
-      "title": "ｔｉｍｅｌｅｓｚ猪俣さん釈放 傷害容疑で逮捕、女性と示談―警視庁",
-      "url": "https://www.jiji.com/jc/article?k=2026092500849&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "傷害容疑で逮捕されていたtimeleszの猪俣さんが、女性側との示談が成立し釈放された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「画期的」「勇気づけられた」 東京地裁の違憲判断に原告ら喜び―未成年者訴訟",
-      "url": "https://www.jiji.com/jc/article?k=2026092501030&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "未成年者の選挙運動を制限する規定を違憲とした東京地裁判決を受け、原告らが「画期的」「勇気づけられた」と喜びの声を上げた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "広島カープ矢野選手を書類送検 ゾンビたばこ巡り容疑否定―県警",
-      "url": "https://www.jiji.com/jc/article?k=2026092501232&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "広島東洋カープの矢野選手が「ゾンビたばこ」をめぐり書類送検され、本人は容疑を否認している。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "【台風26号】沖縄の最新情報まとめ 進路・休業・交通・イベント中止などを随時更新",
       "url": "https://www.okinawatimes.co.jp/articles/-/1931667",
       "source": "沖縄タイムス",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "台風26号の沖縄への影響について、進路や休業・交通情報、イベント中止情報をまとめた記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市内閣支持率「ほぼ横ばい」61.6% 中道改革連合の分裂「よかった」54.2%【FNN世論調査 2026年9月】",
-      "url": "https://www.msn.com/ja-jp/news/other/%E9%AB%98%E5%B8%82%E5%86%85%E9%96%A3%E6%94%AF%E6%8C%81%E7%8E%87-%E3%81%BB%E3%81%BC%E6%A8%AA%E3%81%B0%E3%81%84-616-%E4%B8%AD%E9%81%93%E6%94%B9%E9%9D%A9%E9%80%A3%E5%90%88%E3%81%AE%E5%88%86%E8%A3%82-%E3%82%88%E3%81%8B%E3%81%A3%E3%81%9F-542-fnn%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB-2026%E5%B9%B49%E6%9C%88/ar-AA2c98tX",
-      "source": "FNN（MSNニュース）",
-      "publishedAt": "2026-09-24T22:20:44.000Z",
-      "summary": "FNNの9月世論調査で高市内閣の支持率が61.6％とほぼ横ばいだったと伝えられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "「限定的な停戦」追求も ロシア、ウクライナが関心―米国務長官",
-      "url": "https://www.jiji.com/jc/article?k=2026092400178&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-24T03:00:00.000Z",
-      "summary": "米国務長官が、ロシアとウクライナ双方が「限定的な停戦」の追求に関心を示していると述べたと伝えられている。"
     },
     {
       "categoryId": "base-accounting",
@@ -739,22 +835,6 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "高市首相が帰国",
-      "url": "https://www.jiji.com/jc/article?k=2026092400262&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "高市首相が国連総会出席などの外遊日程を終えて帰国したと伝えられている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（９月２４日）",
-      "url": "https://www.jiji.com/jc/article?k=2026092400267&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "高市首相の9月24日の動静が伝えられている。"
-    },
-    {
-      "categoryId": "base-politics",
       "title": "民主改革の会１８人で船出 公明は復党了承、統一会派「中道」結成",
       "url": "https://www.jiji.com/jc/article?k=2026092400831&g=pol",
       "source": "時事ドットコム",
@@ -763,51 +843,11 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "国会議員の政治資金収入３年ぶり増加、１位は高市首相２億５５３７万円…自民党議員がトップ１０独占",
-      "url": "https://news.yahoo.co.jp/articles/384a2e746cf222321811db01487996470ff6d6a6",
-      "source": "読売新聞オンライン（Yahoo!ニュース）",
-      "publishedAt": "2026-09-23T22:16:34.000Z",
-      "summary": "国会議員の政治資金収入が3年ぶりに増加し、高市首相が2億5537万円で1位となるなど自民党議員が上位10位を独占したと報じられている。"
-    },
-    {
-      "categoryId": "base-politics",
       "title": "ゼレンスキー氏、軍事支援要請か 高市首相、就任後初の対面会談",
       "url": "https://www.jiji.com/jc/article?k=2026092300186&g=pol",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-23T03:00:00.000Z",
       "summary": "高市首相とウクライナのゼレンスキー大統領が就任後初めて対面で会談し、ゼレンスキー氏が軍事支援を要請したとみられている。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "令和8年改正個人情報保護法とは？ポイントを弁護士が解説",
-      "url": "https://www.businesslawyers.jp/articles/1521",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-22T22:18:42.000Z",
-      "summary": "令和8年に改正された個人情報保護法について、改正のポイントを弁護士が解説している。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "能動的サイバー防御法による企業への影響と対応",
-      "url": "https://unitis.jp/articles/16521/",
-      "source": "UNITIS",
-      "publishedAt": "2026-09-22T22:18:42.000Z",
-      "summary": "能動的サイバー防御法が一般企業や基幹インフラ事業者、通信事業者などに与える影響と実務対応について解説している。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "第583回企業会計基準委員会の概要",
-      "url": "https://www.asb-j.jp/jp/project/proceedings/y2026/2026-0903.html",
-      "source": "企業会計基準委員会",
-      "publishedAt": "2026-09-21T22:18:48.000Z",
-      "summary": "企業会計基準委員会が第583回委員会の概要を公表している。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "金融庁「令和９年度税制改正要望」を公表",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/09/202609_14154/",
-      "source": "TKCエクスプレス",
-      "publishedAt": "2026-09-21T22:18:48.000Z",
-      "summary": "金融庁が令和9年度税制改正要望を公表したと伝えられている。"
     },
     {
       "categoryId": "base-international",
@@ -850,6 +890,14 @@
       "summary": "国税庁が消費税率引下げに関する特設サイトを公開し、Q&Aや説明動画などを掲載したと伝える記事。"
     },
     {
+      "categoryId": "base-accounting",
+      "title": "退職給付会計セミナー：実務に直結した仕訳とワークシート基礎",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0016pp20260917/",
+      "source": "ZEIKEN PRESS(税務研究会)",
+      "publishedAt": "2026-09-17T00:00:00.000Z",
+      "summary": "退職給付会計について、実務に直結する仕訳やワークシートの基礎を解説するセミナー紹介記事。"
+    },
+    {
       "categoryId": "base-politics",
       "title": "内閣支持４４％、最低更新 「裏金」登用に７割反対―時事世論調査",
       "url": "https://www.jiji.com/jc/article?k=2026091700746&g=pol",
@@ -858,28 +906,12 @@
       "summary": "時事通信の世論調査で内閣支持率が44%と過去最低を更新し、「裏金」議員の登用に7割が反対と回答した。"
     },
     {
-      "categoryId": "base-accounting",
-      "title": "自民党・日本維新の会 連立後初の令和8年度与党税制改正大網を決定",
-      "url": "https://www.zeiken.co.jp/news/35359360.php",
-      "source": "税務研究会",
-      "publishedAt": "2026-09-16T03:00:00.000Z",
-      "summary": "自民党と日本維新の会が、連立後初めてとなる令和8年度の与党税制改正大網を決定したと伝えられている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "利用規約が無効に？差止請求事例を踏まえた見直しポイント",
       "url": "https://www.businesslawyers.jp/articles/1370",
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-09-16T01:50:00.000Z",
       "summary": "利用規約が無効とされた差止請求事例を踏まえ、規約の見直しポイントが解説されている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "運航団体「誠実に事実と向き合う」 辺野古転覆から半年、謝罪声明",
-      "url": "https://www.jiji.com/jc/article?k=2026091600353&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-16T00:00:00.000Z",
-      "summary": "辺野古での船転覆事故から半年が経過し、運航団体が「誠実に事実と向き合う」とする謝罪声明を発表した。"
     },
     {
       "categoryId": "base-law",
@@ -922,36 +954,12 @@
       "summary": "中小企業向けに、事業承継の準備を進めることが会社の現状の経営力強化につながると解説するコラム。"
     },
     {
-      "categoryId": "base-law",
-      "title": "2026年9月に押さえておくべき企業法務の最新動向",
-      "url": "https://www.businesslawyers.jp/articles/1572",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-12T22:08:37.000Z",
-      "summary": "2026年9月に企業法務担当者が押さえておくべき法改正や実務上の注目トピックがまとめられている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "非上場株式の評価方法が大幅見直しへ｜残余利益方式に原則一本化、資産管理会社は純資産価額方式へ",
       "url": "https://www.yasuda-cpa-office.com/post/post-20260912-04",
       "source": "安田公認会計士事務所",
       "publishedAt": "2026-09-12T00:00:00.000Z",
       "summary": "非上場株式の相続税評価方法が残余利益方式に原則一本化される見直しの方向性を解説する記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "新・国税総合管理システム（KSK2）導入により税務行政はどう変わるか ほか【TAX TOPICS｜マネジメント倶楽部デジタル9月号】",
-      "url": "https://www.zeiken.co.jp/zeikenpress/column/0036zp20260911/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-11T03:00:00.000Z",
-      "summary": "新しい国税総合管理システム(KSK2)の導入によって税務行政がどう変わるかを解説する9月号のコラム。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "外国籍の生活保護認めず 「違憲」反対意見も―最高裁",
-      "url": "https://www.jiji.com/jc/article?k=2026091100966&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-11T03:00:00.000Z",
-      "summary": "最高裁が外国籍者への生活保護支給を認めない判断を示し、判事1人からは「違憲」とする反対意見も出された。"
     },
     {
       "categoryId": "base-law",
@@ -963,27 +971,19 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "高野山で宿坊営む複数宗教法人が申告漏れ 総持院など、計1億円超",
-      "url": "https://www.nikkei.com/article/DGXZQOUF100D60Q6A910C2000000/",
-      "source": "日本経済新聞",
+      "title": "デジタルインボイスの最新動向と今何をすべきか",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0012pp20260910a/",
+      "source": "ZEIKEN PRESS(税務研究会)",
       "publishedAt": "2026-09-10T00:00:00.000Z",
-      "summary": "高野山で宿坊を営む複数の宗教法人が税務調査で申告漏れを指摘され、総持院などで計1億円を超えると伝えられている。"
+      "summary": "デジタルインボイスを巡る最新の動向と、企業が今取り組むべき対応について解説するコラム。"
     },
     {
-      "categoryId": "base-law",
-      "title": "５５歳実行役に無期懲役確定へ 「ルフィ」狛江強盗致死―最高裁",
-      "url": "https://www.jiji.com/jc/article?k=2026090900891&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-09T03:00:00.000Z",
-      "summary": "閃バイト強盗致死事件「ルフィ」の55歳の実行役について、最高裁で無期懲役が確定する見通しとなった。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "2026年9月に押さえておくべき海外法の最新動向",
-      "url": "https://www.businesslawyers.jp/articles/1573",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-01T03:00:00.000Z",
-      "summary": "2026年9月に企業が押さえておくべき海外の法制度・規制の最新動向がまとめられている。"
+      "categoryId": "base-accounting",
+      "title": "新リース会計基準×税務・税効果～設例でわかる実務への影響と対応ポイント～",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0012pp20260904a/",
+      "source": "ZEIKEN PRESS(税務研究会)",
+      "publishedAt": "2026-09-04T00:00:00.000Z",
+      "summary": "新しいリース会計基準が税務・税効果に与える実務上の影響と対応ポイントを、設例を用いて解説するコラム。"
     },
     {
       "categoryId": "base-law",
