@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-01T05:08:20.706Z",
+  "syncedAt": "2026-10-02T05:16:16.046Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,12 +34,180 @@
   ],
   "articles": [
     {
+      "categoryId": "base-accounting",
+      "title": "インボイス制度の経過措置とは？2026年10月から70%控除へ｜新スケジュールと計算方法を解説",
+      "url": "https://www.keihi.com/column/36254/",
+      "source": "keihi.com（コラム）",
+      "publishedAt": "2026-10-01T22:17:41.000Z",
+      "summary": "インボイス制度の経過措置について、2026年10月から仕入税額控除が70%になる変更点と新しいスケジュールを解説する記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "1300日超の収容で外国人が「うつ病や自殺未遂」…一審「違法」から一転、高裁が「120万円の賠償命令」を取り消した理由とは",
+      "url": "https://ben54.jp/news/3970",
+      "source": "弁護士JPニュース（ben54.jp）",
+      "publishedAt": "2026-10-01T22:17:41.000Z",
+      "summary": "1300日超にわたり収容された外国人の処遇を巡る訴訟で、一審の違法判断から一転、高裁が国への賠償命令を取り消した経緯を伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年9月に押さえておくべき企業法務の最新動向",
+      "url": "https://www.businesslawyers.jp/articles/1572",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-01T22:17:41.000Z",
+      "summary": "2026年9月における企業法務の最新動向をまとめて解説する記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "少女にわいせつ動画指示疑い 逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6597156",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T22:17:41.000Z",
+      "summary": "少女にわいせつな動画の撮影を指示した疑いで、容疑者が逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "2026年10月1日からインボイスの控除割合が80%から70%へ変更",
+      "url": "https://showzeirishi.com/be-modified",
+      "source": "税理士コラム（showzeirishi.com）",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "2026年10月1日からインボイス制度の仕入税額控除割合が80%から70%へ変更されたことを伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均、一時１０００円超上昇…６万７７００円台で推移",
+      "url": "https://news.infoseek.co.jp/article/yomiuri_20261001_gyt1t00144/",
+      "source": "読売新聞オンライン（Infoseekニュース）",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "10月1日の東京株式市場で日経平均株価が一時1000円超上昇し、6万7700円台で推移したと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【↑】日経平均 大引け｜ 続急伸、半導体関連が牽引し6万9000円台に迫る (10月1日)",
+      "url": "https://kabutan.jp/news/marketnews/?b=n202610011009",
+      "source": "株探ニュース",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "10月1日の大引けで日経平均株価が続急伸し、半導体関連株に牽引され6万9000円台に迫ったと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "買収額は2,000億円超か…「TOB」思惑で株価17%上昇の〈注目銘柄〉【10月1日の国内株式市場概況】（THE GOLD ONLINE）",
+      "url": "https://news.yahoo.co.jp/articles/641da83daee0050816415c8548cc523d7c1e8ba9",
+      "source": "Yahoo!ニュース（THE GOLD ONLINE）",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "TOB（株式公開買い付け）観測を背景に、注目銘柄の株価が17%上昇したと伝える10月1日の国内株式市場概況記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均 一時2100円超値上がり",
+      "url": "https://news.yahoo.co.jp/pickup/6597168",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "10月1日の東京株式市場で日経平均株価が一時2100円を超えて値上がりしたと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均は大幅続伸、半導体関連中心に買い優勢の展開",
+      "url": "https://www.zaikei.co.jp/article/20261001/871968.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "10月1日の東京株式市場で日経平均株価が半導体関連株を中心とした買いで大幅続伸したと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ氏「米国の勝利」 イラク撤収を自賛",
+      "url": "https://www.jiji.com/jc/article?k=2026100100353&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "トランプ米大統領がイラクからの米軍撤収を「米国の勝利」として自賛したと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "韓国、３０兆円超対米投資 第１弾はアラスカＬＮＧ、原発８基",
+      "url": "https://www.jiji.com/jc/article?k=2026100100447&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "韓国が30兆円超の対米投資を行う方針で、第1弾としてアラスカのLNGプロジェクトや原発8基が対象になると伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "洪水被害、３３５万人超 ２４人死亡、物流にも影響―タイ",
+      "url": "https://www.jiji.com/jc/article?k=2026100100762&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "タイで洪水被害が335万人超に拡大し、24人が死亡、物流にも影響が出ていると伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "韓国 きょうのニュース（10月1日）（聯合ニュース）",
+      "url": "https://news.yahoo.co.jp/articles/d11f84b8a7c7a259454c11e77f39e5ca44e9f5be",
+      "source": "Yahoo!ニュース（聯合ニュース）",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "10月1日の韓国国内の主要ニュースをまとめた聯合ニュースの記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "YouTuber・ヴァンビが逮捕 報道受け所属事務所がコメント「現在、事実を確認中です」（モデルプレス）",
+      "url": "https://news.yahoo.co.jp/articles/fc1be5e7d8200fc9252bd1708034b531ec6e4307",
+      "source": "Yahoo!ニュース（モデルプレス）",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "YouTuberのヴァンビ容疑者が逮捕されたとの報道を受け、所属事務所が「事実を確認中」とコメントしたと伝える記事。"
+    },
+    {
       "categoryId": "base-economy",
       "title": "〔東京外為〕ドル、156円台後半＝期末要因の売りで下落（30日正午）（時事通信）",
       "url": "https://news.yahoo.co.jp/articles/ccf30865303df75f646ceb4ea41b3f1fed8fbbd5",
       "source": "Yahoo!ニュース（時事通信）",
       "publishedAt": "2026-09-30T03:00:00.000Z",
       "summary": "30日正午の東京外国為替市場で、期末要因のドル売りによりドルが156円台後半に下落したと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ジュエ氏は１６０センチ、５０キロ 父正恩氏、超高度肥満も健康―韓国情報機関",
+      "url": "https://www.jiji.com/jc/article?k=2026093000761&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "北朝鮮の金正恩氏の娘ジュエ氏について身長160センチ・体重50キロであることなど、韓国情報機関による分析を伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "イスラエル行き旅客機が緊急着陸 副操縦士が墜落企図か",
+      "url": "https://www.jiji.com/jc/article?k=2026093001110&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "イスラエル行きの旅客機が緊急着陸し、副操縦士による墜落企図の疑いがあると伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "公明代表に岡本三成氏就任へ 新執行部、１０月３日発足",
+      "url": "https://www.jiji.com/jc/article?g=pol&k=2026093000114",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "公明党の新代表に岡本三成氏が就任する見通しで、新執行部が10月3日に発足すると伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "衆院与野党、臨時国会会期69日間と確認（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/6aa370e92248103021241904f64b988ba9789b9a",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "衆議院の与野党が臨時国会の会期を69日間とすることを確認したと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "政府、臨時国会10月5日召集を正式伝達（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/b5c5f039f1f4aa70138a38cc33855d71058ebb77",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "政府が臨時国会を10月5日に召集する方針を与野党に正式に伝達したと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "神戸で連続発砲事件 2人死傷、元組員の男を逮捕 県警「暴力団同士の抗争の情報なし」",
+      "url": "https://kobe-np.co.jp/news/society/202609/0020878534.shtml",
+      "source": "神戸新聞NEXT",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "summary": "神戸市内で発生した連続発砲事件で2人が死傷し、元暴力団員の男が逮捕されたと伝える記事。兵庫県警は暴力団同士の抗争情報はないとしている。"
     },
     {
       "categoryId": "base-accounting",
@@ -419,6 +587,14 @@
     },
     {
       "categoryId": "base-accounting",
+      "title": "令和９年度税制改正要望～資産税関係～",
+      "url": "https://www.zeiken.co.jp/zeikenpress/column/0020zp20260928/",
+      "source": "ZEIKEN PRESS(税務研究会)",
+      "publishedAt": "2026-09-28T03:00:00.000Z",
+      "summary": "令和9年度税制改正要望のうち、資産税関係の項目について解説するコラム。"
+    },
+    {
+      "categoryId": "base-accounting",
       "title": "CPAAOB オルツ監査でシドーへの処分勧告",
       "url": "https://www.zeiken.co.jp/news/27169135.php",
       "source": "税務研究会",
@@ -442,12 +618,12 @@
       "summary": "資産除去債務に関する会計上の見積りの変更を行った企業数が過去最高の210件に上ったと伝える記事。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "為替相場 28日（日本時間11時）",
-      "url": "https://www.nippon.com/ja/news/kd1477047932384460916/",
-      "source": "nippon.com",
-      "publishedAt": "2026-09-28T02:00:00.000Z",
-      "summary": "9月28日午前11時（日本時間）時点の東京外国為替市場における円相場の状況を伝える記事。"
+      "categoryId": "base-law",
+      "title": "最高裁、アイン子会社幹部ら無罪の二審破棄（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/b94f181f50a7d6ab3b5a33a9c8f3fa8d774e239c",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-09-28T03:00:00.000Z",
+      "summary": "札幌の薬局整備を巡る入札妨害事件で、最高裁がアイン子会社幹部らを無罪とした二審判決を破棄したと伝える記事。"
     },
     {
       "categoryId": "base-law",
@@ -570,14 +746,6 @@
       "summary": "成年後見制度の見直しに関する民法改正の概要と、BtoC取引に与える影響について解説する記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "停戦合意は進展せず、ガザの住民が壊滅的な日常を強いられる",
-      "url": "https://mezha.net/jp/news/850d0bad_displaced_gaza_families/",
-      "source": "Mezha",
-      "publishedAt": "2026-09-27T22:22:24.000Z",
-      "summary": "停戦合意が進展しない中、ガザの住民が壊滅的な日常を強いられている状況を伝える記事。"
-    },
-    {
       "categoryId": "base-law",
       "title": "スラップ訴訟 身銭切り戦った男性",
       "url": "https://news.yahoo.co.jp/pickup/6596762",
@@ -643,14 +811,6 @@
     },
     {
       "categoryId": "base-society",
-      "title": "台風26号 28日にかけて「非常に強い」勢力で沖縄地方へ接近 高波など警戒",
-      "url": "https://tenki.jp/forecaster/t_fujikawa/2026/09/27/40770.html",
-      "source": "tenki.jp（日本気象協会）",
-      "publishedAt": "2026-09-27T00:00:00.000Z",
-      "summary": "台風26号が28日にかけて非常に強い勢力で沖縄地方へ接近し、高波などへの警戒が必要だと伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "【速報】群馬・太田市女性殺人事件 逃走していた長女の元夫(30)逮捕 長男への殺人未遂容疑で公開手配 群馬県警",
       "url": "https://news.yahoo.co.jp/articles/6145200c9c0b1cb73c298fb771aaa4527b385862",
       "source": "TBS NEWS DIG（Yahoo!ニュース）",
@@ -664,38 +824,6 @@
       "source": "時事ドットコム（プレスリリース）",
       "publishedAt": "2026-09-26T22:21:15.000Z",
       "summary": "OBCが、2026年10月から見直されるインボイス制度の経過措置に会計ソフト『奉行クラウド』を対応させたと発表した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経225先物テクニカルポイント（26日夜間取引終了時点）",
-      "url": "https://news.livedoor.com/topics/detail/32414582/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "9月26日の夜間取引終了時点における日経225先物のテクニカル分析を伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "10月も飲食料品の値上げラッシュ続く見込み ビールは減税に",
-      "url": "https://news.livedoor.com/topics/detail/32417728/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "10月も飲食料品の値上げが続く見込みで、ビールは減税となる見通しだと伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "社説　米中首脳会談〈２０２６ ９．２６〉",
-      "url": "https://www.gifu-np.co.jp/articles/-/774558",
-      "source": "岐阜新聞デジタル",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "米中首脳会談について論じる社説記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "習氏「今年あと２回会う機会ある」 トランプ氏の訪中歓迎",
-      "url": "https://www.jiji.com/jc/article?k=2026092600020&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-26T00:00:00.000Z",
-      "summary": "中国の習近平国家主席が、トランプ米大統領との間で今年あと2回会う機会があるとの見通しを示し、訪中を歓迎する意向を示した。"
     },
     {
       "categoryId": "base-politics",
@@ -746,36 +874,12 @@
       "summary": "岐阜県内のマンション6階から娘2人を投げ落とした疑いで、父親が逮捕された。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "首相動静（９月２５日）",
-      "url": "https://www.jiji.com/jc/article?k=2026092500248&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T03:00:00.000Z",
-      "summary": "高市首相の9月25日の動静(公務日程)が時事通信により伝えられた。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "飲食料品の消費税1％を閣議決定 政府、来年4月から2年間（共同通信）",
       "url": "https://news.yahoo.co.jp/articles/4c7ab61ae822d9eb89a0dd55021727c2e6878e0b",
       "source": "Yahoo!ニュース（共同通信）",
       "publishedAt": "2026-09-25T00:00:00.000Z",
       "summary": "政府が飲食料品の消費税率を来年4月から2年間、1％に引き下げる方針を閣議決定したと伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "【↑】日経平均 大引け｜ 5日続伸、半導体関連や銀行株が買われる (9月25日)",
-      "url": "https://kabutan.jp/news/marketnews/?b=n202609251042",
-      "source": "株探ニュース",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "9月25日の日経平均は5日続伸し、半導体関連株や銀行株が買われたと伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均終値、前日比８５０円高の６万６３６４円…５営業日連続で上昇",
-      "url": "https://news.livedoor.com/topics/detail/32408860/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "日経平均株価の終値が前日比850円高の6万6364円となり、5営業日連続で上昇したと伝える記事。"
     },
     {
       "categoryId": "base-law",
@@ -794,22 +898,6 @@
       "summary": "臨時国会の会期が69日間となり、12月12日までとなることを伝える記事。"
     },
     {
-      "categoryId": "base-society",
-      "title": "死亡の男を書類送検 たつの母娘殺害―兵庫県警",
-      "url": "https://www.jiji.com/jc/article?k=2026092500804&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "兵庫県で発生した母娘殺害事件をめぐり、兵庫県警がすでに死亡した男を書類送検した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【台風26号】沖縄の最新情報まとめ 進路・休業・交通・イベント中止などを随時更新",
-      "url": "https://www.okinawatimes.co.jp/articles/-/1931667",
-      "source": "沖縄タイムス",
-      "publishedAt": "2026-09-25T00:00:00.000Z",
-      "summary": "台風26号の沖縄への影響について、進路や休業・交通情報、イベント中止情報をまとめた記事。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "新型レジ導入に最大３５０万円 消費税減税で支援策―中企庁",
       "url": "https://www.jiji.com/jc/article?k=2026092401131&g=eco",
@@ -818,44 +906,12 @@
       "summary": "中小企業庁が、消費税減税に対応する新型レジの導入費用を最大350万円支援する策を打ち出した。"
     },
     {
-      "categoryId": "base-international",
-      "title": "米中首脳がＡＩ、貿易協議 習主席、１１年ぶり国賓訪問―トランプ大統領は異例の出迎え",
-      "url": "https://www.jiji.com/jc/article?k=2026092400664&g=int&p=20260924atG5S&rel=pv",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "習近平国家主席が11年ぶりに米国を国賓訪問し、米中首脳がAIや貿易について協議、トランプ大統領は異例の出迎えを行った。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ロシア軍 停戦協議後にキーウ撃",
-      "url": "https://news.livedoor.com/topics/detail/32394219/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-09-24T00:00:00.000Z",
-      "summary": "停戦協議後にもかかわらずロシア軍がキーウを攻撃したと伝える記事。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "民主改革の会１８人で船出 公明は復党了承、統一会派「中道」結成",
       "url": "https://www.jiji.com/jc/article?k=2026092400831&g=pol",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-24T00:00:00.000Z",
       "summary": "新会派「民主改革の会」が18人で発足し、公明党の復党了承を経て統一会派「中道」が結成された。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "ゼレンスキー氏、軍事支援要請か 高市首相、就任後初の対面会談",
-      "url": "https://www.jiji.com/jc/article?k=2026092300186&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-23T03:00:00.000Z",
-      "summary": "高市首相とウクライナのゼレンスキー大統領が就任後初めて対面で会談し、ゼレンスキー氏が軍事支援を要請したとみられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "中東やウクライナ、AIが焦点 国連総会の一般討論、22日開幕（共同通信）",
-      "url": "https://topics.smt.docomo.ne.jp/article/kyodo_nor/world/kyodo_nor-2026092101000505",
-      "source": "dメニューニュース（共同通信）",
-      "publishedAt": "2026-09-21T00:00:00.000Z",
-      "summary": "国連総会の一般討論が22日に開幕し、中東情勢とウクライナ問題、AIが主要な論点になるとの記事。"
     },
     {
       "categoryId": "base-law",
@@ -898,46 +954,6 @@
       "summary": "退職給付会計について、実務に直結する仕訳やワークシートの基礎を解説するセミナー紹介記事。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "内閣支持４４％、最低更新 「裏金」登用に７割反対―時事世論調査",
-      "url": "https://www.jiji.com/jc/article?k=2026091700746&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-17T00:00:00.000Z",
-      "summary": "時事通信の世論調査で内閣支持率が44%と過去最低を更新し、「裏金」議員の登用に7割が反対と回答した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "利用規約が無効に？差止請求事例を踏まえた見直しポイント",
-      "url": "https://www.businesslawyers.jp/articles/1370",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-16T01:50:00.000Z",
-      "summary": "利用規約が無効とされた差止請求事例を踏まえ、規約の見直しポイントが解説されている。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "個人情報保護法とは？企業の義務・対策をわかりやすく解説",
-      "url": "https://www.businesslawyers.jp/articles/1485",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-15T07:00:00.000Z",
-      "summary": "個人情報保護法における企業の義務や対策についてわかりやすく解説されている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "2026事務年度金融行政方針について",
-      "url": "https://www.fsa.go.jp/news/r8/202609/260915.html",
-      "source": "金融庁",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "金融庁が2026事務年度の金融行政方針を公表した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "【速報】政府は消費減税に関する税制改正大網を閘議決定した",
-      "url": "https://www.jiji.com/jc/article?k=2026091500787&g=flash",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-15T03:00:00.000Z",
-      "summary": "政府が消費減税に関する税制改正大網を閘議決定した。"
-    },
-    {
       "categoryId": "base-law",
       "title": "2026年10月施行 法改正チェックリスト（一般企業向け）",
       "url": "https://workinnovation.co.jp/column/20260915/",
@@ -947,27 +963,11 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "事業承継の準備が会社の「今」を強くする【中小企業のための経営情報｜マネジメント倶楽部デジタル9月号】",
-      "url": "https://www.zeiken.co.jp/zeikenpress/column/0037zp20260914/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-14T00:00:00.000Z",
-      "summary": "中小企業向けに、事業承継の準備を進めることが会社の現状の経営力強化につながると解説するコラム。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "非上場株式の評価方法が大幅見直しへ｜残余利益方式に原則一本化、資産管理会社は純資産価額方式へ",
       "url": "https://www.yasuda-cpa-office.com/post/post-20260912-04",
       "source": "安田公認会計士事務所",
       "publishedAt": "2026-09-12T00:00:00.000Z",
       "summary": "非上場株式の相続税評価方法が残余利益方式に原則一本化される見直しの方向性を解説する記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "【2026年9月11日適用】サイバーレジリエンス法の報告義務と実務対応",
-      "url": "https://unitis.jp/articles/24097/",
-      "source": "UNITIS",
-      "publishedAt": "2026-09-11T00:00:00.000Z",
-      "summary": "2026年9月11日に適用されたサイバーレジリエンス法における報告義務の内容と企業の実務対応が解説されている。"
     },
     {
       "categoryId": "base-accounting",
