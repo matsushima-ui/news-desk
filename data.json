@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-07T05:11:07.184Z",
+  "syncedAt": "2026-10-08T05:10:40.528Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,174 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-accounting",
+      "title": "上場企業、6年連続最高益更新へ AI関連、銀行けん引（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/9a1bfaad862040e26f8167e256009306564cc305",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "上場企業の純利益が6年連続で最高を更新する見通しとなり、AI関連や銀行がけん引役になっていると伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均、648円27銭安の7万0035円71銭で終了＝東京株式（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/1b944eb821addf5f123bb7323be5873eb7e42d1d",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "10月7日の東京株式市場で日経平均株価が648円27銭安の7万0035円71銭で取引を終えたと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "東証、35円高（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/5cb5fa4ddc924faa66d6792fbec2227866e5bb56",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "10月7日の東京証券取引所の株価が前日比35円高で取引されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "前日の出尽くし売りから一転、急反発…「配当165円→200円」の大幅増配＆好決算で再評価された〈注目銘柄〉【10月7日の国内株式市場概況】（THE GOLD ONLINE（ゴールドオンライン））",
+      "url": "https://news.yahoo.co.jp/articles/70e8a819b80e07b2192c16d4eaf2469d627e070b",
+      "source": "Yahoo!ニュース（THE GOLD ONLINE（ゴールドオンライン））",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "10月7日の国内株式市場で前日の出尽くし売りから急反発し、増配と好決算で再評価された銘柄が注目されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "ディスコ大幅安、パルGHD決算、マクドナルド9月売上＆新TOPIX/日経平均反落【今日の注目株＆日本株市場見通し】「デイリーZAi」10月7日号（ダイヤモンド・ザイ）",
+      "url": "https://news.yahoo.co.jp/articles/8944da6a7202ac8a6ee0e00bf6d64cfe5c9752f0",
+      "source": "Yahoo!ニュース（ダイヤモンド・ザイ）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "ディスコ株の大幅安やパルグループHDの決算、マクドナルドの9月売上などを踏まえた10月7日の日本株市場見通しを伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ガザ住民、深まる絶望 停戦形無し、ハマスに怒りも（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/219645474e7d7a75117b71db9eeb9f4bbb625d4e",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "ガザの住民の間で停戦の実感が無いまま絶望が深まり、ハマスへの怒りも広がっていると伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ガザ死者7万人と推計か イスラエル軍、地元報道（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/93be9eed7b6b4c8858be3f7f40c8ebb2b6192ff1",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "ガザでの死者数が推計7万人に達したとの地元報道があったと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "イスラエル軍、ガザでハマス最高幹部狙い空爆 5人死亡（ＡＦＰ＝時事）",
+      "url": "https://news.yahoo.co.jp/articles/d4d8c42658a531c89277ad519131250e6a10a91a",
+      "source": "Yahoo!ニュース（ＡＦＰ＝時事）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "イスラエル軍がガザでハマスの最高幹部を狙った空爆を実施し、5人が死亡したと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "10月7日の殺戮と拉致から3年 イスラエル南部の事件現場のいま（AP通信）",
+      "url": "https://news.yahoo.co.jp/articles/fdb8ee348afb1d55b633595ccd809918a2f649c8",
+      "source": "Yahoo!ニュース（AP通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "2023年10月7日の襲撃・拉致事件から3年を迎えたイスラエル南部の現場の様子を伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "生活保護費減額は違法 最高裁が初の統一判断 受給者の勝訴確定（毎日新聞）",
+      "url": "https://news.yahoo.co.jp/articles/175ff8ed3a42166196bdc06b934eaa22354e53b4",
+      "source": "Yahoo!ニュース（毎日新聞）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "生活保護費の減額を違法とする最高裁の初めての統一判断が示され、受給者側の勝訴が確定したと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "生活保護減額は違法と高裁判断 和歌山の受給者勝訴、一審支持（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/1db1c57485818330f7702545304504daeaa6e294",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "生活保護費の減額を違法とする高裁判断が示され、和歌山の受給者側が勝訴し一審判断が支持されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "第2次高市改造内閣発足へ 木原官房長官ら骨格維持（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/3f86a7b67c11a5b8f9572d2aa0799dfd951d06f7",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "第2次高市改造内閣が発足する見通しとなり、木原官房長官らの骨格が維持される方向だと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市内閣「内閣広報予算」10倍の72億円要求 動画に壮大なBGM 総理希望で広報官起用（テレビ朝日系（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/4096efd12e9d557727de499ac5350674405cd61f",
+      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "高市内閣が内閣広報予算を従来の10倍となる72億円要求しており、総理の希望で広報官が起用されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "【速報】第2次高市改造内閣の顔ぶれは？ 木原官房長官が閣僚名簿を発表",
+      "url": "https://news.yahoo.co.jp/articles/48cc9b944486e4c601a3317424c4085a2a18684a",
+      "source": "Yahoo!ニュース（TBS NEWS DIG Powered by JNN）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "第2次高市改造内閣が発足し、木原官房長官が新しい閣僚名簿を発表したと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市首相の閣僚指示書 全容が判明",
+      "url": "https://news.yahoo.co.jp/pickup/6595632",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "高市首相が各閣僚に示した指示書の内容の全容が判明したと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "母親の交際相手を殺人の疑いで逮捕 奈良市で見つかった母娘の遺体 結束バンドなどで首を絞め母親を殺害か… 男は死体遺棄の罪ですでに起訴（CBCテレビ）",
+      "url": "https://news.yahoo.co.jp/articles/1986186a8dfa10e11ea75bea7935887723693e94",
+      "source": "Yahoo!ニュース（CBCテレビ）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "奈良市で見つかった母娘の遺体事件で、母親の交際相手が結束バンドなどで母親の首を絞めて殺害したとして殺人容疑で逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "敵対改造車グループに危害を加えるため凶器を準備して集まった疑い １２人逮捕（khb東日本放送）",
+      "url": "https://news.yahoo.co.jp/articles/2e27693ad8d23a2ca68b73ca36a849c69d8a3737",
+      "source": "Yahoo!ニュース（khb東日本放送）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "敵対する改造車グループに危害を加えるために凶器を準備して集まったとして、12人が逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「知らない男に押し倒された」 暴行の疑いで自称・アルバイト従業員の男（35）逮捕 北海道釧路町（STVニュース北海道）",
+      "url": "https://news.yahoo.co.jp/articles/5825d8bb2788e1a24fbc1c34d009c4a68a8be0a6",
+      "source": "Yahoo!ニュース（STVニュース北海道）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "北海道釧路町で女性を押し倒したとして、暴行の疑いで自称アルバイト従業員の男が逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【速報】宜野湾市の女性殺害事件 元交際相手の25歳男を殺人容疑で逮捕（沖縄タイムス）",
+      "url": "https://news.yahoo.co.jp/articles/adeafab1cd4bba4622060cf75c5ead9269aaa716",
+      "source": "Yahoo!ニュース（沖縄タイムス）",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "宜野湾市で発生した女性殺害事件で、元交際相手の25歳の男が殺人容疑で逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "箱乗りさせ事故 殺人未遂疑い逮捕",
+      "url": "https://news.yahoo.co.jp/pickup/6597782",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-07T22:23:15.000Z",
+      "summary": "車の屋根やボンネットに人を乗せて走行させ事故を起こしたとして、殺人未遂の疑いで逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "「経営資源の配分」について企業に求められる対応のポイント",
+      "url": "https://www.businesslawyers.jp/articles/1580",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-07T01:30:00.000Z",
+      "summary": "企業の経営資源の配分について、企業に求められる対応のポイントを解説する記事。"
+    },
     {
       "categoryId": "base-economy",
       "title": "今日の日経平均とドル円：7万円台を維持、円安で158円前後、半導体株はまちまち",
@@ -370,6 +538,14 @@
       "summary": "10月5日午前9時15分時点の東京株式市場の値動きを伝える記事。"
     },
     {
+      "categoryId": "base-accounting",
+      "title": "【無料】「税効果会計って、結局何をしているの？」経営財務の人気バックナンバー連載を特別公開！",
+      "url": "https://www.zeiken.co.jp/news/27869191.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "summary": "経営財務の人気連載「税効果会計って、結局何をしているの？」のバックナンバーが特別公開されたと伝える記事。"
+    },
+    {
       "categoryId": "base-law",
       "title": "レコード演奏・伝達権とは？令和8年改正著作権法を解説",
       "url": "https://www.businesslawyers.jp/articles/1575",
@@ -523,22 +699,6 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "バイラーとトゥイリオがＳ＆Ｐ500入り｜バロンズ・ダイジェスト2026年10月2日号",
-      "url": "https://barrons.jiji.com/article/8940",
-      "source": "バロンズ・ダイジェスト（時事通信）",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "米国株価指数S&P500の構成銘柄にバイラーとトゥイリオが新たに採用されたと報じられた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均は512円安、寄り後はやや下げ幅縮小",
-      "url": "https://jp.investing.com/news/forex-news/article-1699416",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "10月2日の日経平均株価が512円安となり、寄り付き後はやや下げ幅を縮小したと伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "日経平均大引け：前日比647.26円安の68309.46円",
       "url": "https://jp.investing.com/news/forex-news/article-1699604",
       "source": "Investing.com",
@@ -568,38 +728,6 @@
       "source": "財経新聞",
       "publishedAt": "2026-10-02T03:00:00.000Z",
       "summary": "10月2日午後の日経平均株価が650円安でスタートし、洋エンジや東エレクなどが下落したと伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "トランプ大統領、イランとの戦争は米選挙後に終結の可能性と発言",
-      "url": "https://jp.investing.com/news/economy-news/article-1700545",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "トランプ米大統領が、イランとの戦争は米大統領選挙後に終結する可能性があるとの見方を示したと伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "トランプ大統領が中東での軍事プレゼンスを拡大、イランへの圧力高まる",
-      "url": "https://jp.investing.com/news/economy-news/article-1700569",
-      "source": "Investing.com",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "トランプ米大統領が中東での軍事的プレゼンスを拡大させ、イランへの圧力が高まっていると伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "韓国大統領、「半島の戦争」あおると批判 対ウクライナ、追加措置警告",
-      "url": "https://www.jiji.com/jc/article?k=2026100200803&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "韓国大統領が、朝鮮半島での「戦争」をあおる動きを批判し、ウクライナ問題に関連して追加措置の可能性を警告した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "Ｇ７、石油最大１億バレル放出 ４カ月で、マクロン仏大統領表明",
-      "url": "https://www.jiji.com/jc/article?k=2026100201202&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "G7が4カ月間で最大1億バレルの石油を放出すると、フランスのマクロン大統領が表明した。"
     },
     {
       "categoryId": "base-international",
@@ -672,22 +800,6 @@
       "source": "Yahoo!ニュース（週刊女性PRIME）",
       "publishedAt": "2026-10-02T03:00:00.000Z",
       "summary": "高市首相の消費減税に関する発言が値下げ強要とも取れると批判が集まっていると伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "北大、組織的アカハラ認定 准教授らに学生配属せず",
-      "url": "https://www.jiji.com/jc/article?k=2026100200377&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "北海道大学が組織的なアカデミックハラスメントを認定し、該当する准教授らへの学生配属を停止する対応を取った。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "Ｎ党の立花氏、襲撃事件の被告に直接質問「謝罪の意思あるか」 異例の法廷",
-      "url": "https://www.jiji.com/jc/article?k=2026100201031&g=soc&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-02T03:00:00.000Z",
-      "summary": "NHK党の立花氏が、自身への襲撃事件の被告に法廷で直接質問するという異例の展開があった。"
     },
     {
       "categoryId": "base-society",
@@ -786,14 +898,6 @@
       "summary": "インボイス経過措置が2026年10月1日から70%控除になることを踏まえ、短期前払費用を使う場合の注意点を解説する記事。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "ニデック株、大幅安 上場廃止を警戒",
-      "url": "https://www.jiji.com/jc/article?k=2026100100951&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "ニデックの株価が大幅に下落し、市場では上場廃止への警戒感が広がっている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "2026年10月に施行される法改正まとめ（7件）｜何がいつから変わる？施行日順に一覧",
       "url": "https://houkaisei.jp/calendar/2026-10/",
@@ -810,54 +914,6 @@
       "summary": "高市首相の10月1日の動静（公務日程）を伝える記事。"
     },
     {
-      "categoryId": "base-society",
-      "title": "ソフトバンク系元常務逮捕 業務上横領容疑、４億円超か―警視庁",
-      "url": "https://www.jiji.com/jc/article?k=2026100100701&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "ソフトバンク系企業の元常務が、4億円を超える業務上横領の疑いで警視庁に逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "ユーチューバーの「ヴァンビ」逮捕 クラブで女性の下半身触った疑い―警視庁",
-      "url": "https://www.jiji.com/jc/article?k=2026100100800&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "ユーチューバーの「ヴァンビ」氏が、クラブ内で女性の下半身を触った疑いで警視庁に逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "ストーカー相談の女性、死因は失血 沖縄県警",
-      "url": "https://jiji.com/jc/article?g=soc&k=2026100101125&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "ストーカー被害を相談していた女性が死亡した事件で、沖縄県警は死因が失血によるものだったと明らかにした。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "変動金利、３行引き上げ 固定は全行引き上げ―１０月住宅ローン",
-      "url": "https://www.jiji.com/jc/article?k=2026093001014&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-30T03:00:00.000Z",
-      "summary": "10月の住宅ローン金利について、変動型は3行が引き上げ、固定型は全行が引き上げたことが分かった。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "【独自】「経世済民」掲げ成長前面 財源触れず「心配及ばぬ」―高市首相所信演説の素案判明",
-      "url": "https://www.jiji.com/jc/article?k=2026093000783&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-30T03:00:00.000Z",
-      "summary": "高市首相の所信表明演説の素案が判明し、「経世済民」を掲げて経済成長を前面に出す一方、財源には触れていないことが分かった。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "定数減「１０月末」結論目指す 与党主張、衆院選改革で報告書",
-      "url": "https://www.jiji.com/jc/article?k=2026093001050&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-30T03:00:00.000Z",
-      "summary": "与党は衆院選挙制度改革に関する報告書で、議員定数削減について10月末までに結論を出すことを目指す方針を示した。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "【2026年10月】仕入税額控除の経過措置が80％→70％に縮小。発注側・受注側の備えを税理士が解説（税理士ドットコム）",
       "url": "https://news.yahoo.co.jp/articles/857e26e429dd775a39465b82a74529b55557406d",
@@ -867,43 +923,11 @@
     },
     {
       "categoryId": "base-law",
-      "title": "改正犯罪収益移転防止法と「送金犯罪」の核心",
-      "url": "https://www.businesslawyers.jp/lib/publications/18ba63f99fef06f5f8f1cf87a20f3edb95df0c0ad760ff7d4d41f2acf9f0b21c",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "summary": "改正犯罪収益移転防止法の内容と、「送金犯罪」対策における実務上の核心的なポイントを解説する記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "不貞行為の賠償命令破棄、最高裁 「破綻信じた理由検討を」（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/2d3880a3cd9a048d8d129d6c9d812abe3470f0d9",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "summary": "不貞行為を理由とする賠償命令について、最高裁が破棄し、婚姻関係が破綻していたと信じた理由を検討するよう求めたと伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "日本版DBS対応の実務論点",
-      "url": "https://www.businesslawyers.jp/lib/publications/bb3cace2b3bb87090ef0eaab889fe7ddfd77f6f49e02e20793a07d31e7bc8922",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "summary": "日本版DBS（性犯罪歴確認制度）への対応をめぐる企業実務上の論点を解説する記事。"
-    },
-    {
-      "categoryId": "base-law",
       "title": "声にも「パブリシティー権」初判断 生成ＡＩで模倣、人気声優訴え―削除請求は退ける・東京地裁",
       "url": "https://www.jiji.com/jc/article?g=soc&k=2026093000118",
       "source": "時事ドットコム",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "summary": "生成AIによる声の模倣を巡り、東京地裁が声にもパブリシティー権が及び得るとの初判断を示したが、人気声優の削除請求は退けたと伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "臨時国会、来月５日召集 消費税・定数削減で攻防へ",
-      "url": "https://www.jiji.com/jc/article?k=2026092900123&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-29T03:00:00.000Z",
-      "summary": "臨時国会が来月5日に召集される見通しで、消費税や衆院定数削減を巡り与野党の攻防が焦点となっている。"
     },
     {
       "categoryId": "base-accounting",
@@ -922,12 +946,12 @@
       "summary": "札幌の薬局整備を巡る入札妨害事件で、最高裁がアイン子会社幹部らを無罪とした二審判決を破棄したと伝える記事。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "衆院選見直し、１０月末結論 与野党―報告書、定数削減の期限曖昧",
-      "url": "https://www.jiji.com/jc/article?k=2026092800649&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-28T03:00:00.000Z",
-      "summary": "与野党は衆院選挙制度の見直しについて10月末に結論を出す方向で一致したが、報告書では定数削減の期限が曖昧なままとなっている。"
+      "categoryId": "base-accounting",
+      "title": "資産除去債務に関する会計上の見積りの変更が過去最高の210件に",
+      "url": "https://www.zeiken.co.jp/news/27169139.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-09-28T00:00:00.000Z",
+      "summary": "資産除去債務に関する会計上の見積りの変更を行った件数が過去最高の210件となったと伝える記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -947,14 +971,6 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "退職給付会計セミナー：実務に直結した仕訳とワークシート基礎",
-      "url": "https://www.zeiken.co.jp/zeikenpress/press/0016pp20260917/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-17T00:00:00.000Z",
-      "summary": "退職給付会計について、実務に直結する仕訳やワークシートの基礎を解説するセミナー紹介記事。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "【グループ通算】黒字・赤字が混在するホールディングス経営、グループ通算制度を採用する前にすべきこと",
       "url": "https://www.zeiken.co.jp/zeikenpress/?p=15554",
       "source": "ZEIKEN PRESS（税務研究会）",
@@ -968,22 +984,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-09-11T03:00:00.000Z",
       "summary": "消費税減税を巡る特例や経過措置が複雑化しており、事業者の経理実務や消費者に混乱が生じる恐れが指摘されている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "デジタルインボイスの最新動向と今何をすべきか",
-      "url": "https://www.zeiken.co.jp/zeikenpress/press/0012pp20260910a/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-10T00:00:00.000Z",
-      "summary": "デジタルインボイスを巡る最新の動向と、企業が今取り組むべき対応について解説するコラム。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "新リース会計基準×税務・税効果～設例でわかる実務への影響と対応ポイント～",
-      "url": "https://www.zeiken.co.jp/zeikenpress/press/0012pp20260904a/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-04T00:00:00.000Z",
-      "summary": "新しいリース会計基準が税務・税効果に与える実務上の影響と対応ポイントを、設例を用いて解説するコラム。"
     },
     {
       "categoryId": "base-law",
