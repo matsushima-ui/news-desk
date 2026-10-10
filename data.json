@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-09T05:11:23.653Z",
+  "syncedAt": "2026-10-10T05:10:34.475Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,102 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-accounting",
+      "title": "【2026年10月税制改正】インボイス制度の特例措置の変更点と対応策についてわかりやすく解説",
+      "url": "https://www.obc.co.jp/360/list/post519",
+      "source": "OBC360°",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "2026年10月の税制改正によるインボイス制度の特例措置の変更点と、企業が取るべき対応策について解説している。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ICE捜査官が男性に発砲、NY市長は活動停止要求へ",
+      "url": "https://www.afpbb.com/articles/-/3656906",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "米移民税関捜査局（ICE）の捜査官が男性に発砲し、ニューヨーク市長が活動停止を求める方針だと報じられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "南シナ海で中国軍・海警局の舟艇が急増、フィリピンは任務無効化が狙いと非難",
+      "url": "https://www.afpbb.com/articles/-/3656939",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "南シナ海で中国軍・海警局の船艇活動が急増し、フィリピンがその狙いを任務の無効化だと非難したと報じられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "2026年ノーベル平和賞、南アフリカのナビ・ピレイ氏に",
+      "url": "https://www.afpbb.com/articles/-/3656964",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "2026年のノーベル平和賞が南アフリカのナビ・ピレイ氏に授与されることが発表された。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ノーベル平和賞受賞のピレイ氏、拍手が鳴りやまなければトランプ氏と「賞を分け合う」とジョーク",
+      "url": "https://www.afpbb.com/articles/-/3656967",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "ノーベル平和賞を受賞したピレイ氏が、拍手が鳴りやまない場合はトランプ氏と賞を分け合うとジョークを述べたと報じられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止",
+      "url": "https://newsweekjapan.jp/articles/-/336546",
+      "source": "Newsweek日本版",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "ロシアのヤンデックスが、ウクライナによる攻撃を受けてデータセンターの一部が停止したと報じられた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "点検商法疑いガス関連会社幹部ら8人逮捕",
+      "url": "https://www.nippon.com/ja/news/kd1481106386831623095/",
+      "source": "共同通信（nippon.com）",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "点検商法の疑いでガス関連会社の幹部ら8人が逮捕されたと報じられた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「要求に応じなければ会社が火の海に包まれる」スーパー運営会社に脅迫文書を送り現金を脅し取ろうとしたか 71歳の男を逮捕",
+      "url": "https://news.yahoo.co.jp/articles/37c4799d29388417f28f18f23e4f3d8f7e3e1138",
+      "source": "Yahoo!ニュース（静岡放送（SBS））",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "スーパー運営会社に脅迫文書を送り現金を要求したとして、静岡県警が71歳の男を逮捕した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「80回くらいやった」女子高校生に繰り返しわいせつな行為か 児童相談所の職員の男 逮捕",
+      "url": "https://news.yahoo.co.jp/articles/9760bd95e230eb6cc3f2c84fcb96ff1d6971ea9b",
+      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
+      "publishedAt": "2026-10-09T22:24:42.000Z",
+      "summary": "児童相談所の職員の男が、女子高校生に繰り返しわいせつな行為をしたとして逮捕された。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "＜マーケット日報＞ 2026年10月9日",
+      "url": "https://kabutan.jp/news/marketnews/?b=n202610090946",
+      "source": "株探",
+      "publishedAt": "2026-10-09T00:46:00.000Z",
+      "summary": "2026年10月9日の国内マーケットの動向をまとめた市場日報。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "保育施設で男児に暴行を加えたか、保育士の33歳男を逮捕 岡山",
+      "url": "https://news.livedoor.com/topics/detail/32525017/",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-10-09T00:00:00.000Z",
+      "summary": "岡山県の保育施設で男児に暴行を加えた疑いで、33歳の保育士の男が逮捕された。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "Legal Update第57回 2026年10月に押さえておくべき企業法務の最新動向",
+      "url": "https://www.businesslawyers.jp/articles/1578",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-08T23:00:00.000Z",
+      "summary": "2026年10月に企業法務担当者が押さえておくべき最新の法務動向がまとめられている。"
+    },
     {
       "categoryId": "base-accounting",
       "title": "自民 税調インナー議論スタート 外食産業支援や地方税の偏在是正が焦点（テレビ朝日系（ANN））",
@@ -194,12 +290,44 @@
       "summary": "10月8日午前9時15分時点の東京株式市場の値動きを伝える記事。"
     },
     {
+      "categoryId": "base-politics",
+      "title": "簗農水大臣「予算カット発言」野党が追及 高市総理「働いて仕事で返せ」",
+      "url": "https://topics.smt.docomo.ne.jp/article/fnn/politics/fnn-1129577",
+      "source": "FNNプライムオンライン（dメニューニュース）",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "summary": "簗農水大臣の「予算カット発言」を野党が国会で追及し、高市首相が「働いて仕事で返せ」と答弁したと報じられた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "簗農水大臣が国会で釈明→議場内に拍手→「なんのための拍手だ！」とヤジ",
+      "url": "https://news.yahoo.co.jp/articles/51f19823e32696a13f95d6eafa0b987e6552c484",
+      "source": "Yahoo!ニュース（ABEMA TIMES）",
+      "publishedAt": "2026-10-08T00:00:00.000Z",
+      "summary": "簗農水大臣が国会で釈明した際、議場内で拍手とヤジが飛び交う一幕があったと報じられた。"
+    },
+    {
       "categoryId": "base-society",
       "title": "ここ1週間の地震回数 今日8日明け方は千葉県で最大震度4 日頃から備えを",
       "url": "https://tenki.jp/forecaster/deskpart/2026/10/08/40897.html",
       "source": "日本気象協会 tenki.jp",
       "publishedAt": "2026-10-08T00:00:00.000Z",
       "summary": "10月8日明け方に千葉県で最大震度4の地震が発生したことを受け、ここ1週間の地震回数と日頃の備えについて解説する記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "迅速仲裁とは？手続の流れ、期間・コストなどを解説",
+      "url": "https://www.businesslawyers.jp/articles/1579",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-07T23:00:00.000Z",
+      "summary": "迅速仲裁制度の手続の流れや期間、コストについて解説する記事が公開された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「キリン」中心メンバー逮捕 ドイツ当局、日本が拘束―ハッカー集団、国際連携で成果",
+      "url": "https://jiji.com/jc/article?g=soc&k=2026100800838",
+      "source": "時事通信",
+      "publishedAt": "2026-10-07T23:00:00.000Z",
+      "summary": "ハッカー集団「キリン」の中心メンバーをドイツ当局が逮捕し、日本側も拘束するなど国際連携の成果が報じられた。"
     },
     {
       "categoryId": "base-accounting",
@@ -538,14 +666,6 @@
       "summary": "静岡県内のモトクロスコースでオートバイが転倒し、運転していた60代男性が死亡したと伝える記事。"
     },
     {
-      "categoryId": "base-society",
-      "title": "ごみ収集車で頭巻き込まれる 死亡",
-      "url": "https://news.yahoo.co.jp/pickup/6597547",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-10-05T22:18:37.000Z",
-      "summary": "ごみ収集車に頭を巻き込まれた人が死亡したと伝える記事。"
-    },
-    {
       "categoryId": "base-economy",
       "title": "日経平均は1ヵ月半ぶり「6万9,000円台」へ…指数を牽引した「上場来高値」連日更新の〈半導体株〉の存在【10月5日の国内株式市場概況】",
       "url": "https://news.yahoo.co.jp/articles/880ddf60901ccc132cd71df3c947efa432a2b7cd",
@@ -592,38 +712,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-10-05T03:00:00.000Z",
       "summary": "物価上昇率が2%に到達したことを受け、日銀の利上げペースが加速する可能性があると伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "韓国の銀行6行にサイバー攻撃 計2万5000人超の個人情報流出──AIエージェントを使った可能性も 現地報道",
-      "url": "https://www.itmedia.co.jp/news/article/2610/05/2000002009/",
-      "source": "ITmedia NEWS",
-      "publishedAt": "2026-10-05T03:00:00.000Z",
-      "summary": "韓国の銀行6行がサイバー攻撃を受け、2万5000人超の個人情報が流出した可能性があり、AIエージェントが悪用された可能性も現地で報じられていると伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "EU and China to hold two-day talks in Beijing aiming to avert trade war",
-      "url": "https://www.japantimes.co.jp/news/2026/10/05/world/europe-china-trade-war/",
-      "source": "The Japan Times",
-      "publishedAt": "2026-10-05T03:00:00.000Z",
-      "summary": "EUと中国が貿易摩擦の回避を目指し、北京で2日間の協議を行うと伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米最高裁が10月5日に新会期を開始、トランプ政権関連訴訟の審理可否も判断へ",
-      "url": "https://mezha.net/jp/news/65122d45_us_supreme_court",
-      "source": "Mezha.net",
-      "publishedAt": "2026-10-05T03:00:00.000Z",
-      "summary": "米連邦最高裁が10月5日に新たな開廷期を開始し、トランプ政権関連の訴訟を審理するかどうかも判断する見通しだと伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ウクライナ、10月5日は電力使用制限を予定せず 強力な家電は日中の利用を推奨",
-      "url": "https://mezha.net/jp/news/f6abd6c1_ukrenergo_says_ukraine",
-      "source": "Mezha.net",
-      "publishedAt": "2026-10-05T03:00:00.000Z",
-      "summary": "ウクライナの電力会社が10月5日は電力使用制限を予定していないとしつつ、消費電力の大きい家電の利用は日中に行うよう呼びかけていると伝える記事。"
     },
     {
       "categoryId": "base-international",
@@ -738,36 +826,28 @@
       "summary": "経営財務の人気連載「税効果会計って、結局何をしているの？」のバックナンバーが特別公開されたと伝える記事。"
     },
     {
+      "categoryId": "base-accounting",
+      "title": "【コラム】関連者間取引に係る書類の整理保存の特例の創設［あいわ税理士法人 コラム］",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0004pp20261005/",
+      "source": "税務研究会（Zeiken Press）",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "summary": "関連者間取引に係る書類の整理・保存に関する特例創設について解説するコラムが公表された。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "年末調整担当者必見！ 令和8年度実務のポイント［辻・本郷 税理士法人 セミナー情報］",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0006pp20261005/",
+      "source": "税務研究会（Zeiken Press）",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "summary": "令和8年度の年末調整実務のポイントを解説するセミナー情報が公表された。"
+    },
+    {
       "categoryId": "base-law",
       "title": "レコード演奏・伝達権とは？令和8年改正著作権法を解説",
       "url": "https://www.businesslawyers.jp/articles/1575",
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-10-04T23:00:00.000Z",
       "summary": "令和8年に改正された著作権法で新設されたレコード演奏・伝達権について解説する記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "盗難高級車保管疑い、逮捕 パキスタン国籍3人、茨城（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/1d371ff0a65823b5cb1f0ebcb9f9d6a238dfc46f",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-04T22:26:10.000Z",
-      "summary": "盗難された高級車を保管していたとして、パキスタン国籍の男3人が茨城県内で逮捕されたと伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "行方不明の8人発見、いずれも容体不明（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/66dd0bad45358dadabac6fc8e2eee9db67f4beb2",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-04T22:26:10.000Z",
-      "summary": "行方不明になっていた8人が発見されたが、いずれも容体は分かっていないと伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "失踪の女性、26年ぶり発見 中国、人身売買被害者か（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/7f3554567ab70e6a1a73fdbd40a27e22d3a43b25",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-04T22:26:10.000Z",
-      "summary": "26年前に失踪した女性が中国で発見され、人身売買の被害者である可能性があると伝える記事。"
     },
     {
       "categoryId": "base-economy",
@@ -808,14 +888,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-10-04T03:00:00.000Z",
       "summary": "那覇市のホテルで発見された女性の遺体について、強盗殺人容疑で米海兵隊員の男が沖縄県警に逮捕されたと伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（１０月４日）",
-      "url": "https://www.jiji.com/jc/article?k=2026100400101&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-04T00:00:00.000Z",
-      "summary": "高市首相の10月4日の動静（公務日程）を伝える記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -907,14 +979,6 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "2026年10月1日からインボイスの控除割合が80%から70%へ変更",
-      "url": "https://showzeirishi.com/be-modified",
-      "source": "税理士コラム（showzeirishi.com）",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "2026年10月1日からインボイス制度の仕入税額控除割合が80%から70%へ変更されたことを伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "インボイス経過措置は2026年10月1日から70％控除へ｜短期前払費用を使う場合の注意点",
       "url": "https://www.yasuda-cpa-office.com/post/post-20260717-01",
       "source": "安田公認会計士事務所",
@@ -930,20 +994,12 @@
       "summary": "2026年10月に施行される法改正7件について、施行日順にまとめて解説する記事。"
     },
     {
-      "categoryId": "base-law",
-      "title": "声にも「パブリシティー権」初判断 生成ＡＩで模倣、人気声優訴え―削除請求は退ける・東京地裁",
-      "url": "https://www.jiji.com/jc/article?g=soc&k=2026093000118",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-30T00:00:00.000Z",
-      "summary": "生成AIによる声の模倣を巡り、東京地裁が声にもパブリシティー権が及び得るとの初判断を示したが、人気声優の削除請求は退けたと伝える記事。"
-    },
-    {
       "categoryId": "base-accounting",
-      "title": "令和９年度税制改正要望～資産税関係～",
-      "url": "https://www.zeiken.co.jp/zeikenpress/column/0020zp20260928/",
-      "source": "ZEIKEN PRESS(税務研究会)",
-      "publishedAt": "2026-09-28T03:00:00.000Z",
-      "summary": "令和9年度税制改正要望のうち、資産税関係の項目について解説するコラム。"
+      "title": "豊富な実務経験をもつ移転価格税制の専門チームが、中堅税理士法人・コンサルティング会社向け海外展開支援サービスを開始",
+      "url": "https://www.zeiken.co.jp/zeikenpress/press/0032pp20260930/",
+      "source": "税務研究会（Zeiken Press）",
+      "publishedAt": "2026-09-30T00:00:00.000Z",
+      "summary": "移転価格税制の専門チームによる、中堅税理士法人・コンサルティング会社向けの海外展開支援サービス開始が発表された。"
     },
     {
       "categoryId": "base-accounting",
@@ -968,14 +1024,6 @@
       "source": "ZEIKEN PRESS（税務研究会）",
       "publishedAt": "2026-09-14T03:00:00.000Z",
       "summary": "グループ内に赤字会社がある場合、グループ通算制度の導入前に経営改善や赤字要因の見極めを優先すべきだと解説している。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "消費減税、特例・経過措置で複雑化 事業者や消費者、混乱の恐れ",
-      "url": "https://www.jiji.com/jc/article?k=2026091101017&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-09-11T03:00:00.000Z",
-      "summary": "消費税減税を巡る特例や経過措置が複雑化しており、事業者の経理実務や消費者に混乱が生じる恐れが指摘されている。"
     },
     {
       "categoryId": "base-law",
