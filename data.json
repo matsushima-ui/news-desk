@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-14T05:08:32.765Z",
+  "syncedAt": "2026-10-15T05:10:10.526Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -35,11 +35,51 @@
   "articles": [
     {
       "categoryId": "base-economy",
+      "title": "米金融大手、５社増益 ＩＰＯ減速が逆風―７～９月期",
+      "url": "https://www.jiji.com/jc/article?k=2026101401259&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "米国の金融大手5社が7～9月期決算で増益となった一方、IPO減速が逆風になったと伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "「困難な世界」に国際協調を 中東混乱のコスト警告―ノルウェー開発相",
+      "url": "https://www.jiji.com/jc/article?k=2026101400732&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "ノルウェーの開発相が、中東の混乱によるコストを警告し、「困難な世界」において国際協調が必要だと訴えたと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "化粧など「男性より時間かかる」 高市首相、国会審議巡り吐露",
+      "url": "https://www.jiji.com/jc/article?k=2026101400855&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "高市首相が国会審議の場で、化粧などの準備に男性より時間がかかるといった趣旨の発言をしたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "米俳優セルマ・ブレア容疑者、暴行容疑で逮捕 機内で客室乗務員２人けが",
+      "url": "https://jiji.com/jc/article?g=afp&k=20261014049454a",
+      "source": "時事ドットコム（AFP）",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "米俳優セルマ・ブレア容疑者が機内で客室乗務員2人にけがを負わせたとして暴行容疑で逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
       "title": "９月の企業物価、６．８％上昇 コメ値下がりで伸び縮小―日銀",
       "url": "https://www.jiji.com/jc/article?k=2026101300206&g=eco&p=20261013ax02S&rel=pv",
       "source": "時事ドットコム",
       "publishedAt": "2026-10-13T03:00:00.000Z",
       "summary": "日銀が発表した9月の企業物価指数は前年比6.8%上昇したが、コメの値下がりにより伸びは縮小した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "イオン、純利益３．３倍 ドラッグストアが好調―８月中間決算",
+      "url": "https://www.jiji.com/jc/article?k=2026101300894&g=eco",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-13T03:00:00.000Z",
+      "summary": "イオンの8月中間決算で純利益が前年同期の3.3倍となり、ドラッグストア事業の好調が要因になったと伝える記事。"
     },
     {
       "categoryId": "base-economy",
@@ -141,7 +181,7 @@
       "categoryId": "base-politics",
       "title": "高市総理「予算委員会が終わった後、しっかりと話を聞きたい」あす簗農水大臣と面会へ 進退に注目 今夜にも電話で聴取（FNNプライムオンライン）",
       "url": "https://news.yahoo.co.jp/articles/ed333ddf410f97e7e0f4a3358e2f755db893f869",
-      "source": "Yahoo!ニュース（FNNプライムオンライン）",
+      "source": "Yahoo!ニュース（FNNプライムオンライン（フジテレビ系））",
       "publishedAt": "2026-10-13T03:00:00.000Z",
       "summary": "高市首相は予算委員会終了後に簗農水相から話を聞く考えを示し、14日に面会する予定で進退判断が注目されている。"
     },
@@ -507,14 +547,6 @@
     },
     {
       "categoryId": "base-international",
-      "title": "ICE捜査官が男性に発砲、NY市長は活動停止要求へ",
-      "url": "https://www.afpbb.com/articles/-/3656906",
-      "source": "AFPBB News",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "米移民税関捜査局（ICE）の捜査官が男性に発砲し、ニューヨーク市長が活動停止を求める方針だと報じられた。"
-    },
-    {
-      "categoryId": "base-international",
       "title": "南シナ海で中国軍・海警局の舟艇が急増、フィリピンは任務無効化が狙いと非難",
       "url": "https://www.afpbb.com/articles/-/3656939",
       "source": "AFPBB News",
@@ -675,14 +707,6 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "東京円、１５８円台前半",
-      "url": "https://ryukyushimpo.jp/kyodo/entry-5542415.html",
-      "source": "琉球新報（共同通信）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "東京外国為替市場でドル円が158円台前半で推移していると伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "26年4～9月の新車販売5％増 新型投入、税廃止が追い風（共同通信）",
       "url": "https://news.yahoo.co.jp/articles/88ca1b2b6bd33d0a65f6d902c9211def4b640cc1",
       "source": "Yahoo!ニュース（共同通信）",
@@ -707,14 +731,6 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "衆院代表質問 高市首相、消費減税「最善の方法」 臨時国会の論戦開始（産経新聞）",
-      "url": "https://news.yahoo.co.jp/articles/74be536980e9fa8a212c058b9a6f99446d6ed043",
-      "source": "Yahoo!ニュース（産経新聞）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "衆院の代表質問で高市首相が消費税減税について「最善の方法」と述べ、臨時国会の論戦が始まったと伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
       "title": "参院代表質問、8、9両日実施で正式合意（共同通信）",
       "url": "https://news.yahoo.co.jp/articles/a0305f064b69136766800839870b2cba9cb23af8",
       "source": "Yahoo!ニュース（共同通信）",
@@ -730,28 +746,12 @@
       "summary": "衆院代表質問で高市首相が簗農水相の更迭を否定し、同氏の発言を「不適切」と述べたと伝える記事。"
     },
     {
-      "categoryId": "base-society",
-      "title": "三幸製菓荒川工場で6人死亡の火災 元CEOら幹部4人を業務上過失致死の罪で在宅起訴 新潟地検（ＢＳＮ新潟放送）",
-      "url": "https://news.yahoo.co.jp/articles/6decea57daaa7cadb9d9490d4ab78ced1fc6e620",
-      "source": "Yahoo!ニュース（ＢＳＮ新潟放送）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "三幸製菓荒川工場の火災で6人が死亡した事件を巡り、新潟地検が元CEOら幹部4人を業務上過失致死の罪で在宅起訴したと伝える記事。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "10月からふるさと納税が新ルールに！返礼品実質値上げの懸念や海外産ワイン巡る問題から見る制度のあり方",
       "url": "https://s.mxtv.jp/tokyomxplus/mx/article/202610080650",
       "source": "TOKYO MX+（プラス）",
       "publishedAt": "2026-10-08T06:00:00.000Z",
       "summary": "10月からふるさと納税の新ルールが始まり、返礎品の実質値上げへの懸念や海外産ワインを巡る問題から制度のあり方を考察する記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東京為替：ドル・円は上値が重い、米金利にらみ",
-      "url": "https://www.zaikei.co.jp/article/20261008/872819.html",
-      "source": "財経新聞",
-      "publishedAt": "2026-10-08T03:00:00.000Z",
-      "summary": "米金利の動向を見ながら、東京外国為替市場でドル円が上値の重い展開となっていると伝える記事。"
     },
     {
       "categoryId": "base-politics",
@@ -800,14 +800,6 @@
       "source": "Yahoo!ニュース（毎日新聞）",
       "publishedAt": "2026-10-07T22:23:15.000Z",
       "summary": "生活保護費の減額を違法とする最高裁の初めての統一判断が示され、受給者側の勝訴が確定したと伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "生活保護減額は違法と高裁判断 和歌山の受給者勝訴、一審支持（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/1db1c57485818330f7702545304504daeaa6e294",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-07T22:23:15.000Z",
-      "summary": "生活保護費の減額を違法とする高裁判断が示され、和歌山の受給者側が勝訴し一審判断が支持されたと伝える記事。"
     },
     {
       "categoryId": "base-law",
@@ -867,14 +859,6 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "【無料】「税効果会計って、結局何をしているの？」経営財務の人気バックナンバー連載を特別公開！",
-      "url": "https://www.zeiken.co.jp/news/27869191.php",
-      "source": "税務研究会",
-      "publishedAt": "2026-10-05T00:00:00.000Z",
-      "summary": "経営財務の人気連載「税効果会計って、結局何をしているの？」のバックナンバーが特別公開されたと伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "【コラム】関連者間取引に係る書類の整理保存の特例の創設［あいわ税理士法人 コラム］",
       "url": "https://www.zeiken.co.jp/zeikenpress/press/0004pp20261005/",
       "source": "税務研究会（Zeiken Press）",
@@ -899,6 +883,14 @@
     },
     {
       "categoryId": "base-accounting",
+      "title": "企業会計審議会監査部会（第57回）の開催について",
+      "url": "https://www.fsa.go.jp/news/r8/singi/20261002_kansa.html",
+      "source": "金融庁",
+      "publishedAt": "2026-10-02T00:00:00.000Z",
+      "summary": "金融庁が企業会計審議会監査部会の第57回会合の開催を発表した。"
+    },
+    {
+      "categoryId": "base-accounting",
       "title": "[10月施行]ふるさと納税 制度改正実施",
       "url": "https://www.jimin.jp/news/information/206421.html",
       "source": "自由民主党",
@@ -912,6 +904,14 @@
       "source": "株探",
       "publishedAt": "2026-10-01T06:00:00.000Z",
       "summary": "10月1日の東京株式市場で日経平均が続急伸し、半導体関連株がけん引して6万9000円台に迫ったと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "新・「同一労働同一賃金ガイドライン」の施行",
+      "url": "https://www.mhlw.go.jp/content/11909000/001696696.pdf",
+      "source": "厚生労働省",
+      "publishedAt": "2026-10-01T00:00:00.000Z",
+      "summary": "2026年10月1日より新しい「同一労働同一賃金ガイドライン」が施行された。"
     },
     {
       "categoryId": "base-accounting",
