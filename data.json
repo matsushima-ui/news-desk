@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-15T05:10:10.526Z",
+  "syncedAt": "2026-10-16T05:05:10.000Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,6 +34,150 @@
   ],
   "articles": [
     {
+      "categoryId": "base-international",
+      "title": "トランプ氏、グリーンランドで「大規模資源探査の準備進む」",
+      "url": "https://www.afpbb.com/articles/-/3657570",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "トランプ氏は、グリーンランドで大規模な資源探査の準備が進んでいると主張した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "独極右AfDと極左政党がウクライナ支援停止で協力、州議会で動議可決",
+      "url": "https://www.afpbb.com/articles/-/3657670",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "ドイツの極右政党AfDと極左政党が、州議会でウクライナ支援停止を求める動議を協力して可決させた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "コカ・コーラにマクドナルド、ウクライナの米国企業を攻撃するロシア",
+      "url": "https://www.cnn.co.jp/world/35253548.html",
+      "source": "CNN.co.jp",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "ロシアがウクライナ国内の米国企業を攻撃しているが、トランプ政権は反応を示していないと報じられている。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "グリーンランド、石油・天然ガスの大規模探査が近く開始とのトランプ氏主張を否定",
+      "url": "https://www.cnn.co.jp/world/35253557.html",
+      "source": "CNN.co.jp",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "グリーンランド側は、石油・天然ガスの大規模探査が近く始まるとのトランプ氏の主張を否定した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ゼレンスキー氏、トランプ氏に「裏切られた」 ロシアとの燃料取引受け",
+      "url": "https://www.cnn.co.jp/world/35253568.html",
+      "source": "CNN.co.jp",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "ロシアとの燃料取引をめぐり、ゼレンスキー大統領がトランプ氏への不満を示したと報じられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "武部新氏を農林水産大臣に起用へ 高市総理が意向固める",
+      "url": "https://news.tv-asahi.co.jp/news_politics/articles/000540325.html",
+      "source": "テレビ朝日",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "辞任する簗農水相の後任として、武部新氏の起用を高市首相が固めたと伝えられている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【速報】千葉県タクシー協会が全車両にハンマー配備",
+      "url": "https://www.47news.jp/15081223.html",
+      "source": "47NEWS",
+      "publishedAt": "2026-10-15T22:21:38.000Z",
+      "summary": "千葉県タクシー協会が、緊急時に備えて全車両に脱出用のハンマーを配備すると発表した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【今日のマクロ経済】日経平均4.9%下落、AI投資に資金不安",
+      "url": "https://crypto-times.jp/news-macro-update-20261015/",
+      "source": "CRYPTO TIMES",
+      "publishedAt": "2026-10-15T06:00:00.000Z",
+      "summary": "AI関連投資への資金不安が広がり、15日の日経平均は4.9%下落した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【10月15日(木)東京株式市場】日経平均株価は過去3番目の下げ幅、3318円安",
+      "url": "https://www.yayafa.com/2911192/",
+      "source": "YAYAFA",
+      "publishedAt": "2026-10-15T06:00:00.000Z",
+      "summary": "15日の東京株式市場で日経平均株価が過去3番目の下げ幅となる3318円安を記録した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【独自】外食業界の大規模支援、見送りへ 消費税10％維持、客離れ懸念",
+      "url": "https://www.47news.jp/15076340.html",
+      "source": "47NEWS",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "消費税率10%の維持が決まる一方、外食業界への大規模な支援策は見送られる見通しとなった。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均 一時2200円超値下がり",
+      "url": "https://news.livedoor.com/topics/detail/32569843/",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "15日の東京株式市場で日経平均株価が一時2200円を超える値下がりとなった。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【独自取材！万博工事費未払い問題】アンゴラが「1700万円」肩代わり",
+      "url": "https://newsdig.tbs.co.jp/articles/-/3009397",
+      "source": "TBS NEWS DIG",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "大阪・関西万博の工事費未払い問題で、アンゴラが約1700万円を肩代わりした経緯が報じられた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "サウジアラビア最高裁、スリランカ人男性の死刑判決を破棄 イスラム教冒涜で",
+      "url": "https://afpbb.com/articles/-/3657772",
+      "source": "AFPBB News",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "サウジアラビアの最高裁は、イスラム教冒涜罪に問われたスリランカ人男性への死刑判決を破棄した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "検事の侮辱発言、賠償確定",
+      "url": "https://daily.co.jp/society/national/2026/10/15/0020931285.shtml",
+      "source": "デイリースポーツ online",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "検事による侮辱的な発言をめぐる国への賠償命令が最高裁で確定したと伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "民事訴訟の提出システムに障害 代替手段促す、デジタル化後初―最高裁",
+      "url": "https://www.jiji.com/jc/article?k=2026101501095&g=soc&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "最高裁は民事訴訟のオンライン提出システムに障害が生じたとして、デジタル化後初めて代替手段の利用を促した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "取り調べに「ガキ」検事発言 国への110万円賠償命令が確定 最高裁（テレビ朝日系（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/60c861bfa4616a0e93943975a61af10254268aeb",
+      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "取り調べ中に検事が容疑者へ「ガキ」と発言した問題で、国に110万円の賠償を命じる判決が最高裁で確定した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "拘置支所でがんの23歳受刑者死亡 国が不適切な治療認め和解",
+      "url": "https://news.infoseek.co.jp/article/mainichi_20261015k0000m040329000c/",
+      "source": "Infoseekニュース（毎日新聞）",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "拘置支所でがんを患っていた23歳の受刑者が死亡し、国が不適切な治療があったことを認めて和解した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "登録者100万人超えのユーチューバー『KENZO新宿109』会社役員の男性に対する名誉毀損の疑いで逮捕",
+      "url": "https://news.yahoo.co.jp/articles/bde21d3dff30d9c327562fe4aef07f10aa305c6c",
+      "source": "Yahoo!ニュース（読売テレビ）",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "登録者100万人超のユーチューバーが、会社役員の男性に対する名誉毀損の疑いで逮捕された。"
+    },
+    {
       "categoryId": "base-economy",
       "title": "米金融大手、５社増益 ＩＰＯ減速が逆風―７～９月期",
       "url": "https://www.jiji.com/jc/article?k=2026101401259&g=int",
@@ -58,12 +202,52 @@
       "summary": "高市首相が国会審議の場で、化粧などの準備に男性より時間がかかるといった趣旨の発言をしたと伝える記事。"
     },
     {
+      "categoryId": "base-politics",
+      "title": "高市首相「任命責任受け止める」 簗農水相の辞任受け入れ",
+      "url": "https://www.sankei.com/article/20261014-CA336CPS35J4ZI4CBUHSJJVT4Y/",
+      "source": "産経新聞",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "高市首相は任命責任を認め、簗農水相の辞任を受け入れた。後任は15日に公表される見通し。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "遅れた更迭判断、第1次内閣の「成功体験」影響か",
+      "url": "https://www.sankei.com/article/20261014-IAZNBU25KFNXPJNRBLJPQZKC6I/",
+      "source": "産経新聞",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "簗農水相の更迭判断が遅れた背景として、高市首相の第1次内閣での経験が影響したとの見方が伝えられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "共産党員、2年で2万人減の23万人",
+      "url": "https://www.sankei.com/article/20261014-YUYBSJ4ZLZHLBPKQ75P32NNQ4Y/",
+      "source": "産経新聞",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "共産党員が2年間で約2万人減少し23万人となったことが明らかになり、田村委員長は若い世代への継承を訴えた。"
+    },
+    {
       "categoryId": "base-society",
       "title": "米俳優セルマ・ブレア容疑者、暴行容疑で逮捕 機内で客室乗務員２人けが",
       "url": "https://jiji.com/jc/article?g=afp&k=20261014049454a",
       "source": "時事ドットコム（AFP）",
       "publishedAt": "2026-10-14T03:00:00.000Z",
       "summary": "米俳優セルマ・ブレア容疑者が機内で客室乗務員2人にけがを負わせたとして暴行容疑で逮捕されたと伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "消防車両が横転、現場に向かう途中の交差点で",
+      "url": "https://www.sankei.com/article/20261014-FPZ3QT5ZBRPCVD3DCHUWXD4ZRM/",
+      "source": "産経新聞",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "東京都大田区で、出動中の消防車両が交差点で横転する事故が起きた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "撮り鉄がＪＲ釧網線沿いの樹木伐採の疑い",
+      "url": "https://www.yomiuri.co.jp/national/20261014-GYT1T00057/",
+      "source": "読売新聞",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "くしろ湿原ノロッコ号の撮影のため、JR釧網線沿いの樹木が無断で伐採された疑いがある。"
     },
     {
       "categoryId": "base-economy",
@@ -250,6 +434,22 @@
       "summary": "首都高速「台場」出口付近で衝突事故が発生し、4人がケガをしたと伝える記事。"
     },
     {
+      "categoryId": "base-accounting",
+      "title": "小倉加奈子が聞く！ 有報「一本化」と開示制度の未来③ 日本公認会計士協会",
+      "url": "https://www.zeiken.co.jp/news/28569586.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-12T03:00:00.000Z",
+      "summary": "有価証券報告書の「一本化」や開示制度の今後について、日本公認会計士協会への取材を基にした連載記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "不正対応では監査基準を改訂せず",
+      "url": "https://www.zeiken.co.jp/news/28569588.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-12T03:00:00.000Z",
+      "summary": "不正対応を理由とした監査基準の改訂は行わない方針であることが伝えられている。"
+    },
+    {
       "categoryId": "base-international",
       "title": "サウジ首都の国際空港にフーシ派が再攻撃、1人死亡 11人負傷（ＡＦＰ＝時事）",
       "url": "https://news.yahoo.co.jp/articles/d599a98669698a3bc36135f10460eadba6c66696",
@@ -272,6 +472,14 @@
       "source": "神戸新聞NEXT",
       "publishedAt": "2026-10-12T03:00:00.000Z",
       "summary": "神戸市垂水区の海神社の秋祭りで巡行中の布団太鼓が見物人と接触し、中学生を含む5人が重軽傷を負ったと伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "ニデック ２期連続で監査意見不表明",
+      "url": "https://www.zeiken.co.jp/news/28569590.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-12T02:50:00.000Z",
+      "summary": "ニデックについて、監査法人が2期連続で監査意見の不表明を行ったと伝える記事。"
     },
     {
       "categoryId": "base-international",
@@ -490,14 +698,6 @@
       "summary": "note社が好調な決算を発表し、その要因が決算書の内容から分析されている。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "米国株式市場見通し：海外半導体企業の決算発表を受けた株価反応が焦点に",
-      "url": "https://zaikei.co.jp/article/20261010/873066.html",
-      "source": "財経新聞",
-      "publishedAt": "2026-10-10T03:00:00.000Z",
-      "summary": "海外半導体企業の決算発表を受けた株価の反応が、今後の米国株式市場の焦点になるとみられている。"
-    },
-    {
       "categoryId": "base-international",
       "title": "ロシアが軽油３０万トン供給 米、価格抑制狙い制裁緩和―トランプ、プーチン氏が合意",
       "url": "https://www.jiji.com/jc/article?k=2026101000179&g=int",
@@ -544,70 +744,6 @@
       "source": "OBC360°",
       "publishedAt": "2026-10-09T22:24:42.000Z",
       "summary": "2026年10月の税制改正によるインボイス制度の特例措置の変更点と、企業が取るべき対応策について解説している。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "南シナ海で中国軍・海警局の舟艇が急増、フィリピンは任務無効化が狙いと非難",
-      "url": "https://www.afpbb.com/articles/-/3656939",
-      "source": "AFPBB News",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "南シナ海で中国軍・海警局の船艇活動が急増し、フィリピンがその狙いを任務の無効化だと非難したと報じられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "2026年ノーベル平和賞、南アフリカのナビ・ピレイ氏に",
-      "url": "https://www.afpbb.com/articles/-/3656964",
-      "source": "AFPBB News",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "2026年のノーベル平和賞が南アフリカのナビ・ピレイ氏に授与されることが発表された。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ノーベル平和賞受賞のピレイ氏、拍手が鳴りやまなければトランプ氏と「賞を分け合う」とジョーク",
-      "url": "https://www.afpbb.com/articles/-/3656967",
-      "source": "AFPBB News",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "ノーベル平和賞を受賞したピレイ氏が、拍手が鳴りやまない場合はトランプ氏と賞を分け合うとジョークを述べたと報じられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ロシア・ヤンデックス、ウクライナの攻撃でデータセンター一部停止",
-      "url": "https://newsweekjapan.jp/articles/-/336546",
-      "source": "Newsweek日本版",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "ロシアのヤンデックスが、ウクライナによる攻撃を受けてデータセンターの一部が停止したと報じられた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "点検商法疑いガス関連会社幹部ら8人逮捕",
-      "url": "https://www.nippon.com/ja/news/kd1481106386831623095/",
-      "source": "共同通信（nippon.com）",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "点検商法の疑いでガス関連会社の幹部ら8人が逮捕されたと報じられた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「要求に応じなければ会社が火の海に包まれる」スーパー運営会社に脅迫文書を送り現金を脅し取ろうとしたか 71歳の男を逮捕",
-      "url": "https://news.yahoo.co.jp/articles/37c4799d29388417f28f18f23e4f3d8f7e3e1138",
-      "source": "Yahoo!ニュース（静岡放送（SBS））",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "スーパー運営会社に脅迫文書を送り現金を要求したとして、静岡県警が71歳の男を逮捕した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「80回くらいやった」女子高校生に繰り返しわいせつな行為か 児童相談所の職員の男 逮捕",
-      "url": "https://news.yahoo.co.jp/articles/9760bd95e230eb6cc3f2c84fcb96ff1d6971ea9b",
-      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
-      "publishedAt": "2026-10-09T22:24:42.000Z",
-      "summary": "児童相談所の職員の男が、女子高校生に繰り返しわいせつな行為をしたとして逮捕された。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "ＮＹ各市場 ４時台 ダウ平均は５１２ドル高 シカゴ日経平均先物は６万９１００円",
-      "url": "https://fx.minkabu.jp/news/381264",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-10-09T19:31:00.000Z",
-      "summary": "ニューヨーク市場でダウ平均が512ドル高となり、シカゴ日経平均先物は69100円を付けた。"
     },
     {
       "categoryId": "base-economy",
@@ -666,84 +802,12 @@
       "summary": "衆院議員定数の削減幅をめぐり、自民党・鈴木幹事長の案が国会論議の焦点になっていると伝える記事。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "＜マーケット日報＞ 2026年10月9日",
-      "url": "https://kabutan.jp/news/marketnews/?b=n202610090946",
-      "source": "株探",
-      "publishedAt": "2026-10-09T00:46:00.000Z",
-      "summary": "2026年10月9日の国内マーケットの動向をまとめた市場日報。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "保育施設で男児に暴行を加えたか、保育士の33歳男を逮捕 岡山",
-      "url": "https://news.livedoor.com/topics/detail/32525017/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-10-09T00:00:00.000Z",
-      "summary": "岡山県の保育施設で男児に暴行を加えた疑いで、33歳の保育士の男が逮捕された。"
-    },
-    {
       "categoryId": "base-law",
       "title": "Legal Update第57回 2026年10月に押さえておくべき企業法務の最新動向",
       "url": "https://www.businesslawyers.jp/articles/1578",
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-10-08T23:00:00.000Z",
       "summary": "2026年10月に企業法務担当者が押さえておくべき最新の法務動向がまとめられている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "自民 税調インナー議論スタート 外食産業支援や地方税の偏在是正が焦点（テレビ朝日系（ANN））",
-      "url": "https://news.yahoo.co.jp/articles/5a10ac32107e478019258f345a27cb47dfc5ad2f",
-      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "自民党税制調査会のインナー議論が始まり、外食産業支援や地方税の偏在是正が焦点になっていると伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "「消費税減税 十分な支援策を」 日本チェーンストア協会が来年度税制改正に要望（食品新聞）",
-      "url": "https://news.yahoo.co.jp/articles/83f2de5040e3f9939c7b0d0b65a9d540f069ce15",
-      "source": "Yahoo!ニュース（食品新聞）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "日本チェーンストア協会が消費税減税に関して十分な支援策を求め、来年度税制改正への要望を示したと伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "26年4～9月の新車販売5％増 新型投入、税廃止が追い風（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/88ca1b2b6bd33d0a65f6d902c9211def4b640cc1",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "2026年4～9月の新車販売が前年比5％増となり、新型車の投入や税の廃止が販売を押し上げたと伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "生活保護費カット「違法」判決確定も行政は全額補償せず、独自算定で“半減”に…「最高裁は国に“抜け道”を与えるな」弁論で弁護団が“救済”要求（弁護士JPニュース）",
-      "url": "https://news.yahoo.co.jp/articles/ad29caa6c58aa4ecf3957806a42129e6337b2e53",
-      "source": "Yahoo!ニュース（弁護士JPニュース）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "生活保護費カットを違法とする判決が確定したにもかかわらず行政側が全額補償していないとして、弁護団が最高裁に救済を求めたと伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "令和7年7月参院選の「一票の格差」巡り最高裁で弁論 全16件の統一判断へ（産経新聞）",
-      "url": "https://news.yahoo.co.jp/articles/d19ec963c5ef1400a943b9e8719e55bf345cb8eb",
-      "source": "Yahoo!ニュース（産経新聞）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "令和7年7月の参院選における「一票の格差」を巡り最高裁で弁論が開かれ、全16件について統一判断が示される見通しだと伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "参院代表質問、8、9両日実施で正式合意（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/a0305f064b69136766800839870b2cba9cb23af8",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "臨時国会の参院代表質問が8日・9日の両日に実施されることで、与野党が正式合意したと伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "簗農水相の更迭否定 高市首相「不適切な発言」 代表質問（時事通信）",
-      "url": "https://news.yahoo.co.jp/articles/a5d717fd817f8cc5cf710bd15921686e19c41de1",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-10-08T22:19:52.000Z",
-      "summary": "衆院代表質問で高市首相が簗農水相の更迭を否定し、同氏の発言を「不適切」と述べたと伝える記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -762,14 +826,6 @@
       "summary": "簗農水大臣の「予算カット発言」を野党が国会で追及し、高市首相が「働いて仕事で返せ」と答弁したと報じられた。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "簗農水大臣が国会で釈明→議場内に拍手→「なんのための拍手だ！」とヤジ",
-      "url": "https://news.yahoo.co.jp/articles/51f19823e32696a13f95d6eafa0b987e6552c484",
-      "source": "Yahoo!ニュース（ABEMA TIMES）",
-      "publishedAt": "2026-10-08T00:00:00.000Z",
-      "summary": "簗農水大臣が国会で釈明した際、議場内で拍手とヤジが飛び交う一幕があったと報じられた。"
-    },
-    {
       "categoryId": "base-law",
       "title": "迅速仲裁とは？手続の流れ、期間・コストなどを解説",
       "url": "https://www.businesslawyers.jp/articles/1579",
@@ -784,22 +840,6 @@
       "source": "時事通信",
       "publishedAt": "2026-10-07T23:00:00.000Z",
       "summary": "ハッカー集団「キリン」の中心メンバーをドイツ当局が逮捕し、日本側も拘束するなど国際連携の成果が報じられた。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "上場企業、6年連続最高益更新へ AI関連、銀行けん引（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/9a1bfaad862040e26f8167e256009306564cc305",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-07T22:23:15.000Z",
-      "summary": "上場企業の純利益が6年連続で最高を更新する見通しとなり、AI関連や銀行がけん引役になっていると伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "生活保護費減額は違法 最高裁が初の統一判断 受給者の勝訴確定（毎日新聞）",
-      "url": "https://news.yahoo.co.jp/articles/175ff8ed3a42166196bdc06b934eaa22354e53b4",
-      "source": "Yahoo!ニュース（毎日新聞）",
-      "publishedAt": "2026-10-07T22:23:15.000Z",
-      "summary": "生活保護費の減額を違法とする最高裁の初めての統一判断が示され、受給者側の勝訴が確定したと伝える記事。"
     },
     {
       "categoryId": "base-law",
@@ -848,6 +888,22 @@
       "source": "Yahoo!ニュース（TBS NEWS DIG Powered by JNN）",
       "publishedAt": "2026-10-05T09:00:00.000Z",
       "summary": "ふるさと納税の返礼品が2万品目超で終了となる見込みで、ルール厳格化の影響や10月からのビール税率変化を解説する記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "会計方針の変更 2027年３月期1Qは41社・41件",
+      "url": "https://www.zeiken.co.jp/news/27869271.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-05T03:00:00.000Z",
+      "summary": "2027年3月期第1四半期において、会計方針の変更を行った企業が41社・41件に上ったと伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "改訂版CGコード 早期対応企業は総会前開示への対応をどう開示した？",
+      "url": "https://www.zeiken.co.jp/news/27869272.php",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-05T03:00:00.000Z",
+      "summary": "改訂版コーポレートガバナンス・コードに早期対応した企業が、総会前開示への対応状況をどのように開示したかを伝える記事。"
     },
     {
       "categoryId": "base-economy",
@@ -936,14 +992,6 @@
       "source": "税務研究会（Zeiken Press）",
       "publishedAt": "2026-09-30T00:00:00.000Z",
       "summary": "移転価格税制の専門チームによる、中堅税理士法人・コンサルティング会社向けの海外展開支援サービス開始が発表された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "資産除去債務に関する会計上の見積りの変更が過去最高の210件に",
-      "url": "https://www.zeiken.co.jp/news/27169139.php",
-      "source": "税務研究会",
-      "publishedAt": "2026-09-28T00:00:00.000Z",
-      "summary": "資産除去債務に関する会計上の見積りの変更を行った件数が過去最高の210件となったと伝える記事。"
     },
     {
       "categoryId": "base-accounting",
