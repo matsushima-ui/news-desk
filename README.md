@@ -17,11 +17,11 @@ python3 generate.py
 
 ## 同期の運用方針
 
-便利帳プロジェクトと同じ方針で、**このリポジトリへの自動push は行いません**(認証情報をどこにも保存しないため)。
+2026-09-14以降、便利帳プロジェクトと同じ方式(ローカルのClaude Code CLIで`/schedule`コマンドを使い、GitHub App経由でこのリポジトリへのアクセスを許可する方式)で、**自動同期・自動pushが毎日動いています**。
 
-- claude.ai側の自動収集は毎日動いていますが、このGitHub Pages側は最新化しません
-- 「ニュース定点観測をGitHubに同期して」とClaudeに頼んだときに、`data.json` を最新化して `generate.py` を実行し、変更をpushします
-- 手動で更新したい場合は、claude.aiのArtifactからカテゴリ・記事データを確認し、`data.json` を書き換えて `generate.py` を実行してください
+- claude.ai側で毎朝ニュースを自動収集した後、その約半日後に自動同期タスクが起動し、Artifactの最新データを取得して `data.json` を更新・`generate.py` を実行し、差分があればコミット・pushします
+- 手動で今すぐ最新化したい場合は、「ニュース定点観測をGitHubに同期して」とClaudeに頼めば、同様に `data.json` を最新化して `generate.py` を実行し、pushします
+- 自分で更新したい場合は、claude.aiのArtifactからカテゴリ・記事データを確認し、`data.json` を書き換えて `python3 generate.py` を実行してください
 
 ## 公開設定
 

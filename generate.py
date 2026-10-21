@@ -14,13 +14,14 @@ index.html を静的に書き出す。
 """
 import json
 import html
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 HERE = Path(__file__).parent
 DATA_PATH = HERE / "data.json"
 OUT_PATH = HERE / "index.html"
 ARTIFACT_URL = "https://claude.ai/code/artifact/77481c43-0519-4a44-8502-27c32be1c994"
+JST = timezone(timedelta(hours=9))
 
 PALETTE = ['#B23A48', '#1F7A5C', '#8A5A00', '#4B4E9E', '#0E7C86', '#B2621E',
            '#7A3E9D', '#2C6E49', '#9C4221', '#33608A']
@@ -38,7 +39,7 @@ def fmt_date(iso: str) -> str:
         d = datetime.fromisoformat(iso.replace("Z", "+00:00"))
     except ValueError:
         return iso[:10]
-    d_jst = d.astimezone(timezone.utc)
+    d_jst = d.astimezone(JST)
     return f"{d_jst.month}/{d_jst.day}"
 
 
