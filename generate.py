@@ -7,7 +7,10 @@ index.html を静的に書き出す。
 
 このミラーはスナップショットであり、リアルタイムには更新されない。
 最新のカテゴリ管理・自動収集は claude.ai 上のArtifact本体で行われ、
-このリポジトリはClaudeに頼んで手動で同期する運用(便利帳プロジェクトと同じ方針)。
+このリポジトリへは自動同期ルーティン(GitHub App経由、毎日実行)が
+data.json を更新してこのスクリプトを実行し、差分があれば自動でpushする
+(便利帳プロジェクトと同じ方式)。手動で今すぐ同期したい場合はClaudeに
+「ニュース定点観測をGitHubに同期して」と頼むこともできる。
 
 使い方:
     python3 generate.py
@@ -133,7 +136,7 @@ def build():
     <h1 class="site-title">ニュース定点観測</h1>
     <div class="site-sub">自分で選んだ分野だけを、毎朝自動で集める個人ニュースボード(静的ミラー)</div>
   </header>
-  <div class="sync-note">これは <strong>{esc(synced_display)}</strong> 時点のスナップショットです。分野の追加・削除やリアルタイム更新は <a href="{esc(ARTIFACT_URL)}" target="_blank" rel="noopener">claude.ai の本体ページ</a> で行われ、このページはClaudeに依頼したときに手動で同期されます。</div>
+  <div class="sync-note">これは <strong>{esc(synced_display)}</strong> 時点のスナップショットです(毎日自動で同期されています)。分野の追加・削除やリアルタイム更新は <a href="{esc(ARTIFACT_URL)}" target="_blank" rel="noopener">claude.ai の本体ページ</a> で行われます。</div>
   <div class="cat-tabs" id="tabs">{"".join(tabs_html)}</div>
   <main class="feed" id="feed">{"".join(cards_html)}</main>
   <footer>ニュース定点観測 ・ 静的ミラー ・ matsushima-ui/news-desk</footer>
