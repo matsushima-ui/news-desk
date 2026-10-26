@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-25T05:18:26.217Z",
+  "syncedAt": "2026-10-26T05:18:03.583Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,6 +34,110 @@
   ],
   "articles": [
     {
+      "categoryId": "base-society",
+      "title": "美祢和菓子店店主殺害事件、便利業の男ら2人を強盗殺人容疑で逮捕",
+      "url": "https://news.yahoo.co.jp/articles/56827aec21a0e1cd354be07332ac1fead380e035",
+      "source": "Yahoo!ニュース（KRY山口放送）",
+      "publishedAt": "2026-10-25T22:10:37.000Z",
+      "summary": "山口県美祢市の老舗和菓子店店主殺害事件で、便利業の男ら2人が強盗殺人などの容疑で逮捕された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/71b4727271513a49f9dbe95c7149be15915ff5c0",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-10-25T22:10:37.000Z",
+      "summary": "首相のX（旧ツイッター）への返信で外国人関連の投稿が急増しており、「移民反対」を訴えるケースも相次いでいる。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "台風３０号は温帯低気圧に…本州付近の前線活発化、大雨に警戒必要（読売新聞オンライン）",
+      "url": "https://news.yahoo.co.jp/articles/661dfd078ae6343206a1f909f66d4a0a94e0901f",
+      "source": "Yahoo!ニュース（読売新聞オンライン）",
+      "publishedAt": "2026-10-25T18:00:00.000Z",
+      "summary": "台風30号が温帯低気圧に変わる一方、本州付近の前線が活発化し、大雨への警戒が必要とされている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【速報】台風30号は温帯低気圧に変わりました 九州から関東は27日にかけ大雨警戒（tenki.jp）",
+      "url": "https://news.yahoo.co.jp/articles/9e61f932b737d65282fe31c50dda3feccb57f334",
+      "source": "Yahoo!ニュース（tenki.jp）",
+      "publishedAt": "2026-10-25T18:00:00.000Z",
+      "summary": "台風30号が温帯低気圧に変わり、九州から関東では27日にかけて大雨への警戒が呼びかけられている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "東京マーケット・サマリー（25日）(ロイター)",
+      "url": "https://finance.yahoo.co.jp/news/detail/1f7f97c5a1bc4b1a6795ac09d1d542e2a2c8b867",
+      "source": "Yahoo!ファイナンス（ロイター）",
+      "publishedAt": "2026-10-25T06:00:00.000Z",
+      "summary": "25日の東京市場における株式・為替等の動向がまとめられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "スターリンクの通信制限解除 ウクライナ大統領、トランプ氏に謝意",
+      "url": "https://www.jiji.com/jc/article?k=2026102500137&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "ウクライナ大統領はスターリンクの通信制限が解除されたことについて、トランプ氏に謝意を示した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "金正恩氏訪中、北朝鮮も報道 「不敗の親善を継承」",
+      "url": "https://www.jiji.com/jc/article?k=2026102500145&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "北朝鮮の金正恩氏が中国を訪問したことを北朝鮮国内でも報じ、「不敗の親善」の継承を強調した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "オバマ氏、急進左派の支持呼び掛け トランプ氏こき下ろす―米中間選挙",
+      "url": "https://www.jiji.com/jc/article?k=2026102500230&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "オバマ元大統領が米中間選挙に向け急進左派層へ支持を呼び掛け、トランプ氏を批判した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "独アウディ、米ジョージア州に新工場 トランプ氏、選挙前にアピール",
+      "url": "https://www.jiji.com/jc/article?k=2026102500270&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "独アウディが米ジョージア州に新工場を設置する計画を発表し、トランプ氏が選挙前にこれをアピールした。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "金正恩氏、謎を呼ぶ日帰り訪中 「対米」巡り分かれる見方",
+      "url": "https://www.jiji.com/jc/article?k=2026102500277&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "金正恩氏の日帰りでの訪中の意図が注目され、対米戦略をめぐり見方が分かれている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "野党、支援金詳細巡り追及 消費減税審議、高市首相の出席要求",
+      "url": "https://www.jiji.com/jc/article?k=2026102500185&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "消費税減税の審議で野党が支援金の詳細を追及し、高市首相の委員会出席を要求した。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "自民、野党の賛同得て成立 国民、丁寧な減税議論要求（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/724edb1eddd218837fb5bfa1c2df16efa011c397",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "消費減税法案が野党の賛同を得て成立した一方、国民民主党は丁寧な減税議論を求めた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "衆院31議席減案、国民民主の賛否が焦点 26日に党内協議、参院での法案可決を左右（産経新聞）",
+      "url": "https://news.yahoo.co.jp/articles/9494cce621a2e3401bc6aeeca3eba4806c32926b",
+      "source": "Yahoo!ニュース（産経新聞）",
+      "publishedAt": "2026-10-25T03:00:00.000Z",
+      "summary": "衆院定数31削減案について国民民主党が26日に党内協議を行う予定で、その賛否が参院での法案可決を左右する。"
+    },
+    {
       "categoryId": "base-international",
       "title": "「もう一度やるかも」 トランプ氏、対イラン攻撃の再開示唆 軟化引き出す狙いか",
       "url": "https://news.infoseek.co.jp/article/sankein__world_america_AKJPDWEQGNLX3OFPV7L6TVGMGE/",
@@ -58,6 +162,14 @@
       "summary": "生活保護費の引き下げを巡り、最高裁が受給者側の訴えを認め再び違法と判断した。"
     },
     {
+      "categoryId": "base-economy",
+      "title": "来週のドル円相場はどうなる？10/26週のイベント予定",
+      "url": "https://gaitame.com/media/entry/2026/10/25/070000_1",
+      "source": "外為どっとコム マネ育チャンネル",
+      "publishedAt": "2026-10-24T22:00:00.000Z",
+      "summary": "10月26日週に予定されている経済指標・イベントを踏まえ、来週のドル円相場の見通しが解説された。"
+    },
+    {
       "categoryId": "base-law",
       "title": "1650万円を求めて賠償額はわずか149万円…「金額より相手を特定すること」 誹謗中傷裁判の当事者が語る勝訴の意味",
       "url": "https://www.nikkan-gendai.com/articles/view/life/394450",
@@ -80,6 +192,30 @@
       "source": "KSB瀬戸内海放送",
       "publishedAt": "2026-10-24T09:13:00.000Z",
       "summary": "岡山県倉敷市で軽自動車が電柱に衝突する事故があり、同乗していた女児(6)が重体となった。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均24日大引け＝続落、488円安の6万5528円(株探ニュース)",
+      "url": "https://finance.yahoo.co.jp/news/detail/80cf150b4653e85b6258a816c32f3f1489f885d3",
+      "source": "Yahoo!ファイナンス（株探ニュース）",
+      "publishedAt": "2026-10-24T06:00:00.000Z",
+      "summary": "24日の日経平均株価は続落し、488円安の6万5528円で取引を終えた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相動静（１０月２４日）",
+      "url": "https://www.jiji.com/jc/article?k=2026102400200&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-24T03:00:00.000Z",
+      "summary": "時事通信が10月24日の高市首相の動静(日程)を伝えた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "消費減税、採決にらみ駆け引き 与野党、給付対象巡り溝",
+      "url": "https://www.jiji.com/jc/article?k=2026102400305&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-24T03:00:00.000Z",
+      "summary": "消費税減税法案の採決をにらみ、与野党が給付対象をめぐって駆け引きを続けている。"
     },
     {
       "categoryId": "base-international",
@@ -235,7 +371,7 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "衆院定数削減、国民民主は週明け意見集約 「比例３1減」評価",
+      "title": "衆院定数削減、国民民主は週明け意見集約 「比例３１減」評価",
       "url": "https://www.jiji.com/jc/article?k=2026102300925&g=pol",
       "source": "時事ドットコム",
       "publishedAt": "2026-10-23T03:00:00.000Z",
@@ -296,6 +432,22 @@
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-10-22T22:10:00.000Z",
       "summary": "法務省担当官が登壇し、AI・リーガルテックと弁護士法72条の非弁行為規制との「線引き」について、令和8年公表のガイドラインの内容を解説した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "国税庁「国境を越えた電子商取引に係る課税関係に関する英語版リーフレット等」を公表＜消費税関連＞",
+      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14340",
+      "source": "TKC Express（国税庁発表）",
+      "publishedAt": "2026-10-22T03:00:00.000Z",
+      "summary": "国税庁が国境を越えた電子商取引に係る課税関係についての英語版リーフレット等を公表した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "国税庁「法定調書の様式について（事務運営指針）」等を公表＜法定調書関連＞",
+      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14341",
+      "source": "TKC Express（国税庁発表）",
+      "publishedAt": "2026-10-22T03:00:00.000Z",
+      "summary": "国税庁が法定調書の様式に関する事務運営指針等を公表した。"
     },
     {
       "categoryId": "base-economy",
@@ -394,14 +546,6 @@
       "summary": "トランプ米大統領がゼレンスキー大統領に対し、ロシアとの合意を求めて戦闘終結への圧力を強めている。"
     },
     {
-      "categoryId": "base-international",
-      "title": "トランプ氏、ゼレンスキー氏を痛烈非難 自身の要求無視したロシアへの大規模攻撃受け",
-      "url": "https://www.cnn.co.jp/world/35253717.html",
-      "source": "CNN.co.jp",
-      "publishedAt": "2026-10-21T22:09:07.000Z",
-      "summary": "トランプ米大統領は、自身の要求を無視してロシアへの大規模攻撃を行ったとしてゼレンスキー大統領を痛烈に非難した。"
-    },
-    {
       "categoryId": "base-law",
       "title": "デジタル逮捕令状、1都3県から 年度内施行の改正刑訴法",
       "url": "https://www.nippon.com/ja/news/kd1484826282613605282",
@@ -426,44 +570,12 @@
       "summary": "片山さつき財務相の国会答弁回数がまもなく2000回に達することが伝えられた。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "旧姓使用法案 見送り 今国会 政府、消費減税優先",
-      "url": "https://ryukyushimpo.jp/politics/entry-5571143.html",
-      "source": "琉球新報",
-      "publishedAt": "2026-10-21T22:09:07.000Z",
-      "summary": "政府は旧姓使用法案の今国会提出を見送り、消費減税関連の対応を優先する方針とした。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市首相、財源・給付詳細を示さず 消費減税法案、衆院審議入り（時事通信）",
-      "url": "https://news.yahoo.co.jp/articles/01b70c2d08fe44fdc21699f601be782a7ba09cad",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-10-21T22:09:07.000Z",
-      "summary": "消費減税法案が衆院で審議入りしたが、高市首相は財源や給付の詳細を示さなかった。"
-    },
-    {
       "categoryId": "base-society",
       "title": "同居の２８歳女性を暴行死疑い",
       "url": "https://www.kobe-np.co.jp/news/zenkoku/compact/202610/0020951969.shtml",
       "source": "神戸新聞NEXT",
       "publishedAt": "2026-10-21T22:09:07.000Z",
       "summary": "同居していた28歳女性に暴行を加え死亡させた疑いで、男が逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "速度計の検査せず不正車検の疑い あわら市と坂井市の会社員の男2人を逮捕（福井テレビ）",
-      "url": "https://news.yahoo.co.jp/articles/03e4d6d72f6e1dcff13af1240d0c06751aeb0b1f",
-      "source": "Yahoo!ニュース（福井テレビ）",
-      "publishedAt": "2026-10-21T22:09:07.000Z",
-      "summary": "速度計の検査を行わずに不正車検をしていたとして、福井県内の会社員2人が逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "TikTok動画で札束が…「この人のファンになればお金がもらえる」 福井市の60代男性が80万円相当だまし取られる詐欺被害（福井テレビ）",
-      "url": "https://news.yahoo.co.jp/articles/685d72ca37c2f6af37e64e8253c6bdb50d1fdbcf",
-      "source": "Yahoo!ニュース（福井テレビ）",
-      "publishedAt": "2026-10-21T22:09:07.000Z",
-      "summary": "TikTok動画をきっかけにしたSNS型詐欺で、福井市の60代男性が80万円相当をだまし取られる被害に遭った。"
     },
     {
       "categoryId": "base-economy",
@@ -480,6 +592,22 @@
       "source": "みんかぶFX/為替",
       "publishedAt": "2026-10-21T05:40:00.000Z",
       "summary": "2026年10月21日の東京時間に伝わった経済指標や為替関連ニュースがまとめられた。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "国税庁「令和９年１月からe-Taxが一層便利になります」等を公表＜電子申告関連＞",
+      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14336",
+      "source": "TKC Express（国税庁発表）",
+      "publishedAt": "2026-10-21T03:00:00.000Z",
+      "summary": "国税庁が令和9年1月からe-Taxがより便利になることを公表した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "国税庁「令和８年分の確定申告の振替日」等を公表",
+      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14337",
+      "source": "TKC Express（国税庁発表）",
+      "publishedAt": "2026-10-21T03:00:00.000Z",
+      "summary": "国税庁が令和8年分の確定申告における振替日等を公表した。"
     },
     {
       "categoryId": "base-economy",
@@ -586,30 +714,6 @@
       "summary": "厚生労働省は血管炎治療薬「タブネオス」について申請資料に問題があるとして新規投与の中止を要請し、関連する死亡例は23人となっている。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "日銀、10月会合は政策金利据え置きへ 27年度物価見通しを小幅上方修正か",
-      "url": "https://finance.biggo.jp/news/39f933ed-4d03-4ae7-a318-c0835cf77d1e",
-      "source": "BigGo ファイナンス",
-      "publishedAt": "2026-10-20T22:09:32.000Z",
-      "summary": "日本銀行は10月の金融政策決定会合で政策金利を据え置く方向で、2027年度の物価見通しを小幅に上方修正するとの見方が出ている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "防衛法人増税「基本反対」 政権内浮上で経団連会長",
-      "url": "https://www.excite.co.jp/news/article/Kyodo_1485207740469051933/",
-      "source": "エキサイトニュース（共同通信）",
-      "publishedAt": "2026-10-20T22:09:32.000Z",
-      "summary": "政権内で浮上している防衛費財源としての法人税増税案について、経団連会長が基本的に反対する考えを示した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ウクライナ、ロシアの石油施設に今年最大規模のドローン攻撃 トランプ氏の要求を無視（CNN.co.jp）",
-      "url": "https://news.yahoo.co.jp/articles/b91832b6d31857c8d0b3151619abf61f3e55bb11",
-      "source": "Yahoo!ニュース（CNN.co.jp）",
-      "publishedAt": "2026-10-20T22:09:32.000Z",
-      "summary": "ウクライナがロシアの石油施設に対し今年最大規模のドローン攻撃を行い、トランプ氏の攻撃停止要求を無視した形となった。"
-    },
-    {
       "categoryId": "base-law",
       "title": "【法務担当者必見】2026年の主な法改正を一覧で解説",
       "url": "https://www.riskeyes.jp/hansha-check-column/280",
@@ -624,30 +728,6 @@
       "source": "Yahoo!ニュース（共同通信）",
       "publishedAt": "2026-10-20T22:09:32.000Z",
       "summary": "政府は匿名・流動型犯罪グループ（トクリュウ）対策として、警察官職務執行法の改正案を国会に提出した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "「主権者は私たち」国会前でペンライトを振りながらコール…安保政策や改憲の動きに抗議のデモ",
-      "url": "https://tokyo-np.co.jp/article/522613",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-10-20T22:09:32.000Z",
-      "summary": "安保政策や憲法改正の動きに抗議する市民が国会前でペンライトを掲げながらデモを行った。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市首相、韓国の遺憾表明にもかかわらず…靖国神社に玉串料を追加奉納（中央日報日本語版）",
-      "url": "https://news.yahoo.co.jp/articles/2a5af2a59bc54ecfe7d2790404f9a0a7ab806789",
-      "source": "Yahoo!ニュース（中央日報日本語版）",
-      "publishedAt": "2026-10-20T22:09:32.000Z",
-      "summary": "高市首相は韓国側の遺憾表明にもかかわらず、靖国神社に玉串料を追加で奉納した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「これは凄い」てんちむ、裁判で逆転勝訴。3億円超えの支払い命令が0円に「圧倒的勝訴」「大逆転だな」",
-      "url": "https://news.allabout.co.jp/articles/o/131209/",
-      "source": "All About ニュース",
-      "publishedAt": "2026-10-20T22:09:32.000Z",
-      "summary": "タレントのてんちむが裁判で逆転勝訴し、3億円超の支払い命令が0円になったと報じられた。"
     },
     {
       "categoryId": "base-society",
@@ -666,14 +746,6 @@
       "summary": "台風30号の接近に伴い、県内全域が強風域に入るおそれがあると気象予報士が解説した。"
     },
     {
-      "categoryId": "base-society",
-      "title": "産地偽装容疑のうなぎ店をPRで紹介した寺門ジモンも思わぬ余波",
-      "url": "https://news.livedoor.com/topics/detail/32623261/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-10-20T15:00:00.000Z",
-      "summary": "産地偽装の疑いがあるうなぎ店をPRで紹介していたことが分かり、タレントの寺門ジモンにも思わぬ余波が及んでいる。"
-    },
-    {
       "categoryId": "base-law",
       "title": "“ながら運転”6人死亡 運転手に拘禁刑7年 遺族「ふに落ちない。法改正を」",
       "url": "https://news.ksb.co.jp/ann/article/16980488",
@@ -690,12 +762,12 @@
       "summary": "消費減税法案が、財源や給付の制度設計を「参考」「未定」としたまま異例の形で衆院審議入りしたことが報じられた。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "首相動静（１０月２０日）",
-      "url": "https://jiji.com/jc/article?g=pol&k=2026102000215",
-      "source": "時事ドットコム",
+      "categoryId": "base-accounting",
+      "title": "財務省「広報誌「ファイナンス」10月号 特集 1件当たりの脱税額は1億円超へ 「脱税は犯罪」マルサが暴く悪質手口と犯罪の代償」を公表",
+      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14334",
+      "source": "TKC Express（財務省発表）",
       "publishedAt": "2026-10-20T03:00:00.000Z",
-      "summary": "時事通信が10月20日の高市首相の動静(日程)を伝えた。"
+      "summary": "財務省の広報誌「ファイナンス」10月号で、脱税事件の悪質手口とマルサによる摘発事例が特集された。"
     },
     {
       "categoryId": "base-politics",
@@ -731,6 +803,14 @@
     },
     {
       "categoryId": "base-law",
+      "title": "個人情報保護法とは？企業の義務・対策をわかりやすく解説",
+      "url": "https://www.businesslawyers.jp/articles/1485",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-19T04:30:00.000Z",
+      "summary": "個人情報保護法の概要と、企業が負う義務・対策についてわかりやすく解説されている。"
+    },
+    {
+      "categoryId": "base-law",
       "title": "令和8年個人情報保護法改正がライフサイエンス・ヘルスケア分野に及ぼす影響と実務上の留意点",
       "url": "https://www.businesslawyers.jp/articles/1583",
       "source": "BUSINESS LAWYERS",
@@ -762,14 +842,6 @@
       "summary": "ウクライナ大統領は、ロシアへの制裁見送りが「プーチン氏の戦争をあおる」として米国を批判した。"
     },
     {
-      "categoryId": "base-international",
-      "title": "米ウクライナ、亀裂深刻 対ロ制裁見送り、通信制限（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/e7cf9eee2946c151afd4c6df1732ba164a99a5e9",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-19T03:00:00.000Z",
-      "summary": "米国とウクライナの間で、対ロシア制裁の見送りや通信制限をめぐり亀裂が深刻化していると伝える記事。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "東証 新リース初度適用の取扱い示す",
       "url": "https://www.zeiken.co.jp/news/29269844.php",
@@ -778,20 +850,12 @@
       "summary": "東京証券取引所が新リース基準の初度適用に関する取扱いを示した。"
     },
     {
-      "categoryId": "base-international",
-      "title": "トランプ氏の対ロ制裁見送りにウクライナが猛反発、米との亀裂が深刻化",
-      "url": "https://news.livedoor.com/topics/detail/32596024/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-10-17T15:00:00.000Z",
-      "summary": "トランプ氏が対ロ制裁を見送ったことにウクライナが強く反発し、米国との間で亀裂が深まっている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "決算マイナス・インパクト銘柄・引け後 …アーキテクツ、ゲンダイ (10月16日発表分)（株探ニュース）",
-      "url": "https://finance.yahoo.co.jp/news/detail/2c641b51700154584fde68a952004a1f477d33a4",
-      "source": "Yahoo!ファイナンス（株探ニュース）",
-      "publishedAt": "2026-10-16T06:00:00.000Z",
-      "summary": "10月16日発表分の決算で、アーキテクツやゲンダイなどがマイナスインパクト銘柄として挙げられた。"
+      "categoryId": "base-law",
+      "title": "内部通報制度とは？目的や企業の義務をわかりやすく解説",
+      "url": "https://www.businesslawyers.jp/articles/1493",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "summary": "内部通報制度の目的と、企業に求められる義務についてわかりやすく解説されている。"
     },
     {
       "categoryId": "base-accounting",
@@ -824,6 +888,14 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-10-15T03:00:00.000Z",
       "summary": "民事訴訟のデジタル化後初めて書類提出システムに障害が発生し、最高裁が代替手段の利用を促した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "契約プレイブックとは？導入メリット、具体例、作り方・運用のポイント",
+      "url": "https://www.businesslawyers.jp/articles/1508",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-14T08:00:00.000Z",
+      "summary": "契約プレイブックの導入メリットや具体例、作り方・運用のポイントが解説されている。"
     },
     {
       "categoryId": "base-accounting",
@@ -890,14 +962,6 @@
       "summary": "ニデックについて、監査法人が2期連続で監査意見の不表明を行ったと伝える記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "ウクライナ大統領「交代を」 製油所攻撃の停止要求、「米農家に影響」と批判―トランプ氏",
-      "url": "https://www.jiji.com/jc/article?k=2026101100105&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-11T03:00:00.000Z",
-      "summary": "トランプ米大統領はウクライナに新たな大統領を迎える時だと発言し、製油所攻撃の停止要求が米農家に影響を与えているとして批判した。"
-    },
-    {
       "categoryId": "base-law",
       "title": "楽譜模倣し公開、賠償確定 著作権外の表現物巡り初判断―バンドスコア訴訟・最高裁",
       "url": "https://www.jiji.com/jc/article?k=2026100900696&g=soc",
@@ -920,78 +984,6 @@
       "source": "TKC Express（企業会計基準委員会発表）",
       "publishedAt": "2026-10-06T03:00:00.000Z",
       "summary": "企業会計基準委員会の第585回会合の議事概要と審議資料が公開され、金融資産の減損基準やのれんの会計処理見直しなどが議題となった。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "旬刊『経理情報』2026年10月1日号（通巻No.1788）情報ダイジェスト②／会計",
-      "url": "https://digital.chuokeizai.co.jp/n/nd2573aa21fd2",
-      "source": "旬刊経理情報（中央経済社Digital）",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "旬刊『経理情報』2026年10月1日号で、会計分野に関する情報ダイジェストが掲載された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "企業会計基準委員会「IFRIC Update（2026年9月）」等を公表",
-      "url": "https://tkc.jp/consolidate/tkc_express/2026/10/202610_14283",
-      "source": "TKC Express（企業会計基準委員会発表）",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "企業会計基準委員会が2026年9月版のIFRIC UpdateとIASBのヘッジ会計に関する意見募集資料を公開した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "2026年10月に施行される法改正まとめ（8件）",
-      "url": "https://houkaisei.jp/calendar/2026-10/",
-      "source": "法改正ナビ",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "summary": "2026年10月に施行される法改正として、カスタマーハラスメント対策の強化や労働者派遣法改正、社会保険「106万円の壁」撤廃など8件がまとめられている。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "法人税等会計基準及びステーブルコイン実務対応報告（案）の公表に伴う財務諸表等規則等の改正案のポイント",
-      "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/accounting-topics/2026/accounting-topics-2026-10-01",
-      "source": "EY Japan",
-      "publishedAt": "2026-09-30T15:00:00.000Z",
-      "summary": "法人税等会計基準及びステーブルコイン実務対応報告案の公表に伴う財務諸表等規則等の改正案のポイントが解説された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "ニデック、５６４６億円赤字 監査法人「意見不表明」",
-      "url": "https://kumanichi.com/articles/2041369",
-      "source": "熊本日日新聞（共同通信）",
-      "publishedAt": "2026-09-30T09:52:00.000Z",
-      "summary": "モーター大手ニデックは2026年3月期連結決算で5000億円超の最終赤字となり、不正会計問題に伴う減損損失が主因となった。監査法人は意見不表明とした。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "2026年10月施行 法改正チェックリスト（一般企業向け）",
-      "url": "https://workinnovation.co.jp/column/20260915/",
-      "source": "ワーク・イノベーション",
-      "publishedAt": "2026-09-14T15:00:00.000Z",
-      "summary": "2026年10月に施行される主な法改正について、一般企業向けのチェックリストがまとめられた。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "【最決令和8年9月14日】リニア中央新幹線の駅新設工事につき、大手建設会社による不当な取引制限が認定された事例",
-      "url": "https://keiyaku-watch.jp/media/hanrei/hanrei-r080914/",
-      "source": "契約ウォッチ",
-      "publishedAt": "2026-09-13T15:00:00.000Z",
-      "summary": "リニア中央新幹線の駅新設工事をめぐり、大手建設会社による不当な取引制限が認定された最高裁決定の事例が解説された。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "【最判令和8年8月28日】借地上の建物の共有持分につき、建物買取請求権が成立しないとされた事例",
-      "url": "https://keiyaku-watch.jp/media/hanrei/hanrei-r080828/",
-      "source": "契約ウォッチ",
-      "publishedAt": "2026-08-27T15:00:00.000Z",
-      "summary": "借地上の建物の共有持分について、建物買取請求権が成立しないとされた最高裁判決の事例が解説された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "[全文公開] 国税庁 法人税基本通達等の一部改正を公表",
-      "url": "https://www.zeiken.co.jp/kokusaizeimu/article/202608/KZ2026080110101.php",
-      "source": "税務研究会",
-      "publishedAt": "2026-07-31T15:00:00.000Z",
-      "summary": "国税庁が法人税基本通達等の一部改正を公表した。"
     }
   ]
 }
