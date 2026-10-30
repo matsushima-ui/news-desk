@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-29T05:17:57.974Z",
+  "syncedAt": "2026-10-30T05:17:50.656Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,6 +34,46 @@
   ],
   "articles": [
     {
+      "categoryId": "base-society",
+      "title": "台風29号は小笠原近海を通過 日本から徐々に遠ざかる予想",
+      "url": "https://weathernews.jp/news/202610/120171/",
+      "source": "ウェザーニュース",
+      "publishedAt": "2026-10-29T22:11:04.000Z",
+      "summary": "台風29号が小笠原近海を通過し、日本から徐々に遠ざかっていく見込みであることが伝えられた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "台風29号は本州東の海上を東へ 日本への影響なし",
+      "url": "https://weathernews.jp/news/202610/130091/",
+      "source": "ウェザーニュース",
+      "publishedAt": "2026-10-29T22:11:04.000Z",
+      "summary": "台風29号は本州東の海上を東へ進み、日本への影響はないと予想されている。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "NY市場 この後のイベント - 2026年10月29日21:00｜為替ニュース｜みんかぶ FX/為替",
+      "url": "https://fx.minkabu.jp/news/382979",
+      "source": "みんかぶFX/為替",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "summary": "29日のニューヨーク市場でこの後予定されている経済指標やイベントがまとめられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "東京時間に伝わった指標・ニュース - 2026年10月29日14:40｜為替ニュース｜みんかぶ FX/為替",
+      "url": "https://fx.minkabu.jp/news/382937",
+      "source": "みんかぶFX/為替",
+      "publishedAt": "2026-10-29T05:40:00.000Z",
+      "summary": "29日の東京時間に伝わった経済指標やニュースがまとめられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "NYダウの振り返りと見通し：FOMCを無難に通過し3日続伸。金融株と半導体株に買い(2026年10月29日)｜OANDAマーケットニュース",
+      "url": "https://www.oanda.jp/lab-education/market_news/2026_10_29_us30/",
+      "source": "OANDA マーケットニュース",
+      "publishedAt": "2026-10-29T03:00:00.000Z",
+      "summary": "FOMCの結果を無難に通過したNYダウは3日続伸し、金融株や半導体株に買いが入った。"
+    },
+    {
       "categoryId": "base-international",
       "title": "【速報】米ＦＲＢは政策金利を３．７５～４．００％に据え置くことを決めた",
       "url": "https://jiji.com/jc/article?g=flash&k=2026102900078&m=rss",
@@ -48,6 +88,14 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-10-29T03:00:00.000Z",
       "summary": "米FRBはインフレ加速を踏まえつつも金利を据え置き、利上げを主張した2人が反対票を投じた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "比例３１削減、自維国が合意 今国会に法案共同提出へ―衆院選見直し",
+      "url": "https://www.jiji.com/jc/article?k=2026102900201&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-29T03:00:00.000Z",
+      "summary": "衆院選挙制度の見直しで自民・維新・国民民主の3党が合意し、比例定数31削減の法案を今国会に共同提出する方針となった。"
     },
     {
       "categoryId": "base-law",
@@ -619,14 +667,6 @@
     },
     {
       "categoryId": "base-society",
-      "title": "首相Ｘ返信、外国人関連急増 「移民反対」相次ぐケースも（時事通信）",
-      "url": "https://news.yahoo.co.jp/articles/71b4727271513a49f9dbe95c7149be15915ff5c0",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-10-25T22:10:37.000Z",
-      "summary": "首相のX（旧ツイッター）への返信で外国人関連の投稿が急増しており、「移民反対」を訴えるケースも相次いでいる。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "台風３０号は温帯低気圧に…本州付近の前線活発化、大雨に警戒必要（読売新聞オンライン）",
       "url": "https://news.yahoo.co.jp/articles/661dfd078ae6343206a1f909f66d4a0a94e0901f",
       "source": "Yahoo!ニュース（読売新聞オンライン）",
@@ -770,14 +810,6 @@
       "summary": "SNS誹謗中傷の損害賠償額引き上げに向け政府が民法改正の検討を始める中、集団訴訟で賠償額が請求額の約9%にとどまった事例が紹介されている。"
     },
     {
-      "categoryId": "base-society",
-      "title": "【独自】ＡＩで欠陥発見、今年急増",
-      "url": "https://www.kanaloco.jp/news/social/article-1315149.html",
-      "source": "神奈川新聞（カナロコ）",
-      "publishedAt": "2026-10-24T12:00:00.000Z",
-      "summary": "生成AIの普及を背景に今年見つかったIT製品の脆弱性が前年の2.2倍の約8万5千件に急増し、防御体制の強化が急務だと指摘されている。"
-    },
-    {
       "categoryId": "base-economy",
       "title": "日経平均24日大引け＝続落、488円安の6万5528円(株探ニュース)",
       "url": "https://finance.yahoo.co.jp/news/detail/80cf150b4653e85b6258a816c32f3f1489f885d3",
@@ -802,30 +834,6 @@
       "summary": "消費税減税法案の採決をにらみ、与野党が給付対象をめぐって駆け引きを続けている。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "来週の為替予想（米ドル/円）AI株安で156円台へ下落、日銀の12月利上げ観測が円高を加速させるか",
-      "url": "https://www.gaitame.com/media/entry/2026/10/24/060200",
-      "source": "外為どっとコム マネ育チャンネル",
-      "publishedAt": "2026-10-23T21:02:00.000Z",
-      "summary": "来週のドル円予想レンジは154.80～158.30円とされ、FOMCと日銀会合を控え12月利上げ観測が焦点となっている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "ドル円は１５６円台 下げ渋るも円高が上値圧迫＝ＮＹ為替概況",
-      "url": "https://fx.minkabu.jp/news/382516",
-      "source": "みんかぶFX/為替",
-      "publishedAt": "2026-10-23T20:50:00.000Z",
-      "summary": "NY市場でドル円は157円台から再び156円台に押し戻され、AI関連投資への懸念による米国債買いが円高圧力となった。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均週間4.02％安 AI懸念でざわつく相場の森、個別の木に目線移るか",
-      "url": "https://media.rakuten-sec.net/articles/-/53853",
-      "source": "楽天証券トウシル",
-      "publishedAt": "2026-10-23T08:45:00.000Z",
-      "summary": "日経平均は週間で2631円(4.02%)下落し2週連続の大幅安となり、AIデータセンター関連企業の社債急落などが背景にある。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "国税庁「ＰＨＰの脆弱性対応に伴う国税庁ホームページ等の停止と再開のお知らせ」等を公表",
       "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14348",
@@ -840,14 +848,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-10-23T03:00:00.000Z",
       "summary": "カーシェア「タイムズカー」で運転免許証画像が漏えいした問題で、見舞金が3000円とされたことに被害会員が反発し、集団訴訟を検討している。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "玉木氏、31減案を一定評価　衆院定数「人口減は根拠」",
-      "url": "https://www.nishinippon.co.jp/item/1552836/",
-      "source": "西日本新聞",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "summary": "国民民主党の玉木雄一郎代表が、衆院比例定数31削減案について人口減少を根拠に一定の評価を示した。"
     },
     {
       "categoryId": "base-accounting",
