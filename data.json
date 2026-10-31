@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-30T05:17:50.656Z",
+  "syncedAt": "2026-10-31T05:18:24.780Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,214 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-economy",
+      "title": "日銀為替市況（ドル円・午後５時） 投稿日時： 2026/10/30 17:46",
+      "url": "https://minkabu.jp/news/4647675",
+      "source": "みんかぶ",
+      "publishedAt": "2026-10-30T08:46:00.000Z",
+      "summary": "30日午後5時時点のドル円相場など、日銀会合後の為替市況がまとめられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日銀会合 高田委員は0.25％の利上げを主張 - 2026年10月30日12:22｜為替ニュース｜みんかぶ FX/為替",
+      "url": "https://fx.minkabu.jp/news/383071",
+      "source": "みんかぶFX/為替",
+      "publishedAt": "2026-10-30T03:22:00.000Z",
+      "summary": "30日の日銀金融政策決定会合で、高田創委員が0.25％の利上げを主張したことが伝えられた。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "法人所得最高、１１８兆円 ５年連続更新、国税庁発表",
+      "url": "https://www.chunichi.co.jp/article/1332656",
+      "source": "中日新聞Web",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "国税庁の発表によると、2025年度の法人所得は過去最高の118兆円となり、5年連続で更新した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均が一時1600円超の下落 米ハイテク株安でAI・半導体関連に売り",
+      "url": "https://news.livedoor.com/topics/detail/32690053/",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "米ハイテク株安を受け、30日の日経平均は一時1600円超下落し、AI・半導体関連株に売りが広がった。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均終値、１３６９円安の６万３２９０円…４日ぶり下落",
+      "url": "https://news.livedoor.com/topics/detail/32693013/",
+      "source": "ライブドアニュース",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "30日の日経平均株価は4日ぶりに下落し、1369円安の6万3290円で終えた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均、1000円超安＝東京株式（時事通信）",
+      "url": "https://news.yahoo.co.jp/articles/180e6d53a317244d89f9717c7c05f3e4614d8511",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "30日の東京株式市場で日経平均は1000円超下落した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "10月30日のNY為替・原油概況｜FX・為替ニュース",
+      "url": "https://zai.diamond.jp/articles/-/498288",
+      "source": "ダイヤモンドZAi",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "10月30日のニューヨーク外国為替市場・原油市場の概況がまとめられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ホルムズ海峡で油槽船3隻触雷 警告無視して制限航路脱出試みる（AP通信）",
+      "url": "https://news.yahoo.co.jp/articles/01e8d51839fcda4665e151928c6163ba316e604b",
+      "source": "Yahoo!ニュース（AP通信）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "ホルムズ海峡で油槽船3隻が触雷し、警告を無視して制限航路から脱出を試みていたことが伝えられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ氏、接戦の米中西部州で集会開催へ（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/062161d36e0f756cccc697e27b42d74fcca23acc",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "トランプ氏が米中間選挙を控え、接戦となっている米中西部州で集会を開催する予定であることが報じられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "「航行の自由」確保へ議論 G20外相、中東情勢悪化で（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/64e7911e5deec9771d50d97689f9b2b7e5c735d6",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "中東情勢の悪化を受け、G20外相が「航行の自由」の確保に向けた議論を行った。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ氏、対面集会を中止 最終盤で転換、共和党劣勢で焦り（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/6a40333c49e78330f2e77e313e3e9bb0473045ea",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "米中間選挙の最終盤で、トランプ氏が対面での集会開催を中止し、共和党の劣勢への焦りがうかがえるとされた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "生物多様性の国際会議、前半から企業向けルールの提案相次ぐ（オルタナ）",
+      "url": "https://news.yahoo.co.jp/articles/9131ba9d00b178ec31cd17bef589112f3024ad0e",
+      "source": "Yahoo!ニュース（オルタナ）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "生物多様性に関する国際会議で、会議前半から企業向けルールの提案が相次いでいる。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ大統領へ強い支持表明 ベネズエラ野党指導者マチャド氏（AP通信）",
+      "url": "https://news.yahoo.co.jp/articles/db539d79407c090e5f5e30862b0c2db98a9fd02f",
+      "source": "Yahoo!ニュース（AP通信）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "ベネズエラの野党指導者マチャド氏が、トランプ大統領への強い支持を表明した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "夫妻でインサイダー取引、有罪 ＴＫＰ元社員ら、東京地裁判決",
+      "url": "https://www.chunichi.co.jp/article/1332592",
+      "source": "中日新聞Web",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "TKP元社員の夫妻によるインサイダー取引事件で、東京地裁が有罪判決を下した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "「１６歳未満ＳＮＳ利用禁止を」 市民グループが法整備要請：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/525046",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "市民グループが16歳未満のSNS利用を禁止する法整備を政府に要請した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "米山隆一氏、原口一博氏への220万円賠償判決に「当然」も...SNS名誉毀損の賠償額見直し求める（J-CASTニュース）",
+      "url": "https://news.yahoo.co.jp/articles/d1015cdfc0a52f2386c53617a8ce6119ad55c803",
+      "source": "Yahoo!ニュース（J-CASTニュース）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "米山隆一氏が原口一博氏への220万円賠償判決を「当然」としつつ、SNS名誉毀損の賠償額の見直しを求めた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市首相Ｇ７欠席に「怒り」 公明・岡本三成代表：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026103000763&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "公明党の岡本三成代表が、高市首相のG7欠席について「怒り」を示したと報じられた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "消費税審議、参院は特別委 野党、高市首相出席求め圧力：時事ドットコム",
+      "url": "https://www.jiji.com/jc/article?k=2026103000960&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "消費税に関する審議が参院特別委員会で行われ、野党が高市首相の出席を求めて圧力をかけた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市首相の「欠席理由」変えました G7オンライン首脳会合 設備の問題ではなく「発言1回きり」だから：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/524324",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "高市首相によるG7オンライン首脳会合の欠席理由が、設備の問題ではなく「発言が1回きりだから」に変更されたと報じられた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "「首相になれないかも」高市総裁に手を差し伸べた維新、恩義から始まった蜜月「自分たちは真の高市派」（読売新聞オンライン）",
+      "url": "https://news.yahoo.co.jp/articles/ad5ba15f1f174336cf5ffd3fd077f35343c6e76d",
+      "source": "Yahoo!ニュース（読売新聞オンライン）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "高市総裁が首相になれないかもしれない局面で手を差し伸べた日本維新の会との関係が、恩義から始まった蜜月として紹介されている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市首相のバングラデシュへの1兆円投資と労働者受け入れ計画「国民が疲弊してるのに」広がる波紋（週刊女性PRIME）",
+      "url": "https://news.yahoo.co.jp/articles/e543662af21d61372132abe35280ec1f343aaa92",
+      "source": "Yahoo!ニュース（週刊女性PRIME）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "高市首相がバングラデシュへ1兆円規模の投資と労働者受け入れを計画していることに、国民の疲弊を懸念する声が広がっている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【ヒグマ速報】特急列車と「衝突」車両の下に巻き込まれたか…列車動けず『乗客が缶詰状態』一夜明かす_ハンター出動し朝に確認作業へ〈北海道・JR宗谷線〉（北海道ニュースUHB）",
+      "url": "https://news.yahoo.co.jp/articles/578fc89b9d1f14556720dd13307e8e4c0f9c27dc",
+      "source": "Yahoo!ニュース（北海道ニュースUHB）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "JR宗谷線で特急列車がヒグマと衝突し車両の下に巻き込まれたとみられ、列車が動けず乗客が一夜を明かした。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "福島県で交通死亡事故相次ぐ 矢吹町で軽トラックと乗用車が衝突 いわき市ではトラックが飲食店に（福島テレビ）",
+      "url": "https://news.yahoo.co.jp/articles/75b5d6f2e4326c2dba259d4e575b5c33618ba6a0",
+      "source": "Yahoo!ニュース（福島テレビ）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "福島県で交通死亡事故が相次ぎ、矢吹町では軽トラックと乗用車が衝突、いわき市ではトラックが飲食店に突入した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "ステーキ店に乗用車が突っ込む 運転していた74歳男性が軽傷の模様 店内に客はなし ハンドル操作誤ったか=静岡・三島市（静岡放送（SBS））",
+      "url": "https://news.yahoo.co.jp/articles/82d50302cc41dd232c72136dc0f8fa8b5b314c59",
+      "source": "Yahoo!ニュース（静岡放送）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "静岡県三島市のステーキ店に乗用車が突っ込み、運転していた74歳男性が軽傷を負ったとみられ、店内に客はいなかった。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「相手を殺して死のうと」 都立六本木高で女子生徒刺される 別の女子生徒を現行犯逮捕（産経新聞）",
+      "url": "https://news.yahoo.co.jp/articles/db22808394b21f60fc812785454e05c785c5deb7",
+      "source": "Yahoo!ニュース（産経新聞）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "都立六本木高校で女子生徒が刺され、「相手を殺して死のうと」したとして別の女子生徒が現行犯逮捕された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "13階から転落し作業員死亡 丸の内",
+      "url": "https://news.yahoo.co.jp/pickup/6600722",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "東京・丸の内で作業員が13階から転落し死亡した。"
+    },
     {
       "categoryId": "base-society",
       "title": "台風29号は小笠原近海を通過 日本から徐々に遠ざかる予想",
@@ -176,6 +384,14 @@
       "source": "KSB瀬戸内海放送",
       "publishedAt": "2026-10-28T03:00:00.000Z",
       "summary": "スペインで停止中の列車に別の列車が追突する事故が発生し、64人が死亡、80人がけがをしたと現地メディアが伝えた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "レコード演奏・伝達権とは？令和8年改正著作権法を解説",
+      "url": "https://www.businesslawyers.jp/articles/1575",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-28T03:00:00.000Z",
+      "summary": "令和8年に改正された著作権法で新設されたレコード演奏・伝達権について解説されている。"
     },
     {
       "categoryId": "base-politics",
@@ -467,27 +683,11 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "東京為替：ドル・円は持ち直し、夕方は高値付近に",
-      "url": "https://www.zaikei.co.jp/article/20261026/874950.html",
-      "source": "財経新聞",
-      "publishedAt": "2026-10-26T09:00:00.000Z",
-      "summary": "26日の東京外国為替市場でドル円は持ち直し、夕方には高値付近で推移した。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "ドル円は週後半のイベント待ち＝東京為替概況 - 2026年10月26日15:45",
       "url": "https://fx.minkabu.jp/news/382576",
       "source": "みんかぶFX/為替",
       "publishedAt": "2026-10-26T06:45:00.000Z",
       "summary": "26日の東京外国為替市場でドル円は、週後半に予定されている経済指標待ちの展開となった。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経503円安もTOPIX反発、原油高で商社・資源に資金｜日経平均の概況【10月26日】",
-      "url": "https://tbladvisory.com/20261026nk/",
-      "source": "世界一やさしい投資の学校",
-      "publishedAt": "2026-10-26T06:00:00.000Z",
-      "summary": "26日の日経平均は503円安となったがTOPIXは反発し、原油高を背景に商社・資源株に資金が向かった。"
     },
     {
       "categoryId": "base-accounting",
@@ -512,14 +712,6 @@
       "source": "TKC Express（企業会計基準委員会発表）",
       "publishedAt": "2026-10-26T03:00:00.000Z",
       "summary": "企業会計基準委員会が、継続企業に関する会計基準の公開草案を公表した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "ニューヨーク外国為替市場概況・26日 ドル円、続伸",
-      "url": "https://zai.diamond.jp/articles/-/497940",
-      "source": "ダイヤモンドZAi",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "26日のニューヨーク外国為替市場でドル円は続伸した。"
     },
     {
       "categoryId": "base-international",
@@ -634,60 +826,12 @@
       "summary": "元台風30号の低気圧と前線の影響で大雨が予想され、四国では180ミリの降雨量が見込まれた。"
     },
     {
-      "categoryId": "base-society",
-      "title": "『知人から性被害を受けた』10代後半女性が警察に被害を訴え…駐車場や車の中で\"性的暴行\"を加えた疑いで24歳男を逮捕〈北海道三笠市〉（北海道ニュースUHB）",
-      "url": "https://news.yahoo.co.jp/articles/b574f613f3fdd3245a97af16aad91622e9b59dfd",
-      "source": "Yahoo!ニュース（北海道ニュースUHB）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "北海道三笠市で、10代後半の女性に性的暴行を加えた疑いで24歳の男が逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "特急列車と軽乗用車が衝突 71歳の女性が意識不明の重体 香川県多度津町（RSK山陽放送）",
-      "url": "https://news.yahoo.co.jp/articles/f939991aaca5862874d3302d95a5700df3ae447b",
-      "source": "Yahoo!ニュース（RSK山陽放送）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "香川県多度津町のJR予讃線踏切で特急列車と軽乗用車が衝突し、71歳の女性が意識不明の重体となった。"
-    },
-    {
       "categoryId": "base-economy",
       "title": "FX/為替「ドル/円今日の見通し｜FOMC、日銀会合控え様子見ムードも株価動向には注意」 外為どっとコム トゥデイ 2026年10月26日号",
       "url": "https://www.gaitame.com/media/entry/2026/10/26/082042",
       "source": "外為どっとコム マネ育チャンネル",
       "publishedAt": "2026-10-25T23:20:42.000Z",
       "summary": "FOMCと日銀会合を控え、ドル円は様子見ムードの中で株価動向への注意が必要とされている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "美祢和菓子店店主殺害事件、便利業の男ら2人を強盗殺人容疑で逮捕",
-      "url": "https://news.yahoo.co.jp/articles/56827aec21a0e1cd354be07332ac1fead380e035",
-      "source": "Yahoo!ニュース（KRY山口放送）",
-      "publishedAt": "2026-10-25T22:10:37.000Z",
-      "summary": "山口県美祢市の老舗和菓子店店主殺害事件で、便利業の男ら2人が強盗殺人などの容疑で逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "台風３０号は温帯低気圧に…本州付近の前線活発化、大雨に警戒必要（読売新聞オンライン）",
-      "url": "https://news.yahoo.co.jp/articles/661dfd078ae6343206a1f909f66d4a0a94e0901f",
-      "source": "Yahoo!ニュース（読売新聞オンライン）",
-      "publishedAt": "2026-10-25T18:00:00.000Z",
-      "summary": "台風30号が温帯低気圧に変わる一方、本州付近の前線が活発化し、大雨への警戒が必要とされている。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【速報】台風30号は温帯低気圧に変わりました 九州から関東は27日にかけ大雨警戒（tenki.jp）",
-      "url": "https://news.yahoo.co.jp/articles/9e61f932b737d65282fe31c50dda3feccb57f334",
-      "source": "Yahoo!ニュース（tenki.jp）",
-      "publishedAt": "2026-10-25T18:00:00.000Z",
-      "summary": "台風30号が温帯低気圧に変わり、九州から関東では27日にかけて大雨への警戒が呼びかけられている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東京マーケット・サマリー（25日）(ロイター)",
-      "url": "https://finance.yahoo.co.jp/news/detail/1f7f97c5a1bc4b1a6795ac09d1d542e2a2c8b867",
-      "source": "Yahoo!ファイナンス（ロイター）",
-      "publishedAt": "2026-10-25T06:00:00.000Z",
-      "summary": "25日の東京市場における株式・為替等の動向がまとめられた。"
     },
     {
       "categoryId": "base-international",
@@ -699,43 +843,11 @@
     },
     {
       "categoryId": "base-international",
-      "title": "金正恩氏訪中、北朝鮮も報道 「不敗の親善を継承」",
-      "url": "https://www.jiji.com/jc/article?k=2026102500145&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "北朝鮮の金正恩氏が中国を訪問したことを北朝鮮国内でも報じ、「不敗の親善」の継承を強調した。"
-    },
-    {
-      "categoryId": "base-international",
       "title": "トランプ氏が期日前投票 米中間選挙",
       "url": "https://www.jiji.com/jc/article?k=2026102500168&g=int&m=rss",
       "source": "時事ドットコム",
       "publishedAt": "2026-10-25T03:00:00.000Z",
       "summary": "トランプ米大統領が米中間選挙に向けて期日前投票を行った。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "オバマ氏、急進左派の支持呼び掛け トランプ氏こき下ろす―米中間選挙",
-      "url": "https://www.jiji.com/jc/article?k=2026102500230&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "オバマ元大統領が米中間選挙に向け急進左派層へ支持を呼び掛け、トランプ氏を批判した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "独アウディ、米ジョージア州に新工場 トランプ氏、選挙前にアピール",
-      "url": "https://www.jiji.com/jc/article?k=2026102500270&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "独アウディが米ジョージア州に新工場を設置する計画を発表し、トランプ氏が選挙前にこれをアピールした。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "金正恩氏、謎を呼ぶ日帰り訪中 「対米」巡り分かれる見方",
-      "url": "https://www.jiji.com/jc/article?k=2026102500277&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "金正恩氏の日帰りでの訪中の意図が注目され、対米戦略をめぐり見方が分かれている。"
     },
     {
       "categoryId": "base-law",
@@ -746,124 +858,12 @@
       "summary": "AIを用いたサイバー攻撃「ARTEX」の仕組みと、企業が確認すべき法的対策について解説されている。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "野党、支援金詳細巡り追及 消費減税審議、高市首相の出席要求",
-      "url": "https://www.jiji.com/jc/article?k=2026102500185&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "消費税減税の審議で野党が支援金の詳細を追及し、高市首相の委員会出席を要求した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "自民、野党の賛同得て成立 国民、丁寧な減税議論要求（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/724edb1eddd218837fb5bfa1c2df16efa011c397",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "消費減税法案が野党の賛同を得て成立した一方、国民民主党は丁寧な減税議論を求めた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "衆院31議席減案、国民民主の賛否が焦点 26日に党内協議、参院での法案可決を左右（産経新聞）",
-      "url": "https://news.yahoo.co.jp/articles/9494cce621a2e3401bc6aeeca3eba4806c32926b",
-      "source": "Yahoo!ニュース（産経新聞）",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "衆院定数31削減案について国民民主党が26日に党内協議を行う予定で、その賛否が参院での法案可決を左右する。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "「もう一度やるかも」 トランプ氏、対イラン攻撃の再開示唆 軟化引き出す狙いか",
-      "url": "https://news.infoseek.co.jp/article/sankein__world_america_AKJPDWEQGNLX3OFPV7L6TVGMGE/",
-      "source": "産経新聞（Infoseekニュース）",
-      "publishedAt": "2026-10-24T22:10:57.000Z",
-      "summary": "トランプ大統領がイランへの攻撃再開の可能性を示唆し、イラン側の軟化を引き出す狙いがあるとみられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ガザ、停戦後死者1500人超に イスラエルの攻撃は散発的に継続（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/e24b7940e4c3b79ed55df3e962875e46db004886",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-24T22:10:57.000Z",
-      "summary": "ガザの停戦後も死者数が1500人を超え、イスラエル軍による散発的な攻撃が続いているとされる。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "生活保護費引き下げ、最高裁が再び「違法」",
-      "url": "https://shimotsuke.co.jp/articles/-/1446073",
-      "source": "下野新聞デジタル",
-      "publishedAt": "2026-10-24T22:10:57.000Z",
-      "summary": "生活保護費の引き下げを巡り、最高裁が受給者側の訴えを認め再び違法と判断した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "来週のドル円相場はどうなる？10/26週のイベント予定",
-      "url": "https://gaitame.com/media/entry/2026/10/25/070000_1",
-      "source": "外為どっとコム マネ育チャンネル",
-      "publishedAt": "2026-10-24T22:00:00.000Z",
-      "summary": "10月26日週に予定されている経済指標・イベントを踏まえ、来週のドル円相場の見通しが解説された。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "1650万円を求めて賠償額はわずか149万円…「金額より相手を特定すること」 誹謗中傷裁判の当事者が語る勝訴の意味",
-      "url": "https://www.nikkan-gendai.com/articles/view/life/394450",
-      "source": "日刊ゲンダイDIGITAL",
-      "publishedAt": "2026-10-24T21:00:00.000Z",
-      "summary": "SNS誹謗中傷の損害賠償額引き上げに向け政府が民法改正の検討を始める中、集団訴訟で賠償額が請求額の約9%にとどまった事例が紹介されている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均24日大引け＝続落、488円安の6万5528円(株探ニュース)",
-      "url": "https://finance.yahoo.co.jp/news/detail/80cf150b4653e85b6258a816c32f3f1489f885d3",
-      "source": "Yahoo!ファイナンス（株探ニュース）",
-      "publishedAt": "2026-10-24T06:00:00.000Z",
-      "summary": "24日の日経平均株価は続落し、488円安の6万5528円で取引を終えた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（１０月２４日）",
-      "url": "https://www.jiji.com/jc/article?k=2026102400200&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-24T03:00:00.000Z",
-      "summary": "時事通信が10月24日の高市首相の動静(日程)を伝えた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "消費減税、採決にらみ駆け引き 与野党、給付対象巡り溝",
-      "url": "https://www.jiji.com/jc/article?k=2026102400305&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-24T03:00:00.000Z",
-      "summary": "消費税減税法案の採決をにらみ、与野党が給付対象をめぐって駆け引きを続けている。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "国税庁「ＰＨＰの脆弱性対応に伴う国税庁ホームページ等の停止と再開のお知らせ」等を公表",
       "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14348",
       "source": "TKC Express（国税庁発表）",
       "publishedAt": "2026-10-23T03:00:00.000Z",
       "summary": "国税庁は、PHPの脆弱性対応に伴うホームページ等の停止と再開について公表した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "免許証画像漏えい、見舞金３０００円 「タイムズカー」、被害会員は集団訴訟へ",
-      "url": "https://www.jiji.com/jc/article?k=2026102300964&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "summary": "カーシェア「タイムズカー」で運転免許証画像が漏えいした問題で、見舞金が3000円とされたことに被害会員が反発し、集団訴訟を検討している。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "国税庁「国境を越えた電子商取引に係る課税関係に関する英語版リーフレット等」を公表＜消費税関連＞",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14340",
-      "source": "TKC Express（国税庁発表）",
-      "publishedAt": "2026-10-22T03:00:00.000Z",
-      "summary": "国税庁が国境を越えた電子商取引に係る課税関係についての英語版リーフレット等を公表した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "国税庁「法定調書の様式について（事務運営指針）」等を公表＜法定調書関連＞",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14341",
-      "source": "TKC Express（国税庁発表）",
-      "publishedAt": "2026-10-22T03:00:00.000Z",
-      "summary": "国税庁が法定調書の様式に関する事務運営指針等を公表した。"
     },
     {
       "categoryId": "base-accounting",
@@ -882,28 +882,12 @@
       "summary": "金融庁は法人税等に関する会計基準等を受け、財務諸表等規則等を一部改正する内閣府令案を公表した。"
     },
     {
-      "categoryId": "base-accounting",
-      "title": "国税庁「令和８年分の確定申告の振替日」等を公表",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14337",
-      "source": "TKC Express（国税庁発表）",
-      "publishedAt": "2026-10-21T03:00:00.000Z",
-      "summary": "国税庁が令和8年分の確定申告における振替日等を公表した。"
-    },
-    {
       "categoryId": "base-law",
       "title": "法改正タイムライン｜企業法務に関わる法改正・施行日まとめ",
       "url": "https://www.businesslawyers.jp/articles/1502",
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-10-21T03:00:00.000Z",
       "summary": "企業法務に関わる主な法改正の未施行・施行済みの一覧と、最近公表されたガイドライン等が施行日とともにまとめられている。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "“ながら運転”6人死亡 運転手に拘禁刑7年 遺族「ふに落ちない。法改正を」",
-      "url": "https://news.ksb.co.jp/ann/article/16980488",
-      "source": "KSB瀬戸内海放送",
-      "publishedAt": "2026-10-20T11:10:00.000Z",
-      "summary": "新名神高速道路での6人死亡事故を巡り津地裁が元トラック運転手に拘禁刑7年を言い渡し、遺族が危険運転致死罪の適用を可能にする法改正を求めている。"
     },
     {
       "categoryId": "base-law",
@@ -920,6 +904,14 @@
       "source": "BUSINESS LAWYERS",
       "publishedAt": "2026-10-19T04:00:00.000Z",
       "summary": "2026年の個人情報保護法改正がライフサイエンス・ヘルスケア分野に与える影響と実務対応を解説している。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "【日本】金融庁、企業破綻や会計不祥事踏まえ監査基準改訂案公表。2028年３月決算から",
+      "url": "https://sustainablejapan.jp/2026/10/19/fsa-audit-standard/131545",
+      "source": "Sustainable Japan",
+      "publishedAt": "2026-10-19T03:00:00.000Z",
+      "summary": "金融庁が企業破綻や会計不祥事を踏まえた監査基準の改訂案を公表し、2028年3月決算から適用される見込みとなった。"
     },
     {
       "categoryId": "base-accounting",
@@ -954,12 +946,12 @@
       "summary": "内部通報制度の目的と、企業に求められる義務についてわかりやすく解説されている。"
     },
     {
-      "categoryId": "base-law",
-      "title": "契約プレイブックとは？導入メリット、具体例、作り方・運用のポイント",
-      "url": "https://www.businesslawyers.jp/articles/1508",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-10-14T08:00:00.000Z",
-      "summary": "契約プレイブックの導入メリットや具体例、作り方・運用のポイントが解説されている。"
+      "categoryId": "base-accounting",
+      "title": "令和7年度 査察の概要 ほか【TAX TOPICS｜マネジメント倶楽部デジタル10月号】",
+      "url": "https://www.zeiken.co.jp/zeikenpress/column/0036zp20261014/",
+      "source": "税務研究会（ZEIKEN PRESS）",
+      "publishedAt": "2026-10-14T03:00:00.000Z",
+      "summary": "令和7年度の国税査察の概要など、税務に関する最新トピックスがまとめられた。"
     },
     {
       "categoryId": "base-accounting",
@@ -992,6 +984,14 @@
       "source": "EY Japan",
       "publishedAt": "2026-10-01T03:00:00.000Z",
       "summary": "法人税等会計基準及びステーブルコイン実務対応報告案の公表に伴う財務諸表等規則等の改正案のポイントがEY Japanにより解説された。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "【法律相談】10月1日事業者にカスハラ対策を義務付ける改正法が施行 何が変わったのか、どう対応すれば良いのか 現役弁護士が解説（日本海テレビ）",
+      "url": "https://news.yahoo.co.jp/articles/c25a863d51bf2220b7bae8decec1e9f0dd60d7ac",
+      "source": "Yahoo!ニュース（日本海テレビ）",
+      "publishedAt": "2026-10-01T03:00:00.000Z",
+      "summary": "10月1日に事業者へカスタマーハラスメント対策を義務付ける改正法が施行され、現役弁護士が変更点と対応策を解説した。"
     }
   ]
 }
