@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-10-31T05:18:24.780Z",
+  "syncedAt": "2026-11-01T05:13:54.940Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,6 +34,62 @@
   ],
   "articles": [
     {
+      "categoryId": "base-accounting",
+      "title": "東京国税局　小野局長に就任インタビュー",
+      "url": "https://www.zeiken.co.jp/keieizaimu/article/no3771/ZA00037710901.php",
+      "source": "税務研究会（週刊経営財務）",
+      "publishedAt": "2026-10-31T22:10:13.000Z",
+      "summary": "東京国税局の小野局長への就任インタビューを掲載した記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "消費税率引下げの緊急説明会（全国７都市・受講無料）のお申込み受付を開始しました｜消費税減税 特設サイト",
+      "url": "https://www.zeiken.co.jp/special/shohizei/notice_seminar_apply_202610.html",
+      "source": "税務研究会",
+      "publishedAt": "2026-10-31T22:10:13.000Z",
+      "summary": "消費税率引下げの実務上の留意点を解説する緊急説明会(全国7都市・受講無料)の申込受付を開始したと知らせる記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "10月施行！就活セクハラ防止義務とは？該当行為や講ずべき措置、違反時のリスクを解説",
+      "url": "https://www.businesslawyers.jp/articles/1571",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-10-31T22:10:13.000Z",
+      "summary": "10月に施行された就職活動中のセクシュアルハラスメント防止義務について、該当行為や企業が講ずべき措置、違反時のリスクを解説する記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "NY外為：ドル・円200DMA割れ、円堅調、12月日銀利上げ織り込む",
+      "url": "https://www.zaikei.co.jp/article/20261031/875694.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "summary": "NY外国為替市場でドル円が200日移動平均線を割り込み円が堅調となる中、市場が12月の日銀利上げを織り込んでいるとする記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市氏、国会での答弁数が最少　５首相平均、ＳＮＳは突出し最多：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/525281",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "summary": "高市首相の国会答弁数が過去5人の首相の平均より少ない一方、SNSでの発信は突出して多いと分析する記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "殉職警察官らを追悼　首相「安全安心に力尽くす」",
+      "url": "https://news.infoseek.co.jp/article/kyodo_1489165969309253979/",
+      "source": "共同通信（Infoseekニュース）",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "summary": "殉職した警察官らを追悼する式典が行われ、首相が安全安心な社会の実現に力を尽くすと述べたと報じる記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "為替相場まとめ１０月２６日から１０月３０日の週",
+      "url": "https://fx.minkabu.jp/news/383183",
+      "source": "みんかぶFX/為替",
+      "publishedAt": "2026-10-30T23:00:00.000Z",
+      "summary": "10月26日から30日までの週の為替相場の動きをまとめた記事。"
+    },
+    {
       "categoryId": "base-economy",
       "title": "日銀為替市況（ドル円・午後５時） 投稿日時： 2026/10/30 17:46",
       "url": "https://minkabu.jp/news/4647675",
@@ -56,6 +112,22 @@
       "source": "中日新聞Web",
       "publishedAt": "2026-10-30T03:00:00.000Z",
       "summary": "国税庁の発表によると、2025年度の法人所得は過去最高の118兆円となり、5年連続で更新した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "法人所得１１８兆円、過去最高更新＝２５年度決算―国税庁",
+      "url": "https://www.nippon.com/ja/articles/-/56710",
+      "source": "nippon.com",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "国税庁の発表によると、2025年度の法人所得が118兆円となり過去最高を更新したと報じる記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "本日の決算発表予定 … キオクシア、村田製、レーザーテクなど 251社 (10月30日)",
+      "url": "https://kabutan.jp/news/marketnews/?b=n202610300185",
+      "source": "株探（kabutan）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "10月30日に決算発表を予定しているキオクシアや村田製作所、レーザーテックなど251社を一覧で伝える記事。"
     },
     {
       "categoryId": "base-economy",
@@ -83,11 +155,35 @@
     },
     {
       "categoryId": "base-economy",
+      "title": "明日の決算発表予定 住友商、京セラなど46社 (10月30日)(株探ニュース)",
+      "url": "https://finance.yahoo.co.jp/news/detail/57fa0cc771399601d61abc877b1415bd77d24d2c",
+      "source": "株探ニュース（Yahoo!ファイナンス）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "住友商事や京セラなど46社が10月30日の翌日に決算発表を予定していると伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
       "title": "10月30日のNY為替・原油概況｜FX・為替ニュース",
       "url": "https://zai.diamond.jp/articles/-/498288",
       "source": "ダイヤモンドZAi",
       "publishedAt": "2026-10-30T03:00:00.000Z",
       "summary": "10月30日のニューヨーク外国為替市場・原油市場の概況がまとめられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "スペイン列車事故、２３か国５１人の外国人が巻き込まれたか…日本政府は乗客名簿２人の安否確認急ぐ",
+      "url": "https://news.infoseek.co.jp/article/yomiuri_20261030_gyt1t00099/",
+      "source": "読売新聞（Infoseekニュース）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "スペインの列車事故に23か国51人の外国人が巻き込まれた可能性があり、日本政府が乗客名簿にある2人の安否確認を急いでいると報じる記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "前方に別の列車、青信号点灯　スペイン追突事故で運輸相：東京新聞デジタル",
+      "url": "https://www.tokyo-np.co.jp/article/525244",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "スペインで起きた列車追突事故について、前方に別の列車が存在していたにもかかわらず青信号が点灯していたと運輸相が説明したと報じる記事。"
     },
     {
       "categoryId": "base-international",
@@ -139,6 +235,14 @@
     },
     {
       "categoryId": "base-law",
+      "title": "『崩壊：スターレイル』の“未公開テストデータ”を不正入手した人物に「約2400万円」の賠償判決。導入方法まで広める悪質行為に鉄槌",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476605",
+      "source": "AUTOMATON",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "ゲーム『崩壊：スターレイル』の未公開テストデータを不正入手した人物に対し、約2400万円の賠償を命じる判決が下されたと報じる記事。"
+    },
+    {
+      "categoryId": "base-law",
       "title": "夫妻でインサイダー取引、有罪 ＴＫＰ元社員ら、東京地裁判決",
       "url": "https://www.chunichi.co.jp/article/1332592",
       "source": "中日新聞Web",
@@ -160,6 +264,22 @@
       "source": "Yahoo!ニュース（J-CASTニュース）",
       "publishedAt": "2026-10-30T03:00:00.000Z",
       "summary": "米山隆一氏が原口一博氏への220万円賠償判決を「当然」としつつ、SNS名誉毀損の賠償額の見直しを求めた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "衆院比例「31減」で正式合意　自民・維新・国民、幹事長が会談",
+      "url": "https://news.infoseek.co.jp/article/kyodo_1488368371862422178",
+      "source": "共同通信（Infoseekニュース）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "自民・維新・国民の幹事長が会談し、衆院比例代表の定数「31減」について正式に合意したと伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相動静（１０月３０日）",
+      "url": "https://www.jiji.com/jc/article?k=2026103000251&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "時事通信が10月30日の高市首相の動静(日程)を伝えた記事。"
     },
     {
       "categoryId": "base-politics",
@@ -187,6 +307,14 @@
     },
     {
       "categoryId": "base-politics",
+      "title": "高市首相の一日　10月30日（金）",
+      "url": "https://www.tokyo-np.co.jp/article/525208",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "東京新聞デジタルが10月30日(金)の高市首相の動静(一日の行動)をまとめた記事。"
+    },
+    {
+      "categoryId": "base-politics",
       "title": "「首相になれないかも」高市総裁に手を差し伸べた維新、恩義から始まった蜜月「自分たちは真の高市派」（読売新聞オンライン）",
       "url": "https://news.yahoo.co.jp/articles/ad5ba15f1f174336cf5ffd3fd077f35343c6e76d",
       "source": "Yahoo!ニュース（読売新聞オンライン）",
@@ -200,6 +328,22 @@
       "source": "Yahoo!ニュース（週刊女性PRIME）",
       "publishedAt": "2026-10-30T03:00:00.000Z",
       "summary": "高市首相がバングラデシュへ1兆円規模の投資と労働者受け入れを計画していることに、国民の疲弊を懸念する声が広がっている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "同志社国際の事故会見で遺族居住地を公表、脅迫被害下の漏洩に広がる違和感",
+      "url": "https://news.infoseek.co.jp/article/iza_XN4EVZRLBFDAVJHETUEXOZCJKE/",
+      "source": "iza（Infoseekニュース）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "同志社国際の事故に関する記者会見で遺族の居住地が公表され、脅迫被害が報告される中での情報漏洩に違和感が広がっていると報じる記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "特急ソニックにはねられ1人搬送　福岡、JR宇島駅構内",
+      "url": "https://news.infoseek.co.jp/article/kyodo_1488924915971752338/",
+      "source": "共同通信（Infoseekニュース）",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "福岡県のJR宇島駅構内で特急ソニックに人がはねられ、1人が搬送されたと報じる記事。"
     },
     {
       "categoryId": "base-society",
@@ -475,22 +619,6 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "東京為替：ドル・円は小じっかり、夕方にかけて一段高",
-      "url": "https://jp.investing.com/news/forex-news/article-1726437",
-      "source": "Investing.com（Fisco）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "27日の東京外国為替市場でドル・円は小じっかりとなり、夕方にかけて一段高となった。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "10月27日のNY為替概況",
-      "url": "https://jp.investing.com/news/forex-news/article-1728011",
-      "source": "Investing.com（Fisco）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "10月27日のニューヨーク外国為替市場の概況がまとめられた。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "【株式市場】日経平均１０７８円高・半導体株指数３％高、米ハイテク株高が東京に波及、今夜は米指標とＦＯＭＣが焦点",
       "url": "https://www.media-ir.com/news/?p=186259",
       "source": "MEDIA-IR",
@@ -682,52 +810,12 @@
       "summary": "札幌市で、彼氏にバッグで殴られ頭から出血したとする女性の訴えにより、傷害の疑いで無職の男(51)が現行犯逮捕された。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "ドル円は週後半のイベント待ち＝東京為替概況 - 2026年10月26日15:45",
-      "url": "https://fx.minkabu.jp/news/382576",
-      "source": "みんかぶFX/為替",
-      "publishedAt": "2026-10-26T06:45:00.000Z",
-      "summary": "26日の東京外国為替市場でドル円は、週後半に予定されている経済指標待ちの展開となった。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "国税庁「「令和８年分の基準年利率について」の一部改正について（法令解釈通達）」を公表＜相続税・贈与税関連＞",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14351",
-      "source": "TKC Express（国税庁発表）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "国税庁が令和8年分の基準年利率に関する法令解釈通達の一部改正を公表した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "財務省（税関）「外国人旅行者向け免税（リファンド）制度スタート」を公表",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14352",
-      "source": "TKC Express（財務省発表）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "財務省税関は、2026年11月1日から外国人旅行者向けの新たな免税（リファンド）制度を開始すると公表した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "企業会計基準委員会「企業会計基準公開草案第100号「継続企業に関する会計基準（案）」」等を公表",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/10/202610_14355",
-      "source": "TKC Express（企業会計基準委員会発表）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "企業会計基準委員会が、継続企業に関する会計基準の公開草案を公表した。"
-    },
-    {
       "categoryId": "base-international",
       "title": "トランプ大統領夫人「メラニア氏が仲介した」ロシアとウクライナの部分停戦...裏では米露の駆け引き？",
       "url": "https://www.j-cast.com/2026/10/26518710.html",
       "source": "J-CASTニュース",
       "publishedAt": "2026-10-26T03:00:00.000Z",
       "summary": "ロシアとウクライナの部分停戦はメラニア夫人が仲介したとされ、背後で米露の駆け引きがあったとみられている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "記者にトランプ氏「ばかな質問」 イラン攻撃問われ怒り（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/9ffaf6f44826ee3a0655d4c89b67e2d1cd0c1e9c",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "トランプ大統領はイラン攻撃の可能性について記者から問われ、「ばかな質問」と怒りを示した。"
     },
     {
       "categoryId": "base-law",
@@ -754,62 +842,6 @@
       "summary": "名古屋駅近くで3人をはねて死傷させた罪に問われた男の裁判で、検察側が拘禁刑5年を求刑した。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "木原官房長官、高市首相出席のサイバーセキュリティ関係閣僚会議開催を発表",
-      "url": "https://www.jiji.com/jc/article?k=2026102600423&g=flash",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "木原官房長官は26日夕、高市首相が出席してサイバーセキュリティに関する関係閣僚会議を開くと発表した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "政府与党連絡会議（10月26日）",
-      "url": "https://www.kantei.go.jp/jp/105/actions/202610/26sei_yotou.html",
-      "source": "首相官邸",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "10月26日に政府与党連絡会議が開催されたことが首相官邸のホームページで公表された。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市総理 政府与党で「国民に身近な法整備で結果出したい」",
-      "url": "https://news.livedoor.com/topics/detail/32659176/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "高市首相は政府与党の会合で、国民に身近な法整備について結果を出したいとの考えを示した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "サイバーセキュリティで閣僚会議、高市首相「来週中に緊急対策」（ロイター）",
-      "url": "https://news.yahoo.co.jp/articles/1c7ac70b5426bab3810a7c37757550c13fe31922",
-      "source": "Yahoo!ニュース（ロイター）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "高市首相はサイバーセキュリティに関する閣僚会議で、来週中に緊急対策を取りまとめる考えを示した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "地下鉄ホームでモバイルバッテリー燃える 一時運転見合わせ けが人なし 京都市",
-      "url": "https://news.infoseek.co.jp/article/sankein__affairs_accident_6QV3LQDNTBPKDNKT3RTK2RHFLE/",
-      "source": "産経新聞（Infoseekニュース）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "京都市の地下鉄ホームでモバイルバッテリーが発火し、一時運転を見合わせたがけが人はいなかった。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "丸亀市で車同士の事故 軽自動車が転覆 車に乗っていた人を救急搬送 香川",
-      "url": "https://news.ksb.co.jp/article/16993660",
-      "source": "KSB瀬戸内海放送",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "香川県丸亀市で車同士の事故が発生し、軽自動車が転覆して乗っていた人が救急搬送された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "車2台衝突し横転 40代男性けが",
-      "url": "https://news.ksb.co.jp/ann/article/16995167",
-      "source": "KSB瀬戸内海放送",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "車2台が衝突して一台が横転する事故があり、40代の男性がけがをした。"
-    },
-    {
       "categoryId": "base-society",
       "title": "元台風30号が西日本へ 今日26日は関東～九州で激しい雨 夕方から夜に雨ピークも",
       "url": "https://tenki.jp/forecaster/y_nakagawa/2026/10/26/41093.html",
@@ -824,22 +856,6 @@
       "source": "tenki.jp（日本気象協会）",
       "publishedAt": "2026-10-26T03:00:00.000Z",
       "summary": "元台風30号の低気圧と前線の影響で大雨が予想され、四国では180ミリの降雨量が見込まれた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "FX/為替「ドル/円今日の見通し｜FOMC、日銀会合控え様子見ムードも株価動向には注意」 外為どっとコム トゥデイ 2026年10月26日号",
-      "url": "https://www.gaitame.com/media/entry/2026/10/26/082042",
-      "source": "外為どっとコム マネ育チャンネル",
-      "publishedAt": "2026-10-25T23:20:42.000Z",
-      "summary": "FOMCと日銀会合を控え、ドル円は様子見ムードの中で株価動向への注意が必要とされている。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "スターリンクの通信制限解除 ウクライナ大統領、トランプ氏に謝意",
-      "url": "https://www.jiji.com/jc/article?k=2026102500137&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "ウクライナ大統領はスターリンクの通信制限が解除されたことについて、トランプ氏に謝意を示した。"
     },
     {
       "categoryId": "base-international",
@@ -891,14 +907,6 @@
     },
     {
       "categoryId": "base-law",
-      "title": "個人情報保護法とは？企業の義務・対策をわかりやすく解説",
-      "url": "https://www.businesslawyers.jp/articles/1485",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-10-19T04:30:00.000Z",
-      "summary": "個人情報保護法の概要と、企業が負う義務・対策についてわかりやすく解説されている。"
-    },
-    {
-      "categoryId": "base-law",
       "title": "令和8年個人情報保護法改正がライフサイエンス・ヘルスケア分野に及ぼす影響と実務上の留意点",
       "url": "https://www.businesslawyers.jp/articles/1583",
       "source": "BUSINESS LAWYERS",
@@ -936,14 +944,6 @@
       "source": "税務研究会（ZEIKEN）",
       "publishedAt": "2026-10-19T02:50:00.000Z",
       "summary": "東京証券取引所が、新リース会計基準の初度適用に関する取扱いを示した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "内部通報制度とは？目的や企業の義務をわかりやすく解説",
-      "url": "https://www.businesslawyers.jp/articles/1493",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-10-16T07:00:00.000Z",
-      "summary": "内部通報制度の目的と、企業に求められる義務についてわかりやすく解説されている。"
     },
     {
       "categoryId": "base-accounting",
