@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-01T05:13:54.940Z",
+  "syncedAt": "2026-11-02T05:18:21.422Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,86 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-economy",
+      "title": "日銀、政策金利据え置きへ　物価上昇や地震の影響確認",
+      "url": "https://www.kumanichi.com/articles/2019801",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "日本銀行が物価上昇や地震の影響を確認した上で、政策金利を据え置く方向であることが報じられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "実質賃金、8カ月連続でプラス　10年ぶり、8月は1・5%増",
+      "url": "https://kumanichi.com/articles/2043864",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "実質賃金が8カ月連続でプラスとなり、10年ぶりの持続。8月は前年同月比1.5%増となった。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "中国、米農産物購入拡大か　来週発表",
+      "url": "https://kumanichi.com/articles/2039753",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "中国が米国産農産物の購入拡大を来週発表する可能性があると報じられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ウクライナ南部の停戦、違反なし　期間は6日間、支援と住民避難へ",
+      "url": "https://kumanichi.com/articles/2051318",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "ウクライナ南部で6日間の局地的な停戦が違反なく実施され、人道支援と住民避難が進められている。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "不同意性交罪、泣き寝入り脱却　施行3年、公訴時効の短さ課題",
+      "url": "https://kumanichi.com/articles/2017371",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "不同意性交罪の施行から3年が経過し、被害者が声を上げやすくなった一方、公訴時効の短さが課題として指摘されている。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "受刑者選挙権訴訟11月判決　初の憲法判断か、最高裁",
+      "url": "https://kumanichi.com/articles/2047411",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "受刑者の選挙権をめぐる訴訟について、最高裁が11月に判決を出す見通しで、初の憲法判断となる可能性があるとされる。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "減税法案、20日審議入り　衆院本会議、首相出席",
+      "url": "https://kumanichi.com/articles/2047225",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "消費税減税法案が20日に衆院本会議で審議入りする見通しで、首相も出席するとされている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "クマに襲われ59歳男性けが　埼玉・秩父、シカ猟中",
+      "url": "https://kumanichi.com/articles/2047980",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-01T22:10:13.000Z",
+      "summary": "埼玉県秩父市でシカ猟中の59歳男性がクマに襲われ、けがを負った。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相動静（１１月１日）",
+      "url": "https://www.jiji.com/jc/article?k=2026110100198&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-01T03:00:00.000Z",
+      "summary": "時事通信が11月1日の高市首相の動静(日程)を伝えた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "国会論点に米国産ジャガイモ浮上　野党、輸入解禁に慎重姿勢（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/e8d967d2ace2d7e646299b09bd4f4744bfdc55f6",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-01T03:00:00.000Z",
+      "summary": "国会で米国産ジャガイモの輸入解禁が論点となり、野党が慎重な姿勢を示している。"
+    },
     {
       "categoryId": "base-accounting",
       "title": "東京国税局　小野局長に就任インタビュー",
@@ -626,22 +706,6 @@
       "summary": "27日の東京市場で日経平均が1078円高、半導体株指数も3%高となり、米ハイテク株高の波及と今夜の米指標・FOMCが焦点とされた。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "東京マーケットダイジェスト・27日 円安・株高",
-      "url": "https://myforex.com/ja/news/dzh261027125.html",
-      "source": "MYFOREX（DZHフィナンシャルリサーチ）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "27日の東京市場では円安・株高が進んだとするマーケットダイジェストが伝えられた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "「年間配当62円→72円」へ増配＆自社株買いを発表…株主還元強化で急反発した〈注目銘柄〉の正体【10月27日の国内株式市場概況】（THE GOLD ONLINE）",
-      "url": "https://news.yahoo.co.jp/articles/a92290e63a7bd5f37cbd98360adae51862e0b2f6",
-      "source": "Yahoo!ニュース（THE GOLD ONLINE）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "10月27日の国内株式市場概況で、増配と自社株買いの発表により株主還元強化で急反発した注目銘柄が取り上げられた。"
-    },
-    {
       "categoryId": "base-international",
       "title": "イラン、最高指導者がホルムズ海峡問題で安全保障責任者と面会したと発表",
       "url": "https://www.arabnews.jp/middle-east/%E3%82%A4%E3%83%A9%E3%83%B3%E6%9C%80%E9%AB%98%E6%8C%87%E5%B0%8E%E8%80%85%E3%81%8C%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1%E5%95%8F%E9%A1%8C%E3%81%A7%E5%AE%89%E5%85%A8%E4%BF%9D%E9%9A%9C%E8%B2%AC%E4%BB%BB%E8%80%85%E3%81%A8%E9%9D%A2%E4%BC%9A%E3%81%97%E3%81%9F%E3%81%A8%E7%99%BA%E8%A1%A8-3001107",
@@ -746,30 +810,6 @@
       "summary": "高市首相のG7会合欠席に関する矛盾の指摘に対し、茂木外相が「ディスプレイの問題まで承知していない」と述べた。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "国会議員動静（10月27日）",
-      "url": "https://www.saga-s.co.jp/articles/-/1817990",
-      "source": "佐賀新聞",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "佐賀新聞が10月27日の国会議員の動静(日程)を伝えた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "月例経済報告等に関する関係閣僚会議（時事通信）",
-      "url": "https://news.yahoo.co.jp/articles/8433ce84bcf7b0ea86fe9aba70c1350ffee8976b",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "月例経済報告等に関する関係閣僚会議が開催されたことが報じられた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "高市首相「さまざまな挑戦を」 母校の式典にビデオメッセージ（毎日新聞）",
-      "url": "https://news.yahoo.co.jp/articles/98ac7d0d6c5ced2cd7cdec13a9acd460a6b3f995",
-      "source": "Yahoo!ニュース（毎日新聞）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "高市首相が母校の式典に寄せたビデオメッセージで「さまざまな挑戦を」と呼びかけた。"
-    },
-    {
       "categoryId": "base-society",
       "title": "東北道で3台絡む多重事故 40代とみられる男性が意識不明",
       "url": "https://www.khb-tv.co.jp/news/16996658",
@@ -802,22 +842,6 @@
       "summary": "埼玉県で発掘作業中の女性が土壁の崩壊に巻き込まれ死亡した。"
     },
     {
-      "categoryId": "base-society",
-      "title": "「彼氏にバッグで殴られた」 女性は頭から出血 傷害の疑いで無職の男（51）を現行犯逮捕 札幌市（STVニュース北海道）",
-      "url": "https://news.yahoo.co.jp/articles/7c13035e1c287489dca299e3bab9ec81218b04f0",
-      "source": "Yahoo!ニュース（STVニュース北海道）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "札幌市で、彼氏にバッグで殴られ頭から出血したとする女性の訴えにより、傷害の疑いで無職の男(51)が現行犯逮捕された。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "トランプ大統領夫人「メラニア氏が仲介した」ロシアとウクライナの部分停戦...裏では米露の駆け引き？",
-      "url": "https://www.j-cast.com/2026/10/26518710.html",
-      "source": "J-CASTニュース",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "ロシアとウクライナの部分停戦はメラニア夫人が仲介したとされ、背後で米露の駆け引きがあったとみられている。"
-    },
-    {
       "categoryId": "base-law",
       "title": "余命宣告を受けた帰り道に2200万円入りのバッグ発見…遺失物横領事件",
       "url": "https://news.livedoor.com/topics/detail/32657579/",
@@ -834,14 +858,6 @@
       "summary": "新名神高速での6人死亡事故を巡り、トラック運転手への拘禁刑7年の判決に対し遺族が複雑な思いを語った。"
     },
     {
-      "categoryId": "base-law",
-      "title": "名古屋駅近くで3人をはねて死傷させた罪に問われた男 検察側は拘禁刑5年を求刑（テレビ愛知）",
-      "url": "https://news.yahoo.co.jp/articles/e857b9fd39be6e80c3d0405150a4c346ea2f2fef",
-      "source": "Yahoo!ニュース（テレビ愛知）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "名古屋駅近くで3人をはねて死傷させた罪に問われた男の裁判で、検察側が拘禁刑5年を求刑した。"
-    },
-    {
       "categoryId": "base-society",
       "title": "元台風30号が西日本へ 今日26日は関東～九州で激しい雨 夕方から夜に雨ピークも",
       "url": "https://tenki.jp/forecaster/y_nakagawa/2026/10/26/41093.html",
@@ -856,22 +872,6 @@
       "source": "tenki.jp（日本気象協会）",
       "publishedAt": "2026-10-26T03:00:00.000Z",
       "summary": "元台風30号の低気圧と前線の影響で大雨が予想され、四国では180ミリの降雨量が見込まれた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "トランプ氏が期日前投票 米中間選挙",
-      "url": "https://www.jiji.com/jc/article?k=2026102500168&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "トランプ米大統領が米中間選挙に向けて期日前投票を行った。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "ARTEXとは―AIサイバー攻撃の仕組みと企業が確認すべき対策（AI作成）",
-      "url": "https://yamanaka-bengoshi.jp/2026/10/25/artex-ai-cyberattack/",
-      "source": "弁護士法人山中法律事務所",
-      "publishedAt": "2026-10-25T03:00:00.000Z",
-      "summary": "AIを用いたサイバー攻撃「ARTEX」の仕組みと、企業が確認すべき法的対策について解説されている。"
     },
     {
       "categoryId": "base-accounting",
