@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-03T05:19:11.361Z",
+  "syncedAt": "2026-11-04T05:18:19.237Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,94 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-accounting",
+      "title": "自民税調 最終処理案で検討項目の詳細判明【令和8年度税制改正動向ニュース ～与党税調の議論の行方～】",
+      "url": "https://www.zeiken.co.jp/news/34659286.php",
+      "source": "税務研究会（ZEIKEN）",
+      "publishedAt": "2026-11-03T22:08:36.000Z",
+      "summary": "自民党税制調査会の最終処理案に関する検討項目の詳細が判明したと伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "自民党・日本維新の会 連立後初の令和8年度与党税制改正大綱を決定【令和8年度税制改正動向ニュース ～与党税調の議論の行方～】",
+      "url": "https://www.zeiken.co.jp/news/35359360.php",
+      "source": "税務研究会（ZEIKEN）",
+      "publishedAt": "2026-11-03T22:08:36.000Z",
+      "summary": "自民党と日本維新の会が連立後初めてとなる令和8年度の与党税制改正大綱を決定したと伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "週間「適時開示」ニュース（10/30～11/５）",
+      "url": "https://www.zeiken.co.jp/keieizaimu/article/no3629/ZA00036291001.html",
+      "source": "税務研究会（週刊経営財務）",
+      "publishedAt": "2026-11-03T22:08:36.000Z",
+      "summary": "10月30日から11月5日までの週に発表された上場企業の適時開示情報をまとめた記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年9月に押さえておくべき企業法務の最新動向",
+      "url": "https://www.businesslawyers.jp/articles/1572",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-11-03T22:08:36.000Z",
+      "summary": "2026年9月に企業法務担当者が押さえておくべき法改正や実務上の最新動向がまとめられた記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "イラン、中ロと連携強化模索か 米中間選挙後を警戒、高官がプーチン氏らと協議",
+      "url": "https://www.jiji.com/jc/article?k=2026110300216&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "イランが米中間選挙後の情勢を警戒し、中国やロシアとの連携強化を模索している可能性があり、高官がプーチン氏らと協議したと報じる記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "米軍がイラン・ケシム島攻撃 トランプ氏、大規模作戦再開「急がず」―報道",
+      "url": "https://www.jiji.com/jc/article?k=2026110300278&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "米軍がイランのケシム島を攻撃したとされ、トランプ大統領は大規模作戦の再開を急がない姿勢であると報じる記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ウクライナ巡り４日に会合 ブリュッセルで米欧やＮＡＴＯなど",
+      "url": "https://www.jiji.com/jc/article?k=2026110300743&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "ウクライナ情勢を巡り、米欧やNATO加盟国などがブリュッセルで4日に会合を開くと報じる記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "旧統一教会総裁の保釈取り消し 居住地違反で韓国高裁",
+      "url": "https://www.jiji.com/jc/article?k=2026110300653&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "韓国の高裁が旧統一教会総裁の保釈を居住地条件違反を理由に取り消したと報じる記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "大綬章受章者 秋の叙勲",
+      "url": "https://www.jiji.com/jc/article?k=2026110300137&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "秋の叙勲において大綬章を受章した人物が発表されたことを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "【独自】日本とベトナム、犯罪抑止へ新協定検討 ９日首脳会談で確認へ",
+      "url": "https://www.jiji.com/jc/article?k=2026110300379&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "日本とベトナムが犯罪抑止に向けた新たな協定の検討を進めており、9日の首脳会談で確認される見通しであることを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "千葉で震度３",
+      "url": "https://www.jiji.com/jc/article?k=2026110300438&g=soc&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-03T03:00:00.000Z",
+      "summary": "千葉県で震度3の地震が観測されたと伝える記事。"
+    },
     {
       "categoryId": "base-economy",
       "title": "これからの予定【経済指標】",
@@ -75,6 +163,14 @@
     },
     {
       "categoryId": "base-economy",
+      "title": "ＧＭＯ傘下、個人情報４．５万人分漏えい ９年間外部から閲覧可能、設定ミスで",
+      "url": "https://www.jiji.com/jc/article?k=2026110200432&g=eco",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "ＧＭＯインターネットグループ傘下企業で設定ミスにより約4.5万人分の個人情報が9年間外部から閲覧可能な状態になっていたと報じる記事。"
+    },
+    {
+      "categoryId": "base-economy",
       "title": "ＧＭＯ、２年前に社内で指摘も生かせず 熊谷社長、不正アクセスで謝罪―役員報酬３割減額",
       "url": "https://www.jiji.com/jc/article?k=2026110200565&g=eco",
       "source": "時事ドットコム",
@@ -83,11 +179,35 @@
     },
     {
       "categoryId": "base-economy",
+      "title": "日本のＩＭＡＸ劇場数、２．３倍に スポーツ観戦にも活用―カナダ運営会社ＣＥＯ",
+      "url": "https://www.jiji.com/jc/article?k=2026110200643&g=eco",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "日本国内のIMAX劇場数が2.3倍に増加し、スポーツ観戦用途にも活用され始めていることをカナダの運営会社CEOが明らかにしたと報じる記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "ＳＢＩとフジが資本業務提携 メディア事業で合弁会社",
+      "url": "https://www.jiji.com/jc/article?k=2026110200915&g=eco",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "ＳＢＩホールディングスとフジ・メディア・ホールディングスが資本業務提携し、メディア事業で合弁会社を設立すると発表したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
       "title": "米中間選挙と米ドル・円・ユーロの方向性、米株式市場の動向に注目",
       "url": "https://zai.diamond.jp/articles/-/498365",
       "source": "ダイヤモンドZAi",
       "publishedAt": "2026-11-02T03:00:00.000Z",
       "summary": "11月3日の米中間選挙の結果判明を控え、米ドル・円・ユーロの方向性や米国株式市場の動向に注目が集まっていると解説する記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "大エジプト博物館が開館１年 日本支援、５００万人来場",
+      "url": "https://www.jiji.com/jc/article?k=2026110200116&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "日本の支援で整備された大エジプト博物館が開館1年を迎え、来場者数が500万人に達したと報じる記事。"
     },
     {
       "categoryId": "base-international",
@@ -147,11 +267,43 @@
     },
     {
       "categoryId": "base-politics",
+      "title": "公布８０年、分水嶺の憲法 初改正へ改憲派前のめり―合意形成・世論がカギ",
+      "url": "https://www.jiji.com/jc/article?k=2026110200561&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "憲法公布80年の節目を迎え、初の改正に向けて改憲派が前のめりになる中、合意形成と世論の動向が鍵になるとする記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "ＳＮＳで揺らぐ表現の自由 偽情報拡散、自主規制難しく―識者「国が情報空間に関与を」・憲法公布８０年",
+      "url": "https://www.jiji.com/jc/article?k=2026110200573&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "憲法公布80年にあたり、SNS上での偽情報拡散によって表現の自由が揺らぎ、自主規制の難しさから国の情報空間への関与を求める識者の声があると報じる記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "茂木外相、米中間選挙を「注視」",
+      "url": "https://www.jiji.com/jc/article?k=2026110200692&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "茂木敏充外相が、3日投開票の米中間選挙の動向を「注視」していると述べたことを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
       "title": "沖縄協議会、６日開催 １３年ぶり、高市首相出席調整",
       "url": "https://www.jiji.com/jc/article?k=2026110200853&g=pol&m=rss",
       "source": "時事ドットコム",
       "publishedAt": "2026-11-02T03:00:00.000Z",
       "summary": "沖縄政策協議会が13年ぶりに6日に開催される予定で、高市首相の出席が調整されていると報じる記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "盗まれた腕時計、店に返送 謝罪メモ同封、宅配便で店舗に―警視庁",
+      "url": "https://www.jiji.com/jc/article?k=2026110200551&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "盗まれた腕時計が謝罪メモとともに宅配便で店舗に返送されたと警視庁が明らかにしたと報じる記事。"
     },
     {
       "categoryId": "base-society",
@@ -184,6 +336,14 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-02T03:00:00.000Z",
       "summary": "SNSで「少林寺レーシング」と称する迷惑行為を呼び掛けたとして、少年が大阪府警に逮捕されたと報じる記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "都立六本木高校の同級生刺傷事件 「仲直りできないなら心中しよう」 逮捕の加害生徒が供述",
+      "url": "https://www.jiji.com/jc/article?k=2026110200952&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-02T03:00:00.000Z",
+      "summary": "都立六本木高校で発生した同級生刺傷事件について、逮捕された加害生徒が「仲直りできないなら心中しよう」と供述したと報じる記事。"
     },
     {
       "categoryId": "base-society",
@@ -331,6 +491,22 @@
     },
     {
       "categoryId": "base-economy",
+      "title": "消費減税、首相出席が焦点 与党、６日衆院通過目指す",
+      "url": "https://www.jiji.com/jc/article?k=2026103100286&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "summary": "消費税減税法案の衆院通過を6日に目指す与党にとって、高市首相の国会出席が焦点となっていると報じる記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "身構える株式市場 米中間選挙後、期待と懸念交錯",
+      "url": "https://www.jiji.com/jc/article?k=2026103100302&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-31T03:00:00.000Z",
+      "summary": "米中間選挙後の展開を控え、株式市場で期待と懸念が交錯し身構える動きが広がっていると報じる記事。"
+    },
+    {
+      "categoryId": "base-economy",
       "title": "NY外為：ドル・円200DMA割れ、円堅調、12月日銀利上げ織り込む",
       "url": "https://www.zaikei.co.jp/article/20261031/875694.html",
       "source": "財経新聞",
@@ -363,14 +539,6 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "日銀為替市況（ドル円・午後５時） 投稿日時： 2026/10/30 17:46",
-      "url": "https://minkabu.jp/news/4647675",
-      "source": "みんかぶ",
-      "publishedAt": "2026-10-30T08:46:00.000Z",
-      "summary": "30日午後5時時点のドル円相場など、日銀会合後の為替市況がまとめられた。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "日銀会合 高田委員は0.25％の利上げを主張 - 2026年10月30日12:22｜為替ニュース｜みんかぶ FX/為替",
       "url": "https://fx.minkabu.jp/news/383071",
       "source": "みんかぶFX/為替",
@@ -384,6 +552,14 @@
       "source": "中日新聞Web",
       "publishedAt": "2026-10-30T03:00:00.000Z",
       "summary": "国税庁の発表によると、2025年度の法人所得は過去最高の118兆円となり、5年連続で更新した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "参政、消費税５％法案提出 インボイス廃止も明記",
+      "url": "https://www.jiji.com/jc/article?k=2026103000711&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-30T03:00:00.000Z",
+      "summary": "参政党が消費税率を5％とする法案を提出し、インボイス制度の廃止も明記したと報じる記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -432,14 +608,6 @@
       "source": "株探ニュース（Yahoo!ファイナンス）",
       "publishedAt": "2026-10-30T03:00:00.000Z",
       "summary": "住友商事や京セラなど46社が10月30日の翌日に決算発表を予定していると伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "10月30日のNY為替・原油概況｜FX・為替ニュース",
-      "url": "https://zai.diamond.jp/articles/-/498288",
-      "source": "ダイヤモンドZAi",
-      "publishedAt": "2026-10-30T03:00:00.000Z",
-      "summary": "10月30日のニューヨーク外国為替市場・原油市場の概況がまとめられた。"
     },
     {
       "categoryId": "base-international",
@@ -594,14 +762,6 @@
       "summary": "高市総裁が首相になれないかもしれない局面で手を差し伸べた日本維新の会との関係が、恩義から始まった蜜月として紹介されている。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "高市首相のバングラデシュへの1兆円投資と労働者受け入れ計画「国民が疲弊してるのに」広がる波紋（週刊女性PRIME）",
-      "url": "https://news.yahoo.co.jp/articles/e543662af21d61372132abe35280ec1f343aaa92",
-      "source": "Yahoo!ニュース（週刊女性PRIME）",
-      "publishedAt": "2026-10-30T03:00:00.000Z",
-      "summary": "高市首相がバングラデシュへ1兆円規模の投資と労働者受け入れを計画していることに、国民の疲弊を懸念する声が広がっている。"
-    },
-    {
       "categoryId": "base-society",
       "title": "同志社国際の事故会見で遺族居住地を公表、脅迫被害下の漏洩に広がる違和感",
       "url": "https://news.infoseek.co.jp/article/iza_XN4EVZRLBFDAVJHETUEXOZCJKE/",
@@ -674,54 +834,6 @@
       "summary": "台風29号は本州東の海上を東へ進み、日本への影響はないと予想されている。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "NY市場 この後のイベント - 2026年10月29日21:00｜為替ニュース｜みんかぶ FX/為替",
-      "url": "https://fx.minkabu.jp/news/382979",
-      "source": "みんかぶFX/為替",
-      "publishedAt": "2026-10-29T12:00:00.000Z",
-      "summary": "29日のニューヨーク市場でこの後予定されている経済指標やイベントがまとめられた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "東京時間に伝わった指標・ニュース - 2026年10月29日14:40｜為替ニュース｜みんかぶ FX/為替",
-      "url": "https://fx.minkabu.jp/news/382937",
-      "source": "みんかぶFX/為替",
-      "publishedAt": "2026-10-29T05:40:00.000Z",
-      "summary": "29日の東京時間に伝わった経済指標やニュースがまとめられた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "NYダウの振り返りと見通し：FOMCを無難に通過し3日続伸。金融株と半導体株に買い(2026年10月29日)｜OANDAマーケットニュース",
-      "url": "https://www.oanda.jp/lab-education/market_news/2026_10_29_us30/",
-      "source": "OANDA マーケットニュース",
-      "publishedAt": "2026-10-29T03:00:00.000Z",
-      "summary": "FOMCの結果を無難に通過したNYダウは3日続伸し、金融株や半導体株に買いが入った。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "【速報】米ＦＲＢは政策金利を３．７５～４．００％に据え置くことを決めた",
-      "url": "https://jiji.com/jc/article?g=flash&k=2026102900078&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-29T03:00:00.000Z",
-      "summary": "米連邦準備制度理事会（FRB）は政策金利を3.75～4.00％に据え置くことを決定した。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米ＦＲＢ、金利据え置き インフレ加速も様子見―利上げ主張で２人反対",
-      "url": "https://jiji.com/jc/article?g=int&k=2026102900118&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-29T03:00:00.000Z",
-      "summary": "米FRBはインフレ加速を踏まえつつも金利を据え置き、利上げを主張した2人が反対票を投じた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "比例３１削減、自維国が合意 今国会に法案共同提出へ―衆院選見直し",
-      "url": "https://www.jiji.com/jc/article?k=2026102900201&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-29T03:00:00.000Z",
-      "summary": "衆院選挙制度の見直しで自民・維新・国民民主の3党が合意し、比例定数31削減の法案を今国会に共同提出する方針となった。"
-    },
-    {
       "categoryId": "base-law",
       "title": "2026年10月に押さえておくべき企業法務の最新動向",
       "url": "https://www.businesslawyers.jp/articles/1578",
@@ -738,46 +850,6 @@
       "summary": "生活保護費の引き下げを巡り、2026年の最高裁判断でも違法とされたことが報じられた。"
     },
     {
-      "categoryId": "base-society",
-      "title": "17歳高校生がタイで調達か、インドホシガメ密輸未遂容疑で3人逮捕 スネークヘッドも",
-      "url": "https://news.infoseek.co.jp/article/sankein__affairs_crime_RPHYGPKDH5PAHDPN5NJZW5DVLQ",
-      "source": "産経新聞（Infoseekニュース）",
-      "publishedAt": "2026-10-28T22:10:36.000Z",
-      "summary": "インドホシガメの密輸未遂容疑で17歳高校生を含む3人が逮捕され、17歳少年がタイで調達した疑いがあるとされた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "＜マーケット日報＞ 2026年10月28日",
-      "url": "https://kabutan.jp/news/marketnews/?b=n202610281094",
-      "source": "株探（kabutan）",
-      "publishedAt": "2026-10-28T07:00:00.000Z",
-      "summary": "2026年10月28日の国内株式市場の値動きや注目点がまとめられたマーケット日報。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "ボルソナロ氏、エクアドルへ アルゼンチン当局",
-      "url": "https://www.jiji.com/jc/article?k=2026102800814&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "ブラジルのボルソナロ氏がエクアドルへ向かったとアルゼンチン当局が明らかにした。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "【速報】スペインメディアによると、列車衝突事故の死者は少なくとも６４人となった",
-      "url": "https://www.jiji.com/jc/article?k=2026102801185&g=flash&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "スペインの列車衝突事故で、死者が少なくとも64人になったと現地メディアが報じた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "スペインで停止中の列車に別の列車が追突 64人死亡80人けが 現地メディア",
-      "url": "https://news.ksb.co.jp/ann/article/17002621",
-      "source": "KSB瀬戸内海放送",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "スペインで停止中の列車に別の列車が追突する事故が発生し、64人が死亡、80人がけがをしたと現地メディアが伝えた。"
-    },
-    {
       "categoryId": "base-law",
       "title": "レコード演奏・伝達権とは？令和8年改正著作権法を解説",
       "url": "https://www.businesslawyers.jp/articles/1575",
@@ -786,84 +858,12 @@
       "summary": "令和8年に改正された著作権法で新設されたレコード演奏・伝達権について解説されている。"
     },
     {
-      "categoryId": "base-politics",
-      "title": "国民民主、比例３１減に賛成 衆院選挙制度巡り",
-      "url": "https://www.jiji.com/jc/article?k=2026102800114&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "国民民主党は衆院選挙制度を巡り、比例定数31削減に賛成する方針を決めた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（１０月２８日）",
-      "url": "https://www.jiji.com/jc/article?k=2026102800257&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "時事通信が10月28日の高市首相の動静(日程)を伝えた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "【速報】国民民主党は衆院定数を３１減する自民案への賛成を決めた",
-      "url": "https://www.jiji.com/jc/article?k=2026102800290&g=flash",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "国民民主党は、衆院比例定数を31削減する自民党案への賛成を決めた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "衆院定数３１減、維新受け入れ",
-      "url": "https://www.jiji.com/jc/article?k=2026102800554&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "衆院比例定数を31削減する案について、日本維新の会が受け入れる方針を示した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "半年で4回通報相談の末…交際女性殺害疑いでバー経営男性再逮捕",
-      "url": "https://news.infoseek.co.jp/article/mainichi_20261028k0000m040048000c/",
-      "source": "毎日新聞（Infoseekニュース）",
-      "publishedAt": "2026-10-28T03:00:00.000Z",
-      "summary": "半年間に4回の通報相談があった末、交際相手の女性を殺害した疑いでバーを経営する男性が再逮捕された。"
-    },
-    {
       "categoryId": "base-society",
       "title": "青木ヶ原樹海で障害のある57歳息子を殺害した疑い、89歳の母を逮捕",
       "url": "https://news.livedoor.com/topics/detail/32679251",
       "source": "ライブドアニュース",
       "publishedAt": "2026-10-28T03:00:00.000Z",
       "summary": "青木ヶ原樹海で、障害のある57歳の息子を殺害した疑いで89歳の母親が逮捕された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "インボイス制度、2026年10月から控除可能割合が「70％」へ！まだまだ続く制度変更と経理で注意したいポイント",
-      "url": "https://keiridriven.mjs.co.jp/181842/",
-      "source": "経理DRIVEN（MJS）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "インボイス制度は2026年10月から仕入税額控除の経過措置における控除可能割合が70%に変わり、経理担当者が注意すべき制度変更が解説された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "2026年税制改正まとめ｜中小企業が押さえるべき変更点を税理士が解説",
-      "url": "https://leapal.jp/blog/legal-reform/2026-tax-reform-summary-sme/",
-      "source": "Leapal",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "2026年度税制改正について、中小企業が押さえるべき変更点が税理士により解説された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "【2026年10月税制改正】インボイス制度の特例措置の変更点と対応策についてわかりやすく解説",
-      "url": "https://www.obc.co.jp/360/list/post519",
-      "source": "OBC360°",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "2026年10月の税制改正によるインボイス制度の特例措置の変更点と対応策がOBC360°で解説された。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "2026年10月に施行される法改正まとめ（8件）｜何がいつから変わる？施行日順に一覧",
-      "url": "https://houkaisei.jp/calendar/2026-10/",
-      "source": "法改正ナビ",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "2026年10月に施行される法改正8件が、施行日順にまとめられた。"
     },
     {
       "categoryId": "base-law",
@@ -875,59 +875,11 @@
     },
     {
       "categoryId": "base-law",
-      "title": "Global Legal Update Vol. 132",
-      "url": "https://www.jonesday.com/ja/insights/2026/10/global-legal-update-october-2026",
-      "source": "Jones Day",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "Jones Dayが2026年10月のグローバル法務アップデート(Vol.132)を公表した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "2026年（令和8年）に施行される法改正のまとめ！ 下請法等改正・労働安全衛生法改正などを分かりやすく解説！",
-      "url": "https://keiyaku-watch.jp/media/hourei/2026-houkaisei/",
-      "source": "KEIYAKU-WATCH",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "令和8年に施行される下請法等改正・労働安全衛生法改正など主な法改正がまとめられた。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "“生活保護費カット”最高裁が再び「違法」…国による追加給付の減額「正当化する理由」が判決文から消える（弁護士JPニュース）",
-      "url": "https://news.yahoo.co.jp/articles/33890e2b1aee208a1fb6e4d8406841dd13f468e6",
-      "source": "Yahoo!ニュース（弁護士JPニュース）",
-      "publishedAt": "2026-10-27T03:00:00.000Z",
-      "summary": "生活保護費カットを巡り最高裁が再び違法と判断し、国による追加給付の減額を正当化する理由が判決文から消えたと報じられた。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "余命宣告を受けた帰り道に2200万円入りのバッグ発見…遺失物横領事件",
-      "url": "https://news.livedoor.com/topics/detail/32657579/",
-      "source": "ライブドアニュース",
+      "title": "改正皇室典範は「違憲」と提訴 漫画家・小林よしのりさん―東京地裁",
+      "url": "https://www.jiji.com/jc/article?k=2026102600701&g=soc",
+      "source": "時事ドットコム",
       "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "余命宣告を受けた帰り道に2200万円が入ったバッグを発見した事例を巡り、遺失物横領事件として扱われていることが伝えられた。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "遺族「6人亡くなってこれか…」新名神で大型トラックが“ながら運転”し6人死亡の事故 拘禁刑7年の判決に遺族は複雑（東海テレビ）",
-      "url": "https://news.yahoo.co.jp/articles/4715f1584471186770684aa9191bdcd625f968ef",
-      "source": "Yahoo!ニュース（東海テレビ）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "新名神高速での6人死亡事故を巡り、トラック運転手への拘禁刑7年の判決に対し遺族が複雑な思いを語った。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "元台風30号が西日本へ 今日26日は関東～九州で激しい雨 夕方から夜に雨ピークも",
-      "url": "https://tenki.jp/forecaster/y_nakagawa/2026/10/26/41093.html",
-      "source": "tenki.jp（日本気象協会）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "元台風30号の影響で関東から九州にかけて激しい雨が予想され、夕方から夜にピークを迎えるとされた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "元台風30号の低気圧と前線で大雨 四国で180ミリ予想 関東は27日朝にかけて雨",
-      "url": "https://tenki.jp/forecaster/s_ono/2026/10/26/41099.html",
-      "source": "tenki.jp（日本気象協会）",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "元台風30号の低気圧と前線の影響で大雨が予想され、四国では180ミリの降雨量が見込まれた。"
+      "summary": "漫画家の小林よしのり氏が、改正された皇室典範は違憲であるとして東京地裁に提訴したと報じる記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -936,14 +888,6 @@
       "source": "企業会計基準委員会（ASBJ）",
       "publishedAt": "2026-10-23T03:00:00.000Z",
       "summary": "企業会計基準委員会が、継続企業の前提に関する会計基準の公開草案第100号等を公表したと伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "《速報解説》 金融庁、「財務諸表等規則等の一部を改正する内閣府令（案）」等を公表",
-      "url": "https://profession-net.com/professionjournal/release-report-260/",
-      "source": "PROnet",
-      "publishedAt": "2026-10-21T22:09:07.000Z",
-      "summary": "金融庁は法人税等に関する会計基準等を受け、財務諸表等規則等を一部改正する内閣府令案を公表した。"
     },
     {
       "categoryId": "base-law",
@@ -994,6 +938,22 @@
       "summary": "東京証券取引所が、新リース会計基準の初度適用に関する取扱いを示した。"
     },
     {
+      "categoryId": "base-law",
+      "title": "元会社役員の実刑確定へ ３人死傷、二審逆転無罪破棄―猪苗代湖ボート事故・最高裁",
+      "url": "https://www.jiji.com/jc/article?k=2026101600677",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-16T03:00:00.000Z",
+      "summary": "猪苗代湖のボート事故で3人が死傷した事件を巡り、最高裁が二審の逆転無罪判決を破棄し、元会社役員の実刑が確定する見通しとなったと報じる記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "検事の「ガキ」発言、賠償確定 「黙秘権侵害」認めず―最高裁",
+      "url": "https://www.jiji.com/jc/article?k=2026101500961&g=soc&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-15T03:00:00.000Z",
+      "summary": "取り調べ中の検事による「ガキ」発言について、黙秘権侵害は認めないとした上で賠償を確定させる最高裁の判断が報じられた記事。"
+    },
+    {
       "categoryId": "base-accounting",
       "title": "令和7年度 査察の概要 ほか【TAX TOPICS｜マネジメント倶楽部デジタル10月号】",
       "url": "https://www.zeiken.co.jp/zeikenpress/column/0036zp20261014/",
@@ -1003,27 +963,19 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "「小倉加奈子が聞く！ 有報『一本化』と開示制度の未来③ 日本公認会計士協会」",
-      "url": "https://www.zeiken.co.jp/news/28569586.php",
-      "source": "税務研究会（ZEIKEN）",
-      "publishedAt": "2026-10-12T03:00:00.000Z",
-      "summary": "有価証券報告書の「一本化」と開示制度の今後について、日本公認会計士協会への取材を基に論じられた。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "「不正対応では監査基準を改訂せず」",
-      "url": "https://www.zeiken.co.jp/news/28569588.php",
-      "source": "税務研究会（ZEIKEN）",
-      "publishedAt": "2026-10-12T03:00:00.000Z",
-      "summary": "企業の不正対応を巡り、監査基準自体は改訂しない方針が示された。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "「ニデック ２期連続で監査意見不表明」",
       "url": "https://www.zeiken.co.jp/news/28569590.php",
       "source": "税務研究会（ZEIKEN）",
       "publishedAt": "2026-10-12T03:00:00.000Z",
       "summary": "ニデックが2期連続で監査意見の不表明を受けたことが報じられた。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "消費減税法案が閣議決定 来春から１％、臨時国会で攻防",
+      "url": "https://www.jiji.com/jc/article?k=2026100900138&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-10-09T03:00:00.000Z",
+      "summary": "来春から消費税率を1％引き下げる減税法案が閣議決定され、臨時国会で与野党の攻防が予想されると報じる記事。"
     },
     {
       "categoryId": "base-accounting",
