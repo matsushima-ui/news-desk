@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-10T05:18:19.000Z",
+  "syncedAt": "2026-11-11T05:14:30.000Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -34,6 +34,158 @@
   ],
   "articles": [
     {
+      "categoryId": "base-economy",
+      "title": "ドル円、１５８円台半ばに上昇 予想上回る米ＣＰＩやウォラー理事の発言で米利上げ期待が強まる＝ＮＹ為替序盤",
+      "url": "https://fx.minkabu.jp/news/384052",
+      "source": "みんかぶ FX/為替",
+      "publishedAt": "2026-11-10T22:00:00.000Z",
+      "summary": "ニューヨーク外国為替市場序盤でドル円が158円台半ばに上昇し、予想を上回る米CPIやウォラー理事の発言を受けて米利上げ期待が強まった。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「緊張感を持って」愛知・大村知事 最大震度5強の地震を受けて愛知県は災害対策本部を今後1週間程度維持（愛知のニュース（テレビ愛知）",
+      "url": "https://topics.smt.docomo.ne.jp/article/tvaichi/region/tvaichi-20261110-1857-10586",
+      "source": "テレビ愛知（dメニューニュース）",
+      "publishedAt": "2026-11-10T09:57:00.000Z",
+      "summary": "最大震度5強の地震を受け、愛知県の大村知事が「緊張感を持って」対応する姿勢を示し、災害対策本部を今後1週間程度維持する方針を明らかにした。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均は大幅続伸、終値で６万円回復＝１０日大引け(ウエルスアドバイザー)",
+      "url": "https://finance.yahoo.co.jp/news/detail/88233e20d63de67921867398a2a9a6523c7d9c78",
+      "source": "Yahoo!ファイナンス（ウエルスアドバイザー）",
+      "publishedAt": "2026-11-10T06:00:00.000Z",
+      "summary": "10日の東京株式市場で日経平均株価が大幅に続伸し、終値で6万円を回復した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "東レ、今期最終を22％上方修正・10期ぶり最高益更新へ",
+      "url": "https://s.kabutan.jp/news/k202611100036/",
+      "source": "株探（kabutan）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "東レが今期の最終利益予想を22%上方修正し、10期ぶりの最高益更新が見込まれることを伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "資生堂、今期最終を48％上方修正",
+      "url": "https://s.kabutan.jp/news/k202611100120/",
+      "source": "株探（kabutan）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "資生堂が今期の最終利益予想を48%上方修正したことを伝える適時開示関連記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "東京為替：ドル・円は小高い、米金利にらみ",
+      "url": "https://www.zaikei.co.jp/article/20261110/876871.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "10日の東京外国為替市場でドル円は小高く推移し、米金利動向をにらむ展開となった。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "中ロ首脳とAPECで会談へ トランプ氏非核化など議論",
+      "url": "https://news.ksb.co.jp/ann/article/17034570",
+      "source": "news.ksb.co.jp（関西テレビ）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "トランプ米大統領がAPECの機会に中ロ首脳と会談し、非核化などについて議論する見通しであることを伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "習・プーチン両氏と会談の見通し、トランプ氏表明 ＡＰＥＣ首脳会議に合わせ",
+      "url": "https://www.newsweekjapan.jp/articles/-/339414",
+      "source": "Newsweek日本版",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "トランプ米大統領が、APEC首脳会議に合わせて習近平氏・プーチン氏と会談する見通しを表明したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ大統領 中ロ首脳と会談へ APECで非核化など多岐に話し合う（テレビ朝日系（ANN））",
+      "url": "https://news.yahoo.co.jp/articles/3e8dec871303c7a85e55c806ee3ec48d594569e3",
+      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "トランプ米大統領が、中国で開催されるAPECの機会に中ロ首脳と会談し、非核化など多岐にわたり話し合う見通しであることを伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "米中露、来週に3者会談実施の見通し トランプ氏、非核化議論 AI安全策「構わない」（産経新聞）",
+      "url": "https://news.yahoo.co.jp/articles/e2f513ba2d2e72e6e7df28e6f3350bb757d07053",
+      "source": "Yahoo!ニュース（産経新聞）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "米国、中国、ロシアの3者が来週会談する見通しで、トランプ氏が非核化を議論し、AI安全策についても「構わない」と述べたと報じられた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年1月施行！取適法（旧下請法）の概要と企業対応のポイント",
+      "url": "https://www.businesslawyers.jp/articles/1471",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "2026年1月に施行される、下請法から改称される取適法の概要と、企業が取るべき対応のポイントが解説された。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "「受刑者が投票できないのは憲法違反」と断じた地裁判決…依拠した「最高裁の判例」が強調する“選挙権という人権の重み”とは（弁護士JPニュース）",
+      "url": "https://news.yahoo.co.jp/articles/550563a1ac0798262ea6a20a4646f5578438731b",
+      "source": "Yahoo!ニュース（弁護士JPニュース）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "受刑者の選挙権制限を違憲と断じた地裁判決が依拠した最高裁判例について、選挙権という人権の重みを解説する記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "受刑者が投票できないのは憲法違反？塀の中の選挙権めぐり最高裁大法廷で審理へ「一人の人間として対峙して」（弁護士ドットコムニュース）",
+      "url": "https://news.yahoo.co.jp/articles/9a4a8ab52201295466511ea0628e4e153a58890a",
+      "source": "Yahoo!ニュース（弁護士ドットコムニュース）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "受刑者に選挙権がないことの憲法適合性について、最高裁大法廷での審理が行われることを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "参院で減税法案「否決」なら…永田町で飛び交う怪文書「高市首相 消費税解散」のシナリオ",
+      "url": "https://www.nikkan-gendai.com/articles/view/news/395344",
+      "source": "日刊ゲンダイDIGITAL",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "参院で消費税減税法案が否決された場合に高市首相が衆院解散に踏み切るとのシナリオを示す怪文書が永田町で飛び交っていると報じられた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "社説：消費減税案 参院へ 欠陥策の歯止め役を果たせ（京都新聞）",
+      "url": "https://news.yahoo.co.jp/articles/610f8b830779ad25f918d568a81950a4bf4dfc20",
+      "source": "Yahoo!ニュース（京都新聞）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "京都新聞の社説が、消費税減税法案が参議院に送られたことを受け、欠陥のある政策に歯止めをかける役割を参院に求めている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市早苗首相、「答弁は簡潔に」と委員長に再三注意受けるも時間かけて持論主張 参院予算委（日刊スポーツ）",
+      "url": "https://news.yahoo.co.jp/articles/e0fd7e2df3b0d1bef37ffef93859eb7675a0d3a4",
+      "source": "Yahoo!ニュース（日刊スポーツ）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "参院予算委員会で高市早苗首相が委員長から答弁を簡潔にするよう再三注意を受けながらも、時間をかけて持論を主張したと報じられた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "震度5強地震、震源を愛知県東部に更新（共同通信）",
+      "url": "https://news.yahoo.co.jp/articles/2558fa74f260beddef55ab0b11a837938cab19d2",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "愛知県で発生した震度5強の地震について、気象庁が震源を愛知県東部に更新したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "きのう愛知県で震度5強観測した地震 気象庁が震源を「愛知県東部」に変更 南海トラフ巨大地震の可能性高める変化は観測されず プレート状態に変化なし（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.yahoo.co.jp/articles/f31f5fd6a995b0c18e05f0bab9146f9fb4154c06",
+      "source": "Yahoo!ニュース（TBS NEWS DIG）",
+      "publishedAt": "2026-11-10T03:00:00.000Z",
+      "summary": "愛知県で震度5強を観測した地震について、気象庁が震源を「愛知県東部」に変更したことを伝え、南海トラフ巨大地震の可能性を高める変化は観測されていないとした。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "米10月CPIに注目！12月利上げ織り込み80％超、ドル円相場への影響と今後の見通し",
+      "url": "https://www.gaitame.com/media/entry/2026/11/10/100000",
+      "source": "外為どっとコム マネ育チャンネル",
+      "publishedAt": "2026-11-10T01:00:00.000Z",
+      "summary": "米10月CPIが注目される中、12月の米利上げ織り込みが80%超に達し、ドル円相場への影響や今後の見通しが解説された。"
+    },
+    {
       "categoryId": "base-law",
       "title": "俳優志望の女性に“性的暴行” 映画監督の懲役8年確定へ 最高裁",
       "url": "https://news.ksb.co.jp/ann/article/17030253",
@@ -64,6 +216,14 @@
       "source": "みんかぶ",
       "publishedAt": "2026-11-09T08:45:00.000Z",
       "summary": "11月9日午後5時時点のドル円相場の状況をまとめた記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "【国税庁】ホームページ新着情報（11/2～11/6）",
+      "url": "https://www.kzei.or.jp/news/ippan/2026/11/09-100000.html",
+      "source": "関東信越税理士会（kzei.or.jp）",
+      "publishedAt": "2026-11-09T03:00:00.000Z",
+      "summary": "国税庁ホームページにおける11月2日から6日までの新着情報をまとめた告知記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -200,6 +360,14 @@
       "source": "ライブドアニュース",
       "publishedAt": "2026-11-09T03:00:00.000Z",
       "summary": "東京都品川区の交差点でトラックと車が衝突し、歩行者を巻き込んで計4人がけがをしたことを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "愛知県・知多市で最大震度5強の地震 愛知県内で震度5強以上はおよそ30年ぶり 今後1週間程度は強い揺れを伴う地震に注意 気象庁（TBS NEWS DIG Powered by JNN）",
+      "url": "https://news.yahoo.co.jp/articles/d231c7f38e37fe28dd7ca8b43f87255bf2493d67",
+      "source": "Yahoo!ニュース（TBS NEWS DIG）",
+      "publishedAt": "2026-11-09T03:00:00.000Z",
+      "summary": "愛知県・知多市で最大震度5強の地震が発生し、愛知県内で震度5強以上の観測はおよそ30年ぶりとなった。気象庁は今後1週間程度、強い揺れを伴う地震に注意するよう呼びかけている。"
     },
     {
       "categoryId": "base-economy",
@@ -387,6 +555,14 @@
     },
     {
       "categoryId": "base-politics",
+      "title": "品川区長選挙がスタート 現職と新人の一騎打ち、物価高対策などで論戦 11月15日投開票",
+      "url": "https://www.tokyo-np.co.jp/article/526803",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "summary": "品川区長選挙が告示され、現職と新人による一騎打ちの構図となり、物価高対策などを巡り論戦が交わされている。投開票は11月15日。"
+    },
+    {
+      "categoryId": "base-politics",
       "title": "新宿区長選挙が告示 現職に新人3人が挑む 家賃対策や財源見直し…公約掲げ第一声 11月15日投開票",
       "url": "https://tokyo-np.co.jp/article/526806",
       "source": "東京新聞デジタル",
@@ -483,51 +659,11 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "11月6日のNY為替概況",
-      "url": "https://jp.investing.com/news/forex-news/article-1747222",
-      "source": "Investing.com（Fisco）",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "11月6日のニューヨーク外国為替市場の動向がまとめられた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均株価、終値は3600円以上下落し5.8万円割り込む 過去3番目の下げ幅",
-      "url": "https://news.livedoor.com/topics/detail/32749151/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "日経平均株価が終値で3600円以上下落し5.8万円を割り込み、過去3番目の下げ幅を記録した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "ソニーGはエンタメ光る好決算！ JTはロシア事業に暗雲/日経平均急落【今日の注目株＆日本株市場見通し】「デイリーZAi」11月6日号",
-      "url": "https://finance.yahoo.co.jp/news/detail/ebf8869a979b120d6e9d8b25ffaf15fdab26db64",
-      "source": "Yahoo!ファイナンス（ダイヤモンド・ザイ）",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "ソニーグループはエンタメ事業好調で決算が好調だった一方、JTはロシア事業への懸念があり、日経平均は急落した。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "日経平均が大幅下落 6万円割れ",
       "url": "https://news.yahoo.co.jp/pickup/6601495",
       "source": "Yahoo!ニュース",
       "publishedAt": "2026-11-06T22:07:36.000Z",
       "summary": "日経平均株価が大幅に下落し、6万円を割り込んだ。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米大統領、イラン攻撃弁解",
-      "url": "https://webun.jp/articles/-/1124542",
-      "source": "北日本新聞webunプラス",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "米大統領がイランへの攻撃について弁解する発言をしたと報じられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "イラン再攻撃の是非「近く決定」 米中間選挙大敗、大統領判断焦点（共同通信）",
-      "url": "https://news.yahoo.co.jp/articles/2ee26b2c0581dde4003b1abfcd7bbf47f602f2ee",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "米中間選挙で大敗した米大統領が、イランへの再攻撃の是非を近く決定する見通しだと報じられた。"
     },
     {
       "categoryId": "base-international",
@@ -619,38 +755,6 @@
     },
     {
       "categoryId": "base-society",
-      "title": "池袋暴走事故の遺族を中傷した疑い、徳島県内に住む20歳代の男を書類送検…「亡くなった娘で金稼ごうとしてる」Xに投稿（読売新聞オンライン）",
-      "url": "https://news.yahoo.co.jp/articles/77ffd1e6d2c59357ecd6718635e2a1a2d7d3c53d",
-      "source": "Yahoo!ニュース（読売新聞オンライン）",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "池袋暴走事故の遺族をSNSで中傷したとして、徳島県内の20代男性が書類送検された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【速報】信用金庫システム障害、ATMなど午後6時までに復旧 為替業務は時間要する見通し（OBS大分放送）",
-      "url": "https://news.yahoo.co.jp/articles/edb4bc1f208a2ca81e49f168ee4af2fa0ffb7cfc",
-      "source": "Yahoo!ニュース（OBS大分放送）",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "信用金庫のシステム障害が発生し、ATMなどは午後6時までに復旧する見通しだが、為替業務の復旧には時間がかかる見通し。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "サイバー攻撃で強制遮断検討 政府",
-      "url": "https://news.yahoo.co.jp/pickup/6601490",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "政府がサイバー攻撃を受けた際の強制遮断措置を検討していると報じられた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "サイバー防御 緊急対策まとめる",
-      "url": "https://news.yahoo.co.jp/pickup/6601563",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "政府がサイバー防御に関する緊急対策をまとめたと報じられた。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "被害訴える元検事 検察は上意下達",
       "url": "https://news.yahoo.co.jp/pickup/6601578",
       "source": "Yahoo!ニュース",
@@ -664,14 +768,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-06T08:00:00.000Z",
       "summary": "6日午後5時時点の東京外国為替市場における円相場が1ドル＝157円93～93銭になったと伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均6万円大台割れ、5月20日以来",
-      "url": "https://fx.minkabu.jp/news/383725",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-11-06T00:13:00.000Z",
-      "summary": "日経平均株価が6万円の大台を割り込み、5月20日以来の水準となった。"
     },
     {
       "categoryId": "base-economy",
@@ -762,52 +858,12 @@
       "summary": "2026年10月に企業法務担当者が押さえておくべき法改正や実務上の最新動向がまとめられた記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "韓国 きょうのニュース（11月5日）（聯合ニュース）",
-      "url": "https://news.yahoo.co.jp/articles/b8ce55d542e37c5dd0624e02808952df2601981d",
-      "source": "Yahoo!ニュース（聯合ニュース）",
-      "publishedAt": "2026-11-05T03:00:00.000Z",
-      "summary": "韓国国内の11月5日分の主要ニュースをまとめた聯合ニュースの記事。"
-    },
-    {
       "categoryId": "base-law",
       "title": "映画監督の榊英雄被告、性的暴行で実刑確定へ 最高裁が上告棄却（毎日新聞）",
       "url": "https://news.yahoo.co.jp/articles/74424f91559ddbdb6a1a053b29bbebf2a0a73dc9",
       "source": "Yahoo!ニュース（毎日新聞）",
       "publishedAt": "2026-11-05T03:00:00.000Z",
       "summary": "映画監督の榊英雄被告が俳優への性的暴行で懲役8年とした一、二審判決について、最高裁が上告を棄却し実刑が確定する見通しとなったと報じられた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "「総理の矛盾した答弁をフォローしようと」高市首相のG7欠席に辻元清美氏指摘 茂木外相が「ころころ変わる」（J-CASTニュース）",
-      "url": "https://news.yahoo.co.jp/articles/4beaf02a857e61e628e0635fae0f0b6428abf816",
-      "source": "Yahoo!ニュース（J-CASTニュース）",
-      "publishedAt": "2026-11-05T03:00:00.000Z",
-      "summary": "高市首相のG7欠席について辻元清美氏が答弁の矛盾を指摘し、茂木外相の説明が変化していると批判したと報じられた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "「大臣、言えないんですか？」立憲議員が小泉大臣を“挑発”？ 安保政策めぐり論戦（ABEMA TIMES）",
-      "url": "https://news.yahoo.co.jp/articles/b471ca958808eade732911378a16343956359b70",
-      "source": "Yahoo!ニュース（ABEMA TIMES）",
-      "publishedAt": "2026-11-05T03:00:00.000Z",
-      "summary": "国会審議で立憲民主党議員が安保政策をめぐり小泉大臣に鋭い質問を重ね、論戦となったと報じられた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "「内容が不透明」消費減税法案巡り野党は反対姿勢崩さず 与党は6日の衆院通過目指す（産経新聞）",
-      "url": "https://news.yahoo.co.jp/articles/de207713f697f6241a88906dd07a94bf5e9c87a2",
-      "source": "Yahoo!ニュース（産経新聞）",
-      "publishedAt": "2026-11-05T03:00:00.000Z",
-      "summary": "消費税減税法案について野党が「内容が不透明」として反対姿勢を崩さない一方、与党は6日の衆院通過を目指していると報じられた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "衆院選挙制度改革で3党が実務者協議 「比例復活」厳格化で参政に打撃 2月衆院選で試算（産経新聞）",
-      "url": "https://news.yahoo.co.jp/articles/f7ca790e6482c7dc338f21f1cc7d97945c286bb6",
-      "source": "Yahoo!ニュース（産経新聞）",
-      "publishedAt": "2026-11-05T03:00:00.000Z",
-      "summary": "衆院選挙制度改革を巡り自民・維新・国民の3党が実務者協議を行い、比例復活の厳格化が参政党に打撃を与えるとの試算が示されたと報じられた。"
     },
     {
       "categoryId": "base-international",
@@ -843,14 +899,6 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "《速報解説》 会計士協会、「上場会社等における会計不正の動向（2026年版）」を公表～会計不正の業種別公表件数は、情報・通信業が卸売業を抜いて２番目に～",
-      "url": "https://profession-net.com/professionjournal/financial-statements-report-156/",
-      "source": "プロフェッションジャーナル（PROnet）",
-      "publishedAt": "2026-11-04T03:00:00.000Z",
-      "summary": "日本公認会計士協会が「上場会社等における会計不正の動向（2026年版）」を公表し、業種別では情報・通信業が2番目に多かったと伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "国税庁 e-Tax、不審な通信を検知し利用停止 緊急メンテナンスで年末調整期の税務手続に影響(復旧：2026年11月5日)",
       "url": "https://rocket-boys.co.jp/security-measures-lab/etax-suspicious-traffic-emergency-maintenance-20261104/",
       "source": "セキュリティ対策Lab（ロケットボーイズ）",
@@ -883,11 +931,11 @@
     },
     {
       "categoryId": "base-law",
-      "title": "ビジネスロイヤーズアワード2026発表、グランプリにAIガバナンスの古川直裕弁護士（弁護士ドットコムニュース）",
-      "url": "https://news.yahoo.co.jp/articles/7b3259a3233863d4577750bd7e85df2bc31b0f05",
-      "source": "Yahoo!ニュース（弁護士ドットコムニュース）",
+      "title": "令和8年11月4日付け 事務総長定例会見記録",
+      "url": "https://www.jftc.go.jp/houdou/teirei/2026/261104.html",
+      "source": "公正取引委員会",
       "publishedAt": "2026-11-04T03:00:00.000Z",
-      "summary": "「BUSINESS LAWYERS AWARD 2026」が発表され、AIガバナンス分野で古川直裕弁護士がグランプリを受賞したと報じる記事。"
+      "summary": "公正取引委員会の事務総長による11月4日の定例記者会見の内容をまとめた記録。"
     },
     {
       "categoryId": "base-law",
@@ -907,43 +955,11 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "週間「適時開示」ニュース（10/30～11/５）",
-      "url": "https://www.zeiken.co.jp/keieizaimu/article/no3629/ZA00036291001.html",
-      "source": "税務研究会（週刊経営財務）",
-      "publishedAt": "2026-11-03T22:08:36.000Z",
-      "summary": "10月30日から11月5日までの週に発表された上場企業の適時開示情報をまとめた記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "イラン、中ロと連携強化模索か 米中間選挙後を警戒、高官がプーチン氏らと協議",
-      "url": "https://www.jiji.com/jc/article?k=2026110300216&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-03T03:00:00.000Z",
-      "summary": "イランが米中間選挙後の情勢を警戒し、中国やロシアとの連携強化を模索している可能性があり、高官がプーチン氏らと協議したと報じる記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "旧統一教会総裁の保釈取り消し 居住地違反で韓国高裁",
-      "url": "https://www.jiji.com/jc/article?k=2026110300653&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-03T03:00:00.000Z",
-      "summary": "韓国の高裁が旧統一教会総裁の保釈を居住地条件違反を理由に取り消したと報じる記事。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "【国税庁】ホームページ新着情報（10/26～10/30）",
       "url": "https://www.kzei.or.jp/news/ippan/2026/11/02-100000.html",
       "source": "関東信越税理士会（kzei.or.jp）",
       "publishedAt": "2026-11-02T03:00:00.000Z",
       "summary": "国税庁ホームページにおける10月26日から30日までの新着情報をまとめた告知記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "改正公益通報者保護法2026｜12月1日施行の変更点・罰則・対象者",
-      "url": "https://shittetoku-lab.hatenablog.com/entry/2026/11/01/153127",
-      "source": "知って得する研究所",
-      "publishedAt": "2026-11-01T03:00:00.000Z",
-      "summary": "12月1日に施行される改正公益通報者保護法について、変更点や罰則、対象者をまとめた解説記事。"
     },
     {
       "categoryId": "base-economy",
@@ -952,14 +968,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-10-30T00:00:00.000Z",
       "summary": "日銀が物価の上振れを踏まえ、中立金利を目指す形で12月の利上げを視野に入れていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "改正皇室典範は「違憲」と提訴 漫画家・小林よしのりさん―東京地裁",
-      "url": "https://www.jiji.com/jc/article?k=2026102600701&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-26T03:00:00.000Z",
-      "summary": "漫画家の小林よしのり氏が、改正された皇室典範は違憲であるとして東京地裁に提訴したと報じる記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -976,14 +984,6 @@
       "source": "企業会計基準委員会（ASBJ）",
       "publishedAt": "2026-10-16T00:00:00.000Z",
       "summary": "企業会計基準委員会が、金融商品に関する会計基準を改正した改正企業会計基準第10号等を公表したと伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "法人税等会計基準及びステーブルコイン実務対応報告（案）の公表に伴う財務諸表等規則等の改正案のポイント",
-      "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/accounting-topics/2026/accounting-topics-2026-10-01",
-      "source": "EY Japan",
-      "publishedAt": "2026-10-01T03:00:00.000Z",
-      "summary": "法人税等会計基準及びステーブルコイン実務対応報告案の公表に伴う財務諸表等規則等の改正案のポイントがEY Japanにより解説された。"
     },
     {
       "categoryId": "base-law",
