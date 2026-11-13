@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-12T05:18:02.906Z",
+  "syncedAt": "2026-11-13T05:25:08.024Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,246 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-accounting",
+      "title": "企業向け【2025年最新】税制改正で押さえておくべき5つの変更点を解説",
+      "url": "https://news.yahoo.co.jp/articles/41b70abba5edb53a8ceb749cba3be9da9a030f76",
+      "source": "Yahoo!ニュース（税理士ドットコム）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "2025年最新の税制改正において、企業が押さえておくべき5つの変更点が解説された。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "国による税金の無駄遣いや不適切会計は２５０件で総額１４４５億円、うち「法令違反」は２１１件…会計検査院",
+      "url": "https://news.yahoo.co.jp/articles/7395ad923527cfa91a6f0716e269217645ebf40a",
+      "source": "Yahoo!ニュース（読売新聞オンライン）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "会計検査院の調査で、国による税金の無駄遣いや不適切会計が250件・総額1445億円に上り、うち法令違反が211件に及ぶことが明らかになった。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "今年は税制改正で「基礎控除」が変わったと聞きました。年収500万円の会社員ですが、年末調整で戻ってくるお金は増えるのでしょうか？",
+      "url": "https://news.yahoo.co.jp/articles/927fa543472a4e53fb8a9bf8aaf2f839bf4fb0fd",
+      "source": "Yahoo!ニュース（ファイナンシャルフィールド）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "税制改正により基礎控除が変わったことを受け、年収500万円の会社員の年末調整で戻る金額への影響が解説された。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "会計検査院、最高裁を65年ぶりに「法令違反」と指摘: 2025年度決算で不当な会計処理",
+      "url": "https://news.yahoo.co.jp/articles/e205ed63b9c0048967bffd97dd4c137f0fa19165",
+      "source": "Yahoo!ニュース（オルタナ）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "会計検査院が2025年度決算における不当な会計処理を巡り、最高裁を65年ぶりに「法令違反」と指摘した。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "税の無駄など1445億円 検査院報告",
+      "url": "https://news.yahoo.co.jp/pickup/6601446",
+      "source": "Yahoo!ニュース",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "会計検査院の報告により、税の無駄遣いなどが1445億円に上ることが伝えられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均、789円01銭高の6万1248円59銭で終了＝東京株式",
+      "url": "https://news.yahoo.co.jp/articles/1be69d666a79a478bae9b6adc0e0ef43cfcd91c1",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "東京株式市場で日経平均株価が789円01銭高の6万1248円59銭で取引を終えた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "東京株式 12日終値",
+      "url": "https://news.yahoo.co.jp/articles/bb2d14cf6895c5afcb4c9d4b62e007c496767d10",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "11月12日の東京株式市場の終値が共同通信により伝えられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "「年間配当80円→110円」の増配発表…ポジティブサプライズで急伸した〈注目銘柄〉の正体【11月12日の国内株式市場概況】",
+      "url": "https://news.yahoo.co.jp/articles/be338aa7a8069dc0eaa4f447543101602e94d473",
+      "source": "Yahoo!ニュース（THE GOLD ONLINE）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "年間配当を80円から110円に増配すると発表した銘柄がポジティブサプライズで急伸し、11月12日の国内株式市場の注目を集めた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均株価、一時１０００円超下落…６万１１００円台で推移",
+      "url": "https://news.yahoo.co.jp/articles/ca01d24123cd0bff47bb0640af9e6ad54e814089",
+      "source": "Yahoo!ニュース（読売新聞オンライン）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "日経平均株価が一時1000円超下落し、6万1100円台で推移したことが伝えられた。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "午前の日経平均は続伸、米ＡＩ株高を好感 エヌビディア関連の下げが上値抑制",
+      "url": "https://news.yahoo.co.jp/articles/ffe0e45e733ce17797fe2a11f61bcc7f2d31fe74",
+      "source": "Yahoo!ニュース（ロイター）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "午前の日経平均は米AI株高を好感して続伸した一方、エヌビディア関連株の下げが上値を抑制した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "米、中ロ首脳と会談意向 トランプ氏、来週に",
+      "url": "https://kumanichi.com/articles/2055669",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "トランプ米大統領が、来週に中国・ロシアの首脳と会談する意向を示したことが伝えられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "「米国より中国が好き、トランプ大統領が原因」…世界の好感度が初めて逆転",
+      "url": "https://news.yahoo.co.jp/articles/1325addcb82cc8fe5ce4dd91fa743652d1e9278f",
+      "source": "Yahoo!ニュース（ハンギョレ新聞）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "世界的な好感度調査で、トランプ大統領の影響により米国より中国を好むとの結果が初めて逆転したことが報じられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "カナダ、「ミドルパワー外交」推進 米以外との貿易倍増目指す",
+      "url": "https://news.yahoo.co.jp/articles/1d2aacc2507fad766e0cbebaa3e0b015a2d02654",
+      "source": "Yahoo!ニュース（ロイター）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "カナダが「ミドルパワー外交」を推進し、米国以外の国々との貿易を倍増させることを目指す方針を示した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "韓中外相 13日に北京で会談＝李大統領のAPEC出席控え",
+      "url": "https://news.yahoo.co.jp/articles/674ba829778d4191b5ddc97a9b81d5164ad5c174",
+      "source": "Yahoo!ニュース（聯合ニュース）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "韓国と中国の外相が、李在明大統領のAPEC出席を控えて13日に北京で会談することが伝えられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "米中間選挙“トランプ大敗”で世界はどうなる？ 「トランプほど御しやすい大統領は…」中国の本音 米中ロ3カ国首脳会談実現なら“ヤルタ2.0”に？ 専門家警告「日本が議論する資格すらない時代に」",
+      "url": "https://news.yahoo.co.jp/articles/eda3e99f15120805b4a7cb2816626b50652832b0",
+      "source": "Yahoo!ニュース（ABEMA TIMES）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "米中間選挙でトランプ氏側が大敗したことを受け、米中ロ3カ国首脳会談が実現すれば“ヤルタ2.0”になりかねないとの専門家の見方が伝えられた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "「被保佐人は警備員になれない」は違憲、最高裁が初判断 原告男性「ちょっとうれしい。国会には早く改善してほしい」",
+      "url": "https://www.bengo4.com/c_18/n_20012/",
+      "source": "弁護士ドットコムニュース",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "被保佐人が警備員になれないとする規定を最高裁が初めて違憲と判断し、原告男性が国会に早期の改善を求めた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "最高裁、昨年参院選「違憲状態」 合区後初、1票格差3.13倍",
+      "url": "https://news.yahoo.co.jp/articles/0ee957b1f18e2ca0bc99e29ca85e69a1b6a0575c",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "最高裁が、昨年の参院選における1票の格差3.13倍について合区後初めて「違憲状態」と判断した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "最高裁 全員一致で違憲判断『欠格条項』で失職した男性が訴え",
+      "url": "https://news.yahoo.co.jp/articles/17cdd88b4e454ba94f49bca3f4021a804aaa61a7",
+      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "警備業法の欠格条項により失職した男性の訴えについて、最高裁が全員一致で違憲と判断した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "昨年参院選は「違憲状態」 3．13倍、合区後初 「1票の格差」判決・最高裁大法廷",
+      "url": "https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "最高裁大法廷が、昨年の参院選における1票の格差3.13倍について合区後初めて「違憲状態」との判決を示した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "旧警備業法の欠格条項は「違憲」 成年後見制度利用者の就業巡り 賠償は認めず・最高裁大法廷",
+      "url": "https://news.yahoo.co.jp/articles/88e04b2d25a09c55789e595e53b4cad4cb6ad009",
+      "source": "Yahoo!ニュース（時事通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "最高裁大法廷が、成年後見制度利用者の就業を制限する旧警備業法の欠格条項を「違憲」と判断したが、賠償は認めなかった。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市氏、国会での答弁数が最少 5首相平均、SNSは突出し最多",
+      "url": "https://news.yahoo.co.jp/articles/117f8f3ba3ae41786223d8deed8d7a80d862bed1",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "高市首相の国会答弁数が過去5首相の平均より最も少なく、一方でSNSの発信は突出して多いことが報じられた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "「初めて見た」高市首相 国会中継に“カメラ目線”答弁で驚きの声…中傷動画＆サナエトークン問題を全否定も“長すぎる”答弁に野党議員は「何をべらべら」と苦言",
+      "url": "https://news.yahoo.co.jp/articles/21d6a956715a5b39c4f826b34933329aa1002613",
+      "source": "Yahoo!ニュース（女性自身）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "高市首相の国会答弁がカメラ目線で行われたことに驚きの声が上がり、中傷動画やサナエトークン問題を否定したが、答弁の長さに野党議員から苦言が出た。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "高市早苗首相「総理の業務時間確保できなくなっている」中傷動画疑惑などの国会答弁対応で主張",
+      "url": "https://news.yahoo.co.jp/articles/458de418d5588fea38769d26a201342fac70dc95",
+      "source": "Yahoo!ニュース（日刊スポーツ）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "高市早苗首相が、中傷動画疑惑などへの国会答弁対応によって総理としての業務時間が確保できなくなっていると主張した。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相、給付制度で野党と「議論排除せず」",
+      "url": "https://news.yahoo.co.jp/articles/d6028dc203960a802f6b3bf3b63221b02562783a",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "高市首相が、給付制度について野党との議論を排除しない姿勢を示したことが伝えられた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "「中傷動画」問題が“高市おろし”の政局になる可能性 ブレ続ける高市首相の国会答弁",
+      "url": "https://news.yahoo.co.jp/articles/fd8161efd96004d6c2a72d55a41e3cca38361388",
+      "source": "Yahoo!ニュース（AERA DIGITAL）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "中傷動画問題が高市首相の退陣を求める政局につながる可能性があり、国会答弁の内容がブレ続けていると指摘されている。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "ミナミのレンタルルームで「ぼったくり」 約１４００万円だまし取った罪に問われた男に執行猶予付き有罪判決 大阪地裁",
+      "url": "https://news.yahoo.co.jp/articles/03b6dd249dae63256e40e717fe34a979c5869e0e",
+      "source": "Yahoo!ニュース（ABCニュース）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "大阪・ミナミのレンタルルームで客から約1400万円をだまし取ったとして起訴された男に対し、大阪地裁が執行猶予付きの有罪判決を下した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "特殊詐欺の「かけ子」の勧誘役として起訴済みの女（３２）を逮捕 東京での強盗予備の「指示役」か 広島",
+      "url": "https://news.yahoo.co.jp/articles/5ad2b75818dc8abfcdc5a8c4c504739d6b369dbc",
+      "source": "Yahoo!ニュース（テレビ新広島）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "特殊詐欺の「かけ子」の勧誘役として起訴されていた32歳の女が、東京での強盗予備事件の指示役の疑いで広島で逮捕された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "トクリュウ事件“指示役”32歳会社役員の女逮捕 東京・新宿区の路上で催涙スプレーなどの凶器持って集まり強盗の準備か",
+      "url": "https://news.yahoo.co.jp/articles/a884be50f8bb86493c33cd3e9c0f220cb65c1d54",
+      "source": "Yahoo!ニュース（FNNプライムオンライン）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "東京・新宿区の路上で催涙スプレーなどの凶器を持って集まり強盗の準備をしていたとして、トクリュウ事件の指示役とされる32歳の女性会社役員が逮捕された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "住宅に放火か 長男（32）逮捕 焼け跡から3人遺体 母親らと連絡とれず 広島・福山市",
+      "url": "https://news.yahoo.co.jp/articles/af4d3aed52e5b6b9edc5c92576e459e783fd1e9e",
+      "source": "Yahoo!ニュース（HOME広島ホームテレビ）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "広島県福山市の住宅が放火されたとみられる火災で焼け跡から3人の遺体が見つかり、32歳の長男が逮捕された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「ブレイキングダウン」出場自称の３７歳男を逮捕 １万円で大麻譲り受けた疑い 譲り渡し疑いで美容師の６０歳男も逮捕",
+      "url": "https://news.yahoo.co.jp/articles/f8caf24369d11aae8de6bef05f153943eb199aee",
+      "source": "Yahoo!ニュース（ABCニュース）",
+      "publishedAt": "2026-11-12T22:07:38.000Z",
+      "summary": "格闘イベント「ブレイキングダウン」への出場を自称する37歳の男が、1万円で大麻を譲り受けた疑いで逮捕され、譲り渡した疑いで60歳の美容師の男も逮捕された。"
+    },
     {
       "categoryId": "base-economy",
       "title": "東京時間に伝わった指標・ニュース",
@@ -659,14 +899,6 @@
     },
     {
       "categoryId": "base-international",
-      "title": "欧州で偽の爆破予告相次ぐ 約20便に影響",
-      "url": "https://www.afpbb.com/articles/-/3661136",
-      "source": "AFPBB News",
-      "publishedAt": "2026-11-08T22:08:39.000Z",
-      "summary": "欧州各地で偽の爆破予告が相次ぎ、約20便の航空便に影響が出たことを伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
       "title": "米、イラン核計画の情報に最大2000万ドルの報奨金（ＡＦＰ＝時事）",
       "url": "https://news.yahoo.co.jp/articles/137f71ca57d1899c7d67abedf0a723216cf29111",
       "source": "Yahoo!ニュース（AFP＝時事）",
@@ -730,76 +962,12 @@
       "summary": "来週の為替市場における主な予定として、日銀の「主な意見」やハト派の浅田日銀委員の発言、米消費者物価指数、国内企業物価指数などの注目点をまとめた記事。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "自治体「価格転嫁」の動き鈍い 中小企業庁不満、是正迫る",
-      "url": "https://tokyo-np.co.jp/article/526687",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "地方自治体による取引先への価格転嫁の動きが鈍く、中小企業庁が不満を示し是正を迫っていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "編集部厳選､注目の経済ニュース！【11月7日】 今週のトピックス＆来週のスケジュール",
-      "url": "https://toyokeizai.net/articles/-/963894?display=b",
-      "source": "東洋経済オンライン",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "編集部が厳選した今週の注目経済ニュースと、来週の主要な経済スケジュールをまとめた記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "米国務長官、Ｇ７外相会合出席へ ウクライナ支援で結束焦点",
-      "url": "https://www.tokyo-np.co.jp/article/526670",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "米国務長官がG7外相会合に出席する見通しで、ウクライナ支援に関する結束が焦点になることを伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "日ベトナム首脳、法整備協力強化 国産ブドウ輸出解禁合意へ",
-      "url": "https://www.tokyo-np.co.jp/article/526729",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "日本とベトナムの首脳が法整備協力の強化で合意し、国産ブドウの輸出解禁についても合意する見通しであることを伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "仏１４万人デモ、警察と衝突 ３６０人拘束、沈静化せず",
-      "url": "https://www.tokyo-np.co.jp/article/526802",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "フランスで14万人規模のデモが行われ、警察と衝突して360人が拘束されるなど事態が沈静化していないことを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（１１月７日）",
-      "url": "https://www.jiji.com/jc/article?k=2026110700254&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "高市首相の11月7日の動静（スケジュール）を伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "与党、少数参院で多数派工作 消費減税法案、１１日審議入り",
-      "url": "https://www.jiji.com/jc/article?k=2026110700339&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "与党が少数の参院で過半数確保に向けた多数派工作を進め、消費減税法案は11日に参院で審議入りする見通しであることを伝える記事。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "品川区長選挙がスタート 現職と新人の一騎打ち、物価高対策などで論戦 11月15日投開票",
       "url": "https://www.tokyo-np.co.jp/article/526803",
       "source": "東京新聞デジタル",
       "publishedAt": "2026-11-07T00:00:00.000Z",
       "summary": "品川区長選挙が告示され、現職と新人による一騎打ちの構図となり、物価高対策などを巡り論戦が交わされている。投開票は11月15日。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "新宿区長選挙が告示 現職に新人3人が挑む 家賃対策や財源見直し…公約掲げ第一声 11月15日投開票",
-      "url": "https://tokyo-np.co.jp/article/526806",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "新宿区長選挙が告示され、現職に新人3人が挑む構図となった。家賃対策や財源見直しなどの公約を掲げて第一声を上げ、投開票は11月15日。"
     },
     {
       "categoryId": "base-politics",
@@ -819,59 +987,11 @@
     },
     {
       "categoryId": "base-society",
-      "title": "ドコモ、情報流出めぐり謝罪",
-      "url": "https://news.livedoor.com/topics/detail/32753325/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "NTTドコモが情報流出問題について謝罪したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "東京・北区で男性が電柱に引っかかり死亡 周囲で約3000軒が一時停電",
-      "url": "https://news.livedoor.com/topics/detail/32756871/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "東京都北区で男性が電柱に引っかかり死亡する事故があり、周囲約3000軒で一時停電が発生したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "真下の部屋の住人が男性を刺殺か",
-      "url": "https://news.livedoor.com/topics/detail/32757984/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "真下の部屋の住人が男性を刺殺した疑いがあるとして捜査が進められていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "追突された軽自動車が横転…酒を飲んで自動車専用道路で事故起こし2人にケガさせたか 危険運転致傷容疑で23歳男逮捕",
-      "url": "https://news.livedoor.com/topics/detail/32758037/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-07T00:00:00.000Z",
-      "summary": "酒を飲んで自動車専用道路で事故を起こし軽自動車を横転させ2人にケガを負わせたとして、23歳の男が危険運転致傷の疑いで逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "やす子が運営する子ども食堂、いたずら被害を報告「次からは警察に通報」",
       "url": "https://news.livedoor.com/topics/detail/32758278/",
       "source": "ライブドアニュース",
       "publishedAt": "2026-11-07T00:00:00.000Z",
       "summary": "タレントのやす子が運営する子ども食堂でいたずら被害があったことを報告し、次回以降は警察に通報する意向を示したと伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "【速報】消費税減税関連法案が衆院を通過した",
-      "url": "https://www.jiji.com/jc/article?k=2026110600626&g=flash",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "消費税減税に関連する法案が衆議院を通過した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "税金無駄遣い1445億円 前年度比2.7倍 最多は中小企業基盤整備機構 会計検査院",
-      "url": "https://news.ksb.co.jp/ann/article/17028313",
-      "source": "news.ksb.co.jp（関西テレビ）",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "会計検査院が指摘した税金の無駄遣いが前年度比2.7倍の1445億円に上り、最多は中小企業基盤整備機構だった。"
     },
     {
       "categoryId": "base-accounting",
@@ -890,46 +1010,6 @@
       "summary": "企業会計基準委員会(ASBJ)が企業会計基準等の形式的な修正を公表した。"
     },
     {
-      "categoryId": "base-law",
-      "title": "12月施行！公益通報者保護法改正の概要と企業への影響",
-      "url": "https://www.businesslawyers.jp/articles/1451",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "12月に施行される公益通報者保護法改正の概要と企業への影響が解説された。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか",
-      "url": "https://itmedia.co.jp/news/article/2611/06/2000002978",
-      "source": "ITmedia NEWS",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "セキュリティ啓発団体がサイバー攻撃を受け、個人情報が最大1.5万件漏えいした可能性がある。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "生活扶助基準引下げを再び違法とした最高裁判所判決を踏まえ、改めて国に対し判決に従った被害の早期全面回復等を求める会長声明",
-      "url": "https://www.nichibenren.or.jp/document/statement/year/2026/261105.html",
-      "source": "日本弁護士連合会",
-      "publishedAt": "2026-11-06T22:07:36.000Z",
-      "summary": "日弁連が、生活扶助基準引下げを違法とした最高裁判決を踏まえ、国に被害の早期回復を求める会長声明を発表した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "【2026年11月6日】日経平均3,643円急落の理由｜AI・半導体株はなぜ暴落した？今後の見通し",
-      "url": "https://illogs.com/nikkei-ai-stock-crash-2026-11-06/",
-      "source": "illogs",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "summary": "11月6日に日経平均が3,643円急落した背景として、AI・半導体株の暴落理由と今後の見通しを解説する記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（１１月６日）",
-      "url": "https://www.jiji.com/jc/article?k=2026110600230&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-06T00:00:00.000Z",
-      "summary": "高市首相の11月6日の動静（スケジュール）を伝える記事。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "首相動静（11月6日）（時事通信）",
       "url": "https://news.yahoo.co.jp/articles/c7674c87e6180ed6f8896fb58637cfbcad1adb09",
@@ -938,44 +1018,12 @@
       "summary": "高市首相の11月6日の動静（スケジュール）を伝える記事。"
     },
     {
-      "categoryId": "base-accounting",
-      "title": "ｅ－Ｔａｘに不審な通信 国税庁、一時停止に：時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026110401192&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-04T03:00:00.000Z",
-      "summary": "国税の電子申告システム「e-Tax」に不審な通信が確認されたため、国税庁がシステムを一時停止したと報じる記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "“生活保護費カット”最高裁が再び「違法」…国による追加給付の減額「正当化する理由」が判決文から消える",
-      "url": "https://www.ben54.jp/news/4044",
-      "source": "弁護士ドットコムニュース",
-      "publishedAt": "2026-11-04T03:00:00.000Z",
-      "summary": "生活保護費の引き下げを巡る訴訟で最高裁が再び「違法」と判断し、国による追加給付減額を正当化する理由が判決文から消えたと報じる記事。"
-    },
-    {
       "categoryId": "base-law",
       "title": "令和8年11月4日付け 事務総長定例会見記録",
       "url": "https://www.jftc.go.jp/houdou/teirei/2026/261104.html",
       "source": "公正取引委員会",
       "publishedAt": "2026-11-04T03:00:00.000Z",
       "summary": "公正取引委員会の事務総長による11月4日の定例記者会見の内容をまとめた記録。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日銀、１２月利上げを視野　物価上振れ、中立金利目指す",
-      "url": "https://www.jiji.com/jc/article?k=2026103001192&g=eco",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-10-30T00:00:00.000Z",
-      "summary": "日銀が物価の上振れを踏まえ、中立金利を目指す形で12月の利上げを視野に入れていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "企業会計基準公開草案第100号「継続企業に関する会計基準（案）」等の公表",
-      "url": "https://www.asb-j.jp/jp/project/exposure_draft/y2026/2026-1023.html",
-      "source": "企業会計基準委員会（ASBJ）",
-      "publishedAt": "2026-10-23T03:00:00.000Z",
-      "summary": "企業会計基準委員会が、継続企業の前提に関する会計基準の公開草案第100号等を公表したと伝える記事。"
     },
     {
       "categoryId": "base-accounting",
