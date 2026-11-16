@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-15T05:14:43.986Z",
+  "syncedAt": "2026-11-16T05:14:14.276Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,54 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-international",
+      "title": "「第2のヤルタ」？ウクライナは領土割譲を警戒 史上初米中露首脳会談の思惑",
+      "url": "https://news.yahoo.co.jp/articles/b9df98c5ba52aba08d8f7f33d15d3eb06bdbd69b",
+      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
+      "publishedAt": "2026-11-15T22:08:41.000Z",
+      "summary": "史上初となる米中露首脳会談を控え、ウクライナが領土割譲につながる「第2のヤルタ」になることを警戒していることを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "いのちの党・奥田ふみよ氏、国会で「ばっか」連発と過激発言に批判殺到…指摘され続ける〈品位の欠如〉",
+      "url": "https://news.yahoo.co.jp/articles/7b35b3296087b839b1f0c3d961fabe856d7d9c86",
+      "source": "Yahoo!ニュース（週刊女性PRIME）",
+      "publishedAt": "2026-11-15T22:08:41.000Z",
+      "summary": "いのちの党の奥田ふみよ議員が国会で「ばっか」などの発言を連発し、品位の欠如だとして批判が殺到していることを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "20代の男1人と少年4人を逮捕 盗難車を運転し保管した疑い 82歳の女性が大けがをした強盗傷害事件への関与もほのめかす",
+      "url": "https://news.yahoo.co.jp/articles/18458178c57a36218cca44d118b5b2025f87863c",
+      "source": "Yahoo!ニュース（CBCテレビ）",
+      "publishedAt": "2026-11-15T22:08:41.000Z",
+      "summary": "盗難車を運転・保管した疑いで20代の男1人と少年4人が逮捕され、82歳女性が大けがをした強盗傷害事件への関与も示唆されていることを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "愛知・小牧の住宅に男らが押し入り８２歳女性を殴り逃走…現場付近で盗難車の５人逮捕、関与を示唆",
+      "url": "https://news.infoseek.co.jp/article/yomiuri_20261115_gyt1t00104/",
+      "source": "Infoseekニュース（読売新聞オンライン）",
+      "publishedAt": "2026-11-15T06:00:00.000Z",
+      "summary": "愛知県小牧市の住宅に男らが押し入り82歳女性を殴って逃走した事件で、現場付近にいた盗難車の男女5人が逮捕され、事件への関与が示唆されていることを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "首相動静（１１月１５日）",
+      "url": "https://www.jiji.com/jc/article?k=2026111500119&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-15T03:00:00.000Z",
+      "summary": "高市首相の11月15日の動静（スケジュール）を伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "インフルエンサー「あっすん」を風営法違反容疑で逮捕 愛知県警",
+      "url": "https://www.jiji.com/jc/article?k=2026111500121&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-15T03:00:00.000Z",
+      "summary": "愛知県警が、インフルエンサーの「あっすん」を風俗営業法違反の疑いで逮捕したことを伝える記事。"
+    },
     {
       "categoryId": "base-accounting",
       "title": "《速報解説》 金融庁、「財務諸表等規則等の一部を改正する内閣府令（案）」等を公表～法人税等に関する会計基準等を受け、規定の削除や定義・一部語句の改正を行う～",
@@ -144,6 +192,14 @@
       "source": "デイリースポーツ online",
       "publishedAt": "2026-11-14T03:00:00.000Z",
       "summary": "日中両国の首相が直接接触する機会は現状限定的であるとの見通しが報じられている。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "「定数削減」攻防本格化へ 野党抗戦、消費税波及も―国会",
+      "url": "https://www.jiji.com/jc/article?k=2026111400313&g=pol&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-14T03:00:00.000Z",
+      "summary": "衆院定数削減法案の審議を巡り与野党の攻防が本格化し、野党は抗戦する姿勢を示しており、議論が消費税にも波及する可能性があることを伝える記事。"
     },
     {
       "categoryId": "base-society",
@@ -779,22 +835,6 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "改正給与法が成立 国家公務員、５年連続増",
-      "url": "https://www.jiji.com/jc/article?k=2026111100528&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-11T03:00:00.000Z",
-      "summary": "国家公務員の給与を5年連続で増額する改正給与法が国会で成立したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "昨年参院選は「違憲状態」 「１票の格差」判決―最高裁大法廷",
-      "url": "https://www.jiji.com/jc/article?k=2026111100661&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-11T03:00:00.000Z",
-      "summary": "最高裁大法廷が、昨年の参院選における「一票の格差」について「違憲状態」との判決を示したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
       "title": "内閣府でメアド６万件漏えい 配信サービスに不正アクセス",
       "url": "https://www.jiji.com/jc/article?k=2026111100748&g=pol",
       "source": "時事ドットコム",
@@ -816,14 +856,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-11T03:00:00.000Z",
       "summary": "高市首相を支持する国会議員グループ「国力研」が勉強会を開催したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「雨イジングスパイダーマン」逮捕 雨の日にビル上層階を狙って窃盗繰り返す 警視庁と千葉県警",
-      "url": "https://www.jiji.com/jc/article?k=2026111100505&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-11T03:00:00.000Z",
-      "summary": "雨の日にビルの上層階を狙って窃盗を繰り返していたとされる「雨イジングスパイダーマン」が、警視庁と千葉県警により逮捕されたことを伝える記事。"
     },
     {
       "categoryId": "base-society",
@@ -850,14 +882,6 @@
       "summary": "現金給付について、より多くの人に恩恵が及ぶようにしたいと首相が述べたことを伝える、共同通信配信の記事。"
     },
     {
-      "categoryId": "base-society",
-      "title": "「緊張感を持って」愛知・大村知事 最大震度5強の地震を受けて愛知県は災害対策本部を今後1週間程度維持（愛知のニュース（テレビ愛知）",
-      "url": "https://topics.smt.docomo.ne.jp/article/tvaichi/region/tvaichi-20261110-1857-10586",
-      "source": "テレビ愛知（dメニューニュース）",
-      "publishedAt": "2026-11-10T09:57:00.000Z",
-      "summary": "最大震度5強の地震を受け、愛知県の大村知事が「緊張感を持って」対応する姿勢を示し、災害対策本部を今後1週間程度維持する方針を明らかにした。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "東レ、今期最終を22％上方修正・10期ぶり最高益更新へ",
       "url": "https://s.kabutan.jp/news/k202611100036/",
@@ -882,14 +906,6 @@
       "summary": "ソフトバンクグループがデータセンター事業での損失により、7680億円の中間赤字に転落したことを伝える記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "インドネシア副大統領が辞意 学歴証明「無効」判断で",
-      "url": "https://www.jiji.com/jc/article?k=2026111001151&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-10T03:00:00.000Z",
-      "summary": "インドネシアの副大統領が、自身の学歴証明が「無効」と判断されたことを受けて辞意を示したことを伝える記事。"
-    },
-    {
       "categoryId": "base-law",
       "title": "2026年1月施行！取適法（旧下請法）の概要と企業対応のポイント",
       "url": "https://www.businesslawyers.jp/articles/1471",
@@ -904,22 +920,6 @@
       "source": "Yahoo!ニュース（弁護士JPニュース）",
       "publishedAt": "2026-11-10T03:00:00.000Z",
       "summary": "受刑者の選挙権制限を違憲と断じた地裁判決が依拠した最高裁判例について、選挙権という人権の重みを解説する記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "「企業献金」の審議先行 定数削減にらみ与党譲歩―衆院委",
-      "url": "https://www.jiji.com/jc/article?k=2026111001042&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-10T03:00:00.000Z",
-      "summary": "衆議院定数削減を見据えた与党の譲歩により、企業献金に関する審議が先行して進められていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「命で償って」「死刑は望まない」 差し戻し審で遺族ら―富山交番襲撃",
-      "url": "https://www.jiji.com/jc/article?k=2026111000955&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-10T03:00:00.000Z",
-      "summary": "富山交番襲撃事件の差し戻し審において、遺族らが「命で償って」「死刑は望まない」などと述べたことを伝える記事。"
     },
     {
       "categoryId": "base-accounting",
