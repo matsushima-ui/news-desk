@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-18T05:20:40.865Z",
+  "syncedAt": "2026-11-19T05:18:46.631Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,134 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-accounting",
+      "title": "日本企業が進出先国で経験した国際課税問題等",
+      "url": "https://www.zeiken.co.jp/kokusaizeimu/article/202611/KZ2026110160101.html",
+      "source": "国際税務（税務研究会）",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "日本企業が海外進出先国で実際に経験した国際課税に関する問題点について解説した記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "2025年12月期・2026年3月期IFRS決算Q&A 後編 財務諸表における不確実性に関する開示",
+      "url": "https://www.zeiken.co.jp/keieizaimu/article/no3737/ZA00037371501.php",
+      "source": "週刊経営財務（税務研究会）",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "2025年12月期・2026年3月期のIFRS決算に関するQ&Aの後編として、財務諸表における不確実性に関する開示について解説した記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均マイナス転落、エヌビディア決算に安堵も不安拭えず",
+      "url": "https://fx.minkabu.jp/news/384778",
+      "source": "みんかぶ FX/為替",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "日経平均株価がマイナスに転落し、エヌビディアの決算内容に一時安堵が広がったものの、市場の不安は拭えていないことを伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "欧州株 小幅高 米株先物・時間外取引の堅調を受けて",
+      "url": "https://fx.minkabu.jp/news/384829",
+      "source": "みんかぶ FX/為替",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "米国株式の先物や時間外取引が堅調だったことを受け、欧州株式市場が小幅高となったことを伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "ドル円は１５９円台前半 本日は午後にＦＯＭＣ議事録＝ＮＹ為替序盤",
+      "url": "https://fx.minkabu.jp/news/384855",
+      "source": "みんかぶ FX/為替",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "ニューヨーク為替市場序盤でドル円は159円台前半で推移し、この日の午後にはFOMC議事録の公表が予定されていることを伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "11月18日のNY為替概況",
+      "url": "https://zaikei.co.jp/article/20261119/878282.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "11月18日のニューヨーク外国為替市場の値動きをまとめた概況記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "欧州5カ国とEUが参加へ 米仲介の次回和平交渉に",
+      "url": "https://kumanichi.com/articles/2057671",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "米国が仲介する次回のウクライナ和平交渉に、欧州5カ国とEUが参加する見通しとなったことを伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年12月施行！公益通報者保護法改正の概要と企業への影響",
+      "url": "https://www.businesslawyers.jp/articles/1451",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "2026年12月に施行される公益通報者保護法改正の概要と、企業に与える影響について解説した記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年11月に押さえておくべき企業法務の最新動向",
+      "url": "https://www.businesslawyers.jp/articles/1585",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "2026年11月に企業法務の担当者が押さえておくべき最新の法改正・実務動向をまとめた記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "防衛費「５年５０兆円台」に批判 自民部会、大幅増額を要求",
+      "url": "https://www.jiji.com/jc/article?k=2026111800947&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "自民党の部会が、防衛費の「5年50兆円台」という規模に批判的な立場を示し、大幅な増額を要求していることを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "自民、防衛費の総額不十分と批判 防衛省「厳しい折衝中」と釈明",
+      "url": "https://www.tokyo-np.co.jp/article/528974",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "自民党が防衛費の総額が不十分だと批判しており、防衛省は「厳しい折衝中」と釈明していることを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "監視委、２８年春までに設置 政治資金巡り与野党合意",
+      "url": "https://www.tokyo-np.co.jp/article/528982",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "政治資金を巡る第三者監視委員会について、与野党が2028年春までに設置することで合意したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "政府の陰謀論系配信者起用を非難 野党「発信の信頼失墜」",
+      "url": "https://www.tokyo-np.co.jp/article/528984",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "政府が陰謀論系の配信者を起用したことについて野党が非難し、政府の発信の信頼が失墜したと指摘していることを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "「４年間で８００万円使った」 逮捕の男、一方的に好意か―中野区女性強殺・警視庁",
+      "url": "https://www.jiji.com/jc/article?k=2026111800694&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "東京・中野区で女性が刺殺された事件で逮捕された男が「4年間で800万円使った」と供述し、一方的に好意を抱いていたとみられることを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "医薬品企業の情報漏えいか 厚労省委託先不正アクセス",
+      "url": "https://www.tokyo-np.co.jp/article/529004",
+      "source": "東京新聞デジタル",
+      "publishedAt": "2026-11-18T22:07:54.000Z",
+      "summary": "厚生労働省の委託先への不正アクセスにより、医薬品企業の情報が漏えいした可能性があることを伝える記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "FX/為替「ドル/円今日の見通し｜AI株安一服なら160円を目指すか」",
+      "url": "https://www.gaitame.com/media/entry/2026/11/18/090027",
+      "source": "外為どっとコム",
+      "publishedAt": "2026-11-18T09:00:27.000Z",
+      "summary": "AI関連株の下落が一服すればドル円が160円を目指す可能性があるとの、本日のドル円見通しを解説した記事。"
+    },
     {
       "categoryId": "base-accounting",
       "title": "令和8年度（2026年）の税制改正ポイントを解説",
@@ -579,14 +707,6 @@
     },
     {
       "categoryId": "base-politics",
-      "title": "論説 衆院定数削減法案「結論ありき」許されぬ",
-      "url": "https://sanin-chuo.co.jp/articles/-/1115538",
-      "source": "山陰中央新報（論説）",
-      "publishedAt": "2026-11-14T22:07:17.000Z",
-      "summary": "山陰中央新報の論説は、衆院定数削減法案の審議が「結論ありき」で進められることは許されないと指摘している。"
-    },
-    {
-      "categoryId": "base-politics",
       "title": "〈社説〉衆院比例31削減 政治資金改革が先決だ",
       "url": "https://tokyo-np.co.jp/article/528058",
       "source": "東京新聞デジタル（社説）",
@@ -624,14 +744,6 @@
       "source": "財経新聞",
       "publishedAt": "2026-11-14T03:00:00.000Z",
       "summary": "各国の景気・物価動向への関心が高まる中、日米の12月追加利上げ観測が市場の焦点となっている。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "日中首相の接触機会は限定的",
-      "url": "https://www.daily.co.jp/society/politics/2026/11/14/0021032942.shtml",
-      "source": "デイリースポーツ online",
-      "publishedAt": "2026-11-14T03:00:00.000Z",
-      "summary": "日中両国の首相が直接接触する機会は現状限定的であるとの見通しが報じられている。"
     },
     {
       "categoryId": "base-politics",
@@ -682,22 +794,6 @@
       "summary": "令和8年度（2026年）税制改正大綱のポイントについて、税理士が実務への影響を交えて解説した記事。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "総額300億円規模の「TOB」思惑でストップ高…プライム値上がり1位となった〈注目企業〉の正体【11月13日の国内株式市場概況】",
-      "url": "https://news.yahoo.co.jp/articles/37cdbc4d54d4a0e613d450ee98b9b16c494010c8",
-      "source": "Yahoo!ニュース（THE GOLD ONLINE）",
-      "publishedAt": "2026-11-13T22:09:31.000Z",
-      "summary": "総額300億円規模のTOB思惑からストップ高となった銘柄が、11月13日のプライム市場で値上がり率1位となったことを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均株価は値上がり エヌビディアCEO辞任も市場は一旦落ち着く",
-      "url": "https://news.yahoo.co.jp/articles/f176c69d2958dbb4521af23b9e1caba27fa64bf6",
-      "source": "Yahoo!ニュース（テレビ朝日系（ANN））",
-      "publishedAt": "2026-11-13T22:09:31.000Z",
-      "summary": "エヌビディアCEO辞任を受けた市場の動揺が一旦落ち着き、11月13日の日経平均株価は値上がりしたことを伝える記事。"
-    },
-    {
       "categoryId": "base-law",
       "title": "前代未聞の「やり直し裁判」はなぜ起きた？ 元裁判官が明かす、現場を支えた“スーパー書記官”絶滅の闇（SPA!）",
       "url": "https://news.yahoo.co.jp/articles/3e0da8febec943d37e9e36144ea39d62fea0310d",
@@ -730,38 +826,6 @@
       "summary": "3歳の娘が死亡した事件で、両親が殺人や遺棄致死の疑いで逮捕されたことを伝える記事。"
     },
     {
-      "categoryId": "base-society",
-      "title": "外環道で酒気帯び運転疑い、自称建設業の男逮捕 トンネル内を走行中に壁に衝突（千葉日報オンライン）",
-      "url": "https://news.yahoo.co.jp/articles/e7b83c6c3b32e6788f289a276e3123e1e0ccf654",
-      "source": "Yahoo!ニュース（千葉日報オンライン）",
-      "publishedAt": "2026-11-13T22:09:31.000Z",
-      "summary": "千葉県市川市の外環道トンネル内で壁に衝突した事故で、酒気帯び運転の疑いにより自称建設業の男が逮捕された。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【詳報】車2台にはねられて59歳の女性が死亡 警察が先にはねた車を運転の55歳の男を過失運転傷害の疑いで逮捕「ひき逃げ事件」として逃走中のもう1台の車の行方追う 青森県南部町国道104号（ＡＴＶ青森テレビ）",
-      "url": "https://news.yahoo.co.jp/articles/f36a1247cd5b12f04599212d89c22ab6b4508504",
-      "source": "Yahoo!ニュース（ATV青森テレビ）",
-      "publishedAt": "2026-11-13T22:09:31.000Z",
-      "summary": "青森県南部町で車2台にはねられ59歳の女性が死亡し、先にはねた55歳の男が過失運転傷害の疑いで逮捕された。ひき逃げしたもう1台の車の行方を警察が追っている。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均が２営業日ぶり上昇、終値は３２２円高の６万１１４２円",
-      "url": "https://news.infoseek.co.jp/article/yomiuri_20261113_gyt1t00365/",
-      "source": "Infoseekニュース（読売新聞オンライン）",
-      "publishedAt": "2026-11-13T06:00:00.000Z",
-      "summary": "東京株式市場で日経平均株価が2営業日ぶりに上昇し、終値は322円高の6万1142円となった。半導体関連株への買い戻しの動きから一時1000円超値上がりした。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "【↑】日経平均 大引け｜ 反発、AI・半導体関連株などに買い戻し優勢 (11月13日)",
-      "url": "https://kabutan.jp/news/marketnews/?b=n202611131287",
-      "source": "株探（kabutan）",
-      "publishedAt": "2026-11-13T06:00:00.000Z",
-      "summary": "11月13日の東京株式市場で日経平均が反発し、AI・半導体関連株などへの買い戻しが優勢となったことを伝える記事。"
-    },
-    {
       "categoryId": "base-economy",
       "title": "東京マーケット・サマリー（13日）(ロイター)",
       "url": "https://finance.yahoo.co.jp/news/detail/2368f9b5406748312fb8ae9c6a12140f1c1f01a2",
@@ -784,30 +848,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-13T03:00:00.000Z",
       "summary": "半導体規制緩和を主導してきた人物を失ったことで、中国を含むアジアの調達網に影響が及ぶ可能性を伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "政治資金関連３法案、採決見送り 第三者監視委の具体化では合意",
-      "url": "https://www.chunichi.co.jp/article/1338937",
-      "source": "中日新聞Web",
-      "publishedAt": "2026-11-13T03:00:00.000Z",
-      "summary": "政治資金関連の3法案の採決が見送られた一方、第三者監視委員会の具体化については各党が合意したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均は404円高でスタート、マイクロニクスやリクルートHDなどが上昇",
-      "url": "https://jp.investing.com/news/stock-market-news/article-1755814",
-      "source": "Investing.com",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "summary": "11月13日の東京株式市場で日経平均が404円高でスタートし、マイクロニクスやリクルートHDなどの個別銘柄が上昇したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "11月13日の世界ニュース：NvidiaのCEO辞任を受け、ウォール街は急落。フランス軍艦がシリアに初寄港。",
-      "url": "https://www.vietnam.vn/ja/the-gioi-sang-13-11-pho-wall-chim-trong-sac-do-sau-vu-ceo-nvidia-tu-chuc-tau-chien-phap-lan-dau-cap-cang-syria",
-      "source": "Vietnam.vn",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "summary": "NvidiaのCEO辞任を受けてウォール街が急落したことや、フランス軍艦がシリアに初めて寄港したことなど、11月13日の世界の主要ニュースをまとめた記事。"
     },
     {
       "categoryId": "base-international",
@@ -843,27 +883,11 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "今年は税制改正で「基礎控除」が変わったと聞きました。年収500万円の会社員ですが、年末調整で戻ってくるお金は増えるのでしょうか？",
-      "url": "https://news.yahoo.co.jp/articles/927fa543472a4e53fb8a9bf8aaf2f839bf4fb0fd",
-      "source": "Yahoo!ニュース（ファイナンシャルフィールド）",
-      "publishedAt": "2026-11-12T22:07:38.000Z",
-      "summary": "税制改正により基礎控除が変わったことを受け、年収500万円の会社員の年末調整で戻る金額への影響が解説された。"
-    },
-    {
-      "categoryId": "base-accounting",
       "title": "会計検査院、最高裁を65年ぶりに「法令違反」と指摘: 2025年度決算で不当な会計処理",
       "url": "https://news.yahoo.co.jp/articles/e205ed63b9c0048967bffd97dd4c137f0fa19165",
       "source": "Yahoo!ニュース（オルタナ）",
       "publishedAt": "2026-11-12T22:07:38.000Z",
       "summary": "会計検査院が2025年度決算における不当な会計処理を巡り、最高裁を65年ぶりに「法令違反」と指摘した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "税の無駄など1445億円 検査院報告",
-      "url": "https://news.yahoo.co.jp/pickup/6601446",
-      "source": "Yahoo!ニュース",
-      "publishedAt": "2026-11-12T22:07:38.000Z",
-      "summary": "会計検査院の報告により、税の無駄遣いなどが1445億円に上ることが伝えられた。"
     },
     {
       "categoryId": "base-law",
@@ -890,22 +914,6 @@
       "summary": "警備業法の欠格条項により失職した男性の訴えについて、最高裁が全員一致で違憲と判断した。"
     },
     {
-      "categoryId": "base-law",
-      "title": "昨年参院選は「違憲状態」 3．13倍、合区後初 「1票の格差」判決・最高裁大法廷",
-      "url": "https://news.yahoo.co.jp/articles/4d90da7e516cd4b04cf13fa3550ee2753d5c8d7c",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-11-12T22:07:38.000Z",
-      "summary": "最高裁大法廷が、昨年の参院選における1票の格差3.13倍について合区後初めて「違憲状態」との判決を示した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "旧警備業法の欠格条項は「違憲」 成年後見制度利用者の就業巡り 賠償は認めず・最高裁大法廷",
-      "url": "https://news.yahoo.co.jp/articles/88e04b2d25a09c55789e595e53b4cad4cb6ad009",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-11-12T22:07:38.000Z",
-      "summary": "最高裁大法廷が、成年後見制度利用者の就業を制限する旧警備業法の欠格条項を「違憲」と判断したが、賠償は認めなかった。"
-    },
-    {
       "categoryId": "base-economy",
       "title": "午後3時のドルは159円後半、円安けん制が重し　浅田日銀委員は想定内のハト派との声（ロイター）",
       "url": "https://topics.smt.docomo.ne.jp/amp/article/reuters/business/reuters-20261112080",
@@ -920,14 +928,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-12T03:00:00.000Z",
       "summary": "米エヌビディアのCEOが辞任し、AIブームを主導してきた人物が退場したことがトランプ政権にとって痛手になるとの記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "衆院定数３１減、法案を提出＝自維国、今国会成立目指す",
-      "url": "https://nippon.com/ja/articles/-/57333",
-      "source": "nippon.com",
-      "publishedAt": "2026-11-12T03:00:00.000Z",
-      "summary": "自民・維新・国民の3党が衆院比例代表の定数を31削減する法案を国会に提出し、今国会での成立を目指す方針であることを伝える記事。"
     },
     {
       "categoryId": "base-law",
