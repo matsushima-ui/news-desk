@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-23T05:14:48.189Z",
+  "syncedAt": "2026-11-24T05:17:32.250Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,134 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-accounting",
+      "title": "2027年度（令和9年度）の税制改正はどうなる？各省庁の主要な要望まとめ",
+      "url": "https://aoi-mirai.jp/blog/2026/11/89724/",
+      "source": "あおい税理士法人",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "2027年度（令和9年度）税制改正に向けた各省庁の主要な要望をまとめた記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "各省の令和9年度（2027年度）税制改正要望、出そろう",
+      "url": "https://www.yamada-partners.jp/tax-topics/r080907",
+      "source": "山田＆パートナーズ",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "各省庁から令和9年度（2027年度）の税制改正要望が出そろったことを伝える記事。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "第279回 令和8年度税制改正によるインボイス制度に係る改正",
+      "url": "https://www.zeiken.co.jp/zeikenpress/?p=14868",
+      "source": "ZEIKEN PRESS（税務研究会）",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "令和8年度税制改正によるインボイス制度に関する改正内容を解説した記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "COP31が決裂、化石燃料からの脱却で各国合意に至らず",
+      "url": "https://www.cnn.co.jp/world/35255289.html",
+      "source": "CNN.co.jp",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "気候変動対策の国際会議COP31が決裂し、化石燃料からの脱却を巡り各国が合意に至らなかったことを伝える記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2026年12月1日施行「改正公益通報者保護法」 4つの法改正ポイントをわかりやすく解説",
+      "url": "https://hrmos.co/roumu-journal/whistleblower-protection-amendment/",
+      "source": "HRMOS",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "2026年12月1日に施行される改正公益通報者保護法について、4つの法改正ポイントを解説した記事。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "旧統一教会の勝訴破棄 「訴訟起こさぬ」念書は無効―献金勧誘で初判断・最高裁",
+      "url": "https://sp.m.jiji.com/english/show/34192",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "旧統一教会が献金勧誘を巡り「訴訟を起こさない」とする念書を根拠に勝訴していた判決を最高裁が破棄し、念書は無効との初判断を示した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "ガードパイプに衝突 バイクの男性（18）が意識不明の重体（RBC琉球放送）",
+      "url": "https://news.yahoo.co.jp/articles/02e67bc164f2acf74b5be8878f2a7db709c25fc4",
+      "source": "Yahoo!ニュース（RBC琉球放送）",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "バイクがガードパイプに衝突する事故があり、18歳の男性が意識不明の重体となっていることを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "車と衝突し新聞配達中の男性が死亡 群馬・太田市（群馬テレビ）",
+      "url": "https://news.yahoo.co.jp/articles/13a788cc09636e131c207cd5fb4c1066f7455712",
+      "source": "Yahoo!ニュース（群馬テレビ）",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "群馬県太田市で新聞配達中の男性が車と衝突し死亡したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【続報】国道で乗用車が中央分離帯を越え正面衝突 30歳女性が死亡、生後9カ月の娘ら4人が重軽傷 高松市（KSB瀬戸内海放送）",
+      "url": "https://news.yahoo.co.jp/articles/b4dfcf5868fd7147aeef00d95dae1e09ff7a6c17",
+      "source": "Yahoo!ニュース（KSB瀬戸内海放送）",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "香川県高松市の国道で乗用車が中央分離帯を越えて正面衝突し、30歳の女性が死亡、生後9カ月の娘ら4人が重軽傷を負った。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "【速報】駐車場で軽自動車が壁に衝突する事故 ７０代女性が会話できない状態で病院へ 事故前に意識喪失か（仙台放送）",
+      "url": "https://news.yahoo.co.jp/articles/c8dc5b4206a9d592acb411476a4d56043a2e3e79",
+      "source": "Yahoo!ニュース（仙台放送）",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "駐車場で軽自動車が壁に衝突する事故があり、70代女性が会話できない状態で病院に搬送された。事故前に意識を失っていた可能性がある。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "未明に松山市中心部で火事…焼け跡から男女2人の遺体発見 警察が身元の確認急ぐ【愛媛】（南海放送）",
+      "url": "https://news.yahoo.co.jp/articles/fe5fcd13da1f761f7f93a89f8cf75ea4b5778fdc",
+      "source": "Yahoo!ニュース（南海放送）",
+      "publishedAt": "2026-11-23T22:09:04.000Z",
+      "summary": "愛媛県松山市中心部で未明に火事があり、焼け跡から男女2人の遺体が見つかった。警察が身元の確認を急いでいる。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "相場展望 11月23日号 米国株：アンソロピック上場も期待外れ、AI株冷え込み、NYダウ大幅下落 日本株：日経平均は「弱気相場」入り、年初来安値銘柄が続々：中島義之",
+      "url": "https://www.zaikei.co.jp/article/20261124/878810.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "summary": "米国株はアンソロピック上場が期待外れとなりAI株が冷え込みNYダウが大幅下落、日本株は日経平均が弱気相場入りし年初来安値銘柄が続いていることを解説した記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "11月23日のNY為替概況",
+      "url": "https://zaikei.co.jp/article/20261124/878817.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-11-23T15:00:00.000Z",
+      "summary": "11月23日のニューヨーク外国為替市場における値動きをまとめた概況記事。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "ＮＹ市場 この後のイベント - 2026年11月23日21:50",
+      "url": "https://fx.minkabu.jp/news/385198",
+      "source": "みんかぶ FX/為替",
+      "publishedAt": "2026-11-23T12:50:00.000Z",
+      "summary": "ニューヨーク市場でこの後予定されているイベントについてまとめた記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "イラン再攻撃の可能性警告 来年以降、交渉決裂なら―米大統領",
+      "url": "https://www.jiji.com/jc/article?k=2026112300216&g=int&m=rss",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-23T03:00:00.000Z",
+      "summary": "トランプ米大統領が、交渉が決裂すれば来年以降イランに再攻撃する可能性があると警告したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "トランプ氏、イラン再攻撃に言及 交渉停滞でいら立ち",
+      "url": "https://www.sakigake.jp/news/article/20261123CO0026/",
+      "source": "秋田魁新報電子版",
+      "publishedAt": "2026-11-23T03:00:00.000Z",
+      "summary": "トランプ米大統領がイランへの再攻撃に言及し、交渉の停滞にいら立ちを見せていることを伝える記事。"
+    },
     {
       "categoryId": "base-economy",
       "title": "日経平均は大幅反落、アンソロピックIPOに向けた換金売りを警戒か／相場概況(フィスコ)",
@@ -152,6 +280,14 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-22T03:00:00.000Z",
       "summary": "11月22日の首相の一日の動静（日程）が報じられた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "男性を暴行し車のトランクに監禁…現金など奪った強盗傷害などの疑いで暴力団組員の男ら6人を逮捕 グループ内で金銭トラブルか 名古屋（CBCテレビ）",
+      "url": "https://news.yahoo.co.jp/articles/d75694aa33c093532f54b5fb440c4e2f98791b0b",
+      "source": "Yahoo!ニュース（CBCテレビ）",
+      "publishedAt": "2026-11-21T22:08:51.000Z",
+      "summary": "名古屋市で男性を暴行し車のトランクに監禁して現金などを奪ったとして、暴力団組員の男ら6人が強盗傷害などの疑いで逮捕されたことを伝える記事。"
     },
     {
       "categoryId": "base-economy",
@@ -307,6 +443,14 @@
     },
     {
       "categoryId": "base-politics",
+      "title": "比例定数31減案が衆院審議入り 自・維・国が特別委で趣旨説明",
+      "url": "https://kumanichi.com/articles/2058719",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-20T03:00:00.000Z",
+      "summary": "衆議院比例代表の定数を31削減する法案が審議入りし、自民・維新・国民の3党が衆院特別委員会で趣旨説明を行った。"
+    },
+    {
+      "categoryId": "base-politics",
       "title": "石破前首相に「ザイム真理教の信者か」と直撃 返答は",
       "url": "https://news.livedoor.com/topics/detail/32858789",
       "source": "ライブドアニュース",
@@ -363,14 +507,6 @@
     },
     {
       "categoryId": "base-society",
-      "title": "男性を暴行し車のトランクに監禁…現金など奪った強盗傷害などの疑いで暴力団組員の男ら6人を逮捕 グループ内で金銭トラブルか 名古屋（CBCテレビ）",
-      "url": "https://news.yahoo.co.jp/articles/d75694aa33c093532f54b5fb440c4e2f98791b0b",
-      "source": "Yahoo!ニュース（CBCテレビ）",
-      "publishedAt": "2026-11-20T03:00:00.000Z",
-      "summary": "名古屋市で男性を暴行し車のトランクに監禁して現金などを奪ったとして、暴力団組員の男ら6人が強盗傷害などの疑いで逮捕されたことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
       "title": "オレオレ詐欺の受け子の22歳男を逮捕 男の前に別の受け子が来て現金を受け取る（テレビ朝日系（ANN））",
       "url": "https://news.yahoo.co.jp/articles/df950614082ea731d2b0c4672a29695e3ef92803",
       "source": "Yahoo!ニュース（テレビ朝日系）",
@@ -392,14 +528,6 @@
       "source": "財経新聞",
       "publishedAt": "2026-11-19T22:09:40.000Z",
       "summary": "11月19日のニューヨーク外国為替市場の値動きがまとめられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "習主席のAPEC出席発表 初の米中ロ会談実施か注目",
-      "url": "https://kumanichi.com/articles/2057337",
-      "source": "熊本日日新聞（共同通信）",
-      "publishedAt": "2026-11-19T22:09:40.000Z",
-      "summary": "習近平国家主席のAPEC出席が発表され、それに合わせて初の米中ロ首脳会談が実施されるか注目されている。"
     },
     {
       "categoryId": "base-international",
@@ -531,6 +659,14 @@
     },
     {
       "categoryId": "base-politics",
+      "title": "国交相、ランチ会で会費超の支出 公選法違反は否定",
+      "url": "https://kumanichi.com/articles/2057351",
+      "source": "熊本日日新聞（共同通信）",
+      "publishedAt": "2026-11-19T03:00:00.000Z",
+      "summary": "井林国土交通相が主催した「女性部ランチ会」で会費を超える支出があったことについて、公選法違反は否定したことを伝える記事。"
+    },
+    {
+      "categoryId": "base-politics",
       "title": "松山氏「参院では造反ない」 減税法案、石破氏ら退席",
       "url": "https://kumanichi.com/articles/2059695",
       "source": "熊本日日新聞（共同通信）",
@@ -571,43 +707,11 @@
     },
     {
       "categoryId": "base-economy",
-      "title": "日経平均マイナス転落、エヌビディア決算に安堵も不安拭えず",
-      "url": "https://fx.minkabu.jp/news/384778",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-11-18T22:07:54.000Z",
-      "summary": "日経平均株価がマイナスに転落し、エヌビディアの決算内容に一時安堵が広がったものの、市場の不安は拭えていないことを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "欧州株 小幅高 米株先物・時間外取引の堅調を受けて",
-      "url": "https://fx.minkabu.jp/news/384829",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-11-18T22:07:54.000Z",
-      "summary": "米国株式の先物や時間外取引が堅調だったことを受け、欧州株式市場が小幅高となったことを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "ドル円は１５９円台前半 本日は午後にＦＯＭＣ議事録＝ＮＹ為替序盤",
-      "url": "https://fx.minkabu.jp/news/384855",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-11-18T22:07:54.000Z",
-      "summary": "ニューヨーク為替市場序盤でドル円は159円台前半で推移し、この日の午後にはFOMC議事録の公表が予定されていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
       "title": "11月18日のNY為替概況",
       "url": "https://zaikei.co.jp/article/20261119/878282.html",
       "source": "財経新聞",
       "publishedAt": "2026-11-18T22:07:54.000Z",
       "summary": "11月18日のニューヨーク外国為替市場の値動きをまとめた概況記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "欧州5カ国とEUが参加へ 米仲介の次回和平交渉に",
-      "url": "https://kumanichi.com/articles/2057671",
-      "source": "熊本日日新聞（共同通信）",
-      "publishedAt": "2026-11-18T22:07:54.000Z",
-      "summary": "米国が仲介する次回のウクライナ和平交渉に、欧州5カ国とEUが参加する見通しとなったことを伝える記事。"
     },
     {
       "categoryId": "base-politics",
@@ -640,22 +744,6 @@
       "source": "東京新聞デジタル",
       "publishedAt": "2026-11-18T22:07:54.000Z",
       "summary": "政府が陰謀論系の配信者を起用したことについて野党が非難し、政府の発信の信頼が失墜したと指摘していることを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「４年間で８００万円使った」 逮捕の男、一方的に好意か―中野区女性強殺・警視庁",
-      "url": "https://www.jiji.com/jc/article?k=2026111800694&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-18T22:07:54.000Z",
-      "summary": "東京・中野区で女性が刺殺された事件で逮捕された男が「4年間で800万円使った」と供述し、一方的に好意を抱いていたとみられることを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "医薬品企業の情報漏えいか 厚労省委託先不正アクセス",
-      "url": "https://www.tokyo-np.co.jp/article/529004",
-      "source": "東京新聞デジタル",
-      "publishedAt": "2026-11-18T22:07:54.000Z",
-      "summary": "厚生労働省の委託先への不正アクセスにより、医薬品企業の情報が漏えいした可能性があることを伝える記事。"
     },
     {
       "categoryId": "base-law",
@@ -746,14 +834,6 @@
       "summary": "国税庁が改正所得税基本通達等を公表したことを伝える記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "ソニー、プレステ訴訟に勝利 英国での損害賠償請求は棄却",
-      "url": "https://www.jiji.com/jc/article?k=2026111800167&g=int",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T22:08:52.000Z",
-      "summary": "プレイステーションの料金を巡る英国での集団訴訟で、ソニー側が勝訴し損害賠償請求が棄却されたことを伝える記事。"
-    },
-    {
       "categoryId": "base-law",
       "title": "ちいかわ転売、ボンドロ開店アタック、声の権利…「流行語」の裏側で起きた法律ニュースで振り返る2026年",
       "url": "https://www.bengo4.com/c_18/n_21154/",
@@ -792,54 +872,6 @@
       "source": "時事通信（dメニューニュース）",
       "publishedAt": "2026-11-17T03:00:00.000Z",
       "summary": "衆議院の政治改革に関する特別委員会の審議の様子が報じられた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "立民、関文科相問責の提出示唆 ９万円パー券問題視",
-      "url": "https://www.jiji.com/jc/article?k=2026111700745&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "summary": "立憲民主党が関文部科学相のパーティー券収入問題を問題視し、問責決議案の提出を示唆していることを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "日ロ首脳、中国で接触見通し 高市首相、邦人記者の解放要求へ",
-      "url": "https://www.jiji.com/jc/article?k=2026111700894&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "summary": "日ロ首脳が中国で接触する見通しとなる中、高市首相が拘束されている邦人記者の解放を求める方針であることを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "ＡＳＥＡＮ会議、日中接触実現せず 高市氏、犯罪対策で連携訴え",
-      "url": "https://www.jiji.com/jc/article?k=2026111700973&g=pol",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "summary": "ＡＳＥＡＮ関連会議で日中首脳の接触は実現しなかった一方、高市首相は犯罪対策分野での連携を訴えたことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "愛子さま、シンガポールに到着 ２度目の外国公式訪問",
-      "url": "https://www.jiji.com/jc/article?k=2026111700140&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "summary": "愛子さまが２度目の外国公式訪問としてシンガポールに到着したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "「女性とは客として知り合った」 逮捕の男、２人で食事後刺したか―中野強殺・警視庁",
-      "url": "https://www.jiji.com/jc/article?k=2026111700149&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "summary": "東京・中野区の強盗殺人事件で逮捕された男が、被害女性とは客として知り合ったと供述し、2人で食事をした後に刺したとみられることが伝えられた。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "大学生、社会人の免許取得容易に 教員確保へ答申素案―中教審部会",
-      "url": "https://www.jiji.com/jc/article?k=2026111700873&g=soc",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-17T03:00:00.000Z",
-      "summary": "教員確保に向けて大学生や社会人が教員免許を取得しやすくする方針の答申素案を、中教審部会がまとめたことを伝える記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -890,22 +922,6 @@
       "summary": "消費者庁が、公益通報者保護制度の改正法施行に向けたQ＆Aを示し、手続きの順序を強制することが通報妨害に当たるとの考えを明らかにしたことを伝える記事。"
     },
     {
-      "categoryId": "base-law",
-      "title": "海外サイバー規制動向とセキュリティ実務への影響を弁護士に聞く",
-      "url": "https://unitis.jp/articles/20921/",
-      "source": "UNITIS",
-      "publishedAt": "2026-11-16T22:08:12.000Z",
-      "summary": "海外のサイバー規制の動向と、セキュリティ実務への影響について弁護士に聞いた記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "タイムズに佐川、情報漏洩多発で企業に必要な点検・対策を弁護士解説",
-      "url": "https://unitis.jp/articles/24771/",
-      "source": "UNITIS",
-      "publishedAt": "2026-11-16T22:08:12.000Z",
-      "summary": "タイムズや佐川急便など企業で情報漏洩が多発したことを受け、企業に必要な点検・対策について弁護士が解説した記事。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "予想信用損失モデルを取り入れた改正金融商品会計基準等のポイント",
       "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/accounting-topics/2026/accounting-topics-2026-11-16",
@@ -914,20 +930,12 @@
       "summary": "予想信用損失モデルを取り入れた改正金融商品会計基準等のポイントが解説された。"
     },
     {
-      "categoryId": "base-accounting",
-      "title": "上場企業、最高益更新へ",
-      "url": "https://www.oanda.jp/lab-education/market_news/kn_2026111601001462/",
-      "source": "OANDA",
+      "categoryId": "base-politics",
+      "title": "「消費税減税関連法案」衆院通過…反対した公明党は参院で“握る”のか? 自民スリ寄りの“裏切りシナリオ”",
+      "url": "https://www.nikkan-gendai.com/articles/view/news/395309",
+      "source": "日刊ゲンダイ",
       "publishedAt": "2026-11-16T03:00:00.000Z",
-      "summary": "上場企業の最終利益が最高益を更新する見通しであることを伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "《速報解説》 金融庁、「財務諸表等規則等の一部を改正する内閣府令（案）」等を公表～法人税等に関する会計基準等を受け、規定の削除や定義・一部語句の改正を行う～",
-      "url": "https://profession-net.com/professionjournal/release-report-260/",
-      "source": "PROnet",
-      "publishedAt": "2026-11-14T22:07:17.000Z",
-      "summary": "金融庁が財務諸表等規則等の一部を改正する内閣府令案等を公表し、法人税等に関する会計基準等を受けた規定の削除や定義・語句の改正が行われる。"
+      "summary": "消費税減税関連法案が衆院を通過したことを受け、衆院で反対した公明党が参院審議でどう対応するかが焦点になっていることを伝える記事。"
     },
     {
       "categoryId": "base-society",
@@ -984,14 +992,6 @@
       "source": "企業会計基準委員会（ASBJ）",
       "publishedAt": "2026-10-16T03:00:00.000Z",
       "summary": "企業会計基準委員会が、改正企業会計基準第10号「金融商品に関する会計基準」等を公表した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "法人税等会計基準及びステーブルコイン実務対応報告（案）の公表に伴う財務諸表等規則等の改正案のポイント",
-      "url": "https://www.ey.com/ja_jp/technical/corporate-accounting/accounting-topics/2026/accounting-topics-2026-10-01",
-      "source": "EY Japan",
-      "publishedAt": "2026-10-01T00:00:00.000Z",
-      "summary": "法人税等会計基準及びステーブルコイン実務対応報告案の公表に伴い、財務諸表等規則等の改正案のポイントが解説された記事。"
     }
   ]
 }
