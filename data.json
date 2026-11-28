@@ -1,5 +1,5 @@
 {
-  "syncedAt": "2026-11-27T05:13:54.216Z",
+  "syncedAt": "2026-11-28T05:18:27.814Z",
   "categories": [
     {
       "id": "base-accounting",
@@ -33,6 +33,230 @@
     }
   ],
   "articles": [
+    {
+      "categoryId": "base-economy",
+      "title": "11月27日のNY為替概況",
+      "url": "https://zaikei.co.jp/article/20261128/879546.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-11-28T00:00:00.000Z",
+      "summary": "11月27日のニューヨーク外国為替市場の値動きがまとめられた。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "《速報解説》 金融庁、「財務諸表等規則等の一部を改正する内閣府令（案）」等を公表～法人税等に関する会計基準等を受け、規定の削除や定義・一部語句の改正を行う～",
+      "url": "https://profession-net.com/professionjournal/release-report-260/",
+      "source": "PROnet",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "金融庁が「財務諸表等規則等の一部を改正する内閣府令（案）」等を公表し、法人税等に関する会計基準等を受けて規定の削除や定義・語句の改正を行うとされる。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "法人税等会計基準を踏まえ、財務諸表等規則等が改正へ",
+      "url": "https://www.sn-hoki.co.jp/article/tamasters/tamaster4899845/",
+      "source": "TAMASTERS（新日本法規）",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "法人税等に関する会計基準の改正を踏まえ、財務諸表等規則等が改正される見通しであることが伝えられた。"
+    },
+    {
+      "categoryId": "base-accounting",
+      "title": "会計方針の変更 減価償却の方法や税金費用の計算方法の変更目立つ",
+      "url": "https://www.zeiken.co.jp/keieizaimu/article/no3726/ZA00037260601.html",
+      "source": "経営財務（税務研究会）",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "企業による会計方針の変更事例として、減価償却方法や税金費用の計算方法の変更が目立っていることが解説された。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2027年特定商取引法改正はどうなる？方向性と対応ポイントを弁護士が解説",
+      "url": "https://www.businesslawyers.jp/articles/1586",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "2027年に予定される特定商取引法改正の方向性と、企業が対応すべきポイントについて弁護士が解説した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "2027年消費者契約法改正はどうなる？方向性と対応の優先度・ポイントを弁護士が解説",
+      "url": "https://www.businesslawyers.jp/articles/1588",
+      "source": "BUSINESS LAWYERS",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "2027年に予定される消費者契約法改正の方向性と、対応の優先度・ポイントについて弁護士が解説した。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "日本政府、AI開発企業に事故報告義務を導入へ、法改正案に罰則を明記",
+      "url": "https://tradersunion.com/ja/news/regulators/show/4443652-japan-government-ai-accident-reporting-law",
+      "source": "TradersUnion",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "日本政府がAI開発企業に事故報告を義務付ける法改正案を検討しており、罰則規定も明記される見通しであることが伝えられた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "最高裁、未完成のシステムでも「検査合格」…民事裁判IT化で13.8億円支払い、マニュアルは表紙と目次だけ",
+      "url": "https://news.yahoo.co.jp/articles/26435d0d4de9c93ff1739649130c83604bcbeb17",
+      "source": "Yahoo!ニュース（弁護士ドットコムニュース）",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "民事裁判IT化を巡り、未完成のシステムでも「検査合格」とされ13.8億円が支払われていたことが報じられ、マニュアルが表紙と目次のみだった実態も指摘された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "免許試験予約が急に埋まる、大阪 不正か、府警に電話殺到",
+      "url": "https://news.yahoo.co.jp/articles/94a166ca2b9bd4b9f403023edd5ff7407189a798",
+      "source": "Yahoo!ニュース（共同通信）",
+      "publishedAt": "2026-11-27T22:06:29.000Z",
+      "summary": "大阪府で運転免許試験の予約が急に埋まる事態が発生し、不正の可能性があるとして府警に問い合わせの電話が殺到した。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "来週の日経平均見通し（11/30～12/4）｜1,211円高と大幅反発！6万円台回復なるか？エヌビディアCEOの議会聴取と米雇用統計が焦点",
+      "url": "https://www.gaitame.com/media/entry/2026/11/27/163540",
+      "source": "外為どっとコム マネ育チャンネル",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "27日に日経平均が1211円高と大幅反発する中、来週（11/30～12/4）は6万円台回復がなるか、エヌビディアCEOの議会聴取と米雇用統計が焦点になるとの見通しが示された。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均は1147円高、来週は配当金再投資の動きにも関心 執筆 Fisco",
+      "url": "https://jp.investing.com/news/forex-news/article-1771966",
+      "source": "Investing.com（フィスコ）",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "27日の東京株式市場で日経平均株価は1147円高となり、来週は配当金再投資の動きにも関心が集まるとされる。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【↑】日経平均 大引け｜ 大幅続伸、ハイテク株を中心に見直し買い (11月27日)",
+      "url": "https://kabutan.jp/news/marketnews/?b=n202611270951",
+      "source": "株探",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "27日の東京株式市場で日経平均株価は大幅続伸し、ハイテク株を中心に見直し買いが広がった。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "【株式市場】大引け、日経平均は１２１１円高と大幅続伸、５万８７００円台回復、ＡＩ・半導体株や金融株に買い",
+      "url": "https://www.media-ir.com/news/?p=189674",
+      "source": "Media-IR",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "27日の東京株式市場で日経平均株価は1211円高と大幅続伸し、5万8700円台を回復した。AI・半導体株や金融株に買いが入った。"
+    },
+    {
+      "categoryId": "base-economy",
+      "title": "日経平均は続伸、アドバンテストが1銘柄で約115円分押し上げ",
+      "url": "https://www.zaikei.co.jp/article/20261127/879453.html",
+      "source": "財経新聞",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "27日の東京株式市場で日経平均株価は続伸し、アドバンテスト1銘柄で約115円分押し上げられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "ＡＦＰにサイバー攻撃 一部のニュース閲覧サービス停止",
+      "url": "https://www.jiji.com/jc/article?k=2026112700853&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "仏AFP通信がサイバー攻撃を受け、一部のニュース閲覧サービスが停止した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "新た３カ国と加入交渉へ 日本に事務局設置―ＴＰＰ閣僚級会合",
+      "url": "https://www.jiji.com/jc/article?k=2026112700855&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "TPP閣僚級会合で新たに3カ国との加入交渉を進める方針が示され、日本に事務局を設置することが決まった。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "遺族、タイ外相に事件解決訴え 時効まで１年弱、邦人女性殺害",
+      "url": "https://www.jiji.com/jc/article?k=2026112700896&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "邦人女性殺害事件の遺族が、時効まで残り1年弱となる中、タイ外相に事件解決を訴えた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "日ロ首脳の接触認める 「関係改善に期待」―ロシア外務省",
+      "url": "https://www.jiji.com/jc/article?k=2026112700111&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "ロシア外務省が日ロ首脳の接触があったことを認め、関係改善への期待を示した。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "小泉防衛相ら、公選法違反を否定 献金授受報道巡り",
+      "url": "https://www.jiji.com/jc/article?k=2026112700386&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "小泉防衛相らが、献金授受に関する報道を巡り公職選挙法違反の疑いを否定した。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "参院、関文科相問責を否決 ４票差、首相が続投支持―消費税審議、１２月２日再開",
+      "url": "https://www.jiji.com/jc/article?k=2026112700415&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "参議院本会議で関文部科学相に対する問責決議案が４票差で否決され、高市首相の続投が支持された。消費税審議は12月2日に再開される見通し。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "神崎武法氏が死去、８３歳 自公連立の土台築く",
+      "url": "https://www.jiji.com/jc/article?k=2026112700467&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "自民・公明連立政権の基盤を築いた神崎武法氏が83歳で死去した。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "政治資金１０４８億円、１１．８％増 パーティー収入、伸長４割弱―２５年収支報告",
+      "url": "https://www.jiji.com/jc/article?k=2026112700702&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "2025年の政治資金収支報告によると、政治資金総額は1048億円で前年比11.8％増となり、パーティー収入は4割弱伸びた。"
+    },
+    {
+      "categoryId": "base-politics",
+      "title": "欧州製優遇策、対日配慮を要請 高市首相、仏産業界に",
+      "url": "https://www.jiji.com/jc/article?k=2026112700859&g=pol",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "高市首相がフランスの産業界に対し、欧州製品を優遇する政策において日本への配慮を要請した。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "芸人あべこうじさん、ひき逃げ疑い 中野区商店街、歩行者けが―警視庁",
+      "url": "https://www.jiji.com/jc/article?k=2026112700223&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "東京都中野区の商店街で歩行者がけがをする事故があり、警視庁は芸人のあべこうじさんにひき逃げの疑いがあるとして捜査している。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "殺人未遂容疑で男子中学生逮捕 自宅で姉刺され、母親もけが―静岡",
+      "url": "https://www.jiji.com/jc/article?k=2026112700818&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "静岡県内の自宅で姉が刺され母親もけがをした事件で、殺人未遂容疑により男子中学生が逮捕された。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "不同意わいせつ容疑、巡査長減給 カラオケ店で胸など触る―神奈川県警",
+      "url": "https://www.jiji.com/jc/article?k=2026112700846&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "神奈川県警はカラオケ店で女性の胸などを触ったとして、不同意わいせつの疑いで巡査長を減給処分とした。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "中国公船が領海出る 沖縄・尖閣沖",
+      "url": "https://www.jiji.com/jc/article?k=2026112700958&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "沖縄県の尖閣諸島沖で日本領海に侵入していた中国公船が領海を出たことが伝えられた。"
+    },
+    {
+      "categoryId": "base-society",
+      "title": "作家の宮原昭夫さん死去",
+      "url": "https://www.jiji.com/jc/article?k=2026112701023&g=soc",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-27T03:00:00.000Z",
+      "summary": "作家の宮原昭夫さんが死去したことが伝えられた。"
+    },
     {
       "categoryId": "base-accounting",
       "title": "自民党税調 飲食料品の消費税減税に向けて議論開始【消費税減税動向ニュース～令和9年4月より飲食料品の税率を1％に引下げへ～】",
@@ -74,6 +298,30 @@
       "summary": "ニューヨーク株式市場で株価が続伸し164ドル高となったが、取引時間中には一時1100ドルを超える下落も記録した。"
     },
     {
+      "categoryId": "base-international",
+      "title": "対中強硬ルビオ氏、思惑外れる フアン氏「排除」巡り政権内暗闘―トランプ後継にらみ火種",
+      "url": "https://www.jiji.com/jc/article?k=2026112600698&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "summary": "対中強硬派のルビオ氏の思惑が外れ、フアン氏の「排除」を巡りトランプ政権内で暗闘が起きていることが伝えられた。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "対イラン、米国抜きで攻撃も 「用意できている」とイスラエル軍",
+      "url": "https://www.jiji.com/jc/article?k=2026112601144&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "summary": "イスラエル軍が、米国抜きでもイランへの攻撃に「用意ができている」との姿勢を示した。"
+    },
+    {
+      "categoryId": "base-international",
+      "title": "北朝鮮「対ロ軍事支援停止」か ウクライナ当局発表",
+      "url": "https://www.jiji.com/jc/article?k=2026112601208&g=int",
+      "source": "時事ドットコム",
+      "publishedAt": "2026-11-26T03:00:00.000Z",
+      "summary": "ウクライナ当局は、北朝鮮がロシアへの軍事支援を停止した可能性があると発表した。"
+    },
+    {
       "categoryId": "base-politics",
       "title": "定数削減、２６日の採決見送り 衆院委、野党「審議不十分」",
       "url": "https://www.jiji.com/jc/article?k=2026112600116&g=pol",
@@ -104,6 +352,14 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-26T03:00:00.000Z",
       "summary": "福岡の駐輪場刺殺事件で死亡した男性の顔や首に多数の傷があったことが分かり、事件20分前に周辺の防犯カメラに逮捕された男とみられる人物が映っていた。"
+    },
+    {
+      "categoryId": "base-law",
+      "title": "AIチャットボット搭載おもちゃの製造・流通・販売を5年間停止する法律にニューヨーク州知事が署名",
+      "url": "https://gigazine.net/news/20261126-new-york-state-bans-ai-toys",
+      "source": "GIGAZINE",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "summary": "ニューヨーク州知事が、AIチャットボットを搭載したおもちゃの製造・流通・販売を5年間停止する法律に署名した。"
     },
     {
       "categoryId": "base-accounting",
@@ -386,60 +642,12 @@
       "summary": "旧統一教会が献金勧誘を巡り「訴訟を起こさない」とする念書を根拠に勝訴していた判決を最高裁が破棄し、念書は無効との初判断を示した。"
     },
     {
-      "categoryId": "base-society",
-      "title": "ガードパイプに衝突 バイクの男性（18）が意識不明の重体（RBC琉球放送）",
-      "url": "https://news.yahoo.co.jp/articles/02e67bc164f2acf74b5be8878f2a7db709c25fc4",
-      "source": "Yahoo!ニュース（RBC琉球放送）",
-      "publishedAt": "2026-11-23T22:09:04.000Z",
-      "summary": "バイクがガードパイプに衝突する事故があり、18歳の男性が意識不明の重体となっていることを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "車と衝突し新聞配達中の男性が死亡 群馬・太田市（群馬テレビ）",
-      "url": "https://news.yahoo.co.jp/articles/13a788cc09636e131c207cd5fb4c1066f7455712",
-      "source": "Yahoo!ニュース（群馬テレビ）",
-      "publishedAt": "2026-11-23T22:09:04.000Z",
-      "summary": "群馬県太田市で新聞配達中の男性が車と衝突し死亡したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【続報】国道で乗用車が中央分離帯を越え正面衝突 30歳女性が死亡、生後9カ月の娘ら4人が重軽傷 高松市（KSB瀬戸内海放送）",
-      "url": "https://news.yahoo.co.jp/articles/b4dfcf5868fd7147aeef00d95dae1e09ff7a6c17",
-      "source": "Yahoo!ニュース（KSB瀬戸内海放送）",
-      "publishedAt": "2026-11-23T22:09:04.000Z",
-      "summary": "香川県高松市の国道で乗用車が中央分離帯を越えて正面衝突し、30歳の女性が死亡、生後9カ月の娘ら4人が重軽傷を負った。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "【速報】駐車場で軽自動車が壁に衝突する事故 ７０代女性が会話できない状態で病院へ 事故前に意識喪失か（仙台放送）",
-      "url": "https://news.yahoo.co.jp/articles/c8dc5b4206a9d592acb411476a4d56043a2e3e79",
-      "source": "Yahoo!ニュース（仙台放送）",
-      "publishedAt": "2026-11-23T22:09:04.000Z",
-      "summary": "駐車場で軽自動車が壁に衝突する事故があり、70代女性が会話できない状態で病院に搬送された。事故前に意識を失っていた可能性がある。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "未明に松山市中心部で火事…焼け跡から男女2人の遺体発見 警察が身元の確認急ぐ【愛媛】（南海放送）",
-      "url": "https://news.yahoo.co.jp/articles/fe5fcd13da1f761f7f93a89f8cf75ea4b5778fdc",
-      "source": "Yahoo!ニュース（南海放送）",
-      "publishedAt": "2026-11-23T22:09:04.000Z",
-      "summary": "愛媛県松山市中心部で未明に火事があり、焼け跡から男女2人の遺体が見つかった。警察が身元の確認を急いでいる。"
-    },
-    {
       "categoryId": "base-economy",
       "title": "相場展望 11月23日号 米国株：アンソロピック上場も期待外れ、AI株冷え込み、NYダウ大幅下落 日本株：日経平均は「弱気相場」入り、年初来安値銘柄が続々：中島義之",
       "url": "https://www.zaikei.co.jp/article/20261124/878810.html",
       "source": "財経新聞",
       "publishedAt": "2026-11-23T15:00:00.000Z",
       "summary": "米国株はアンソロピック上場が期待外れとなりAI株が冷え込みNYダウが大幅下落、日本株は日経平均が弱気相場入りし年初来安値銘柄が続いていることを解説した記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "11月23日のNY為替概況",
-      "url": "https://zaikei.co.jp/article/20261124/878817.html",
-      "source": "財経新聞",
-      "publishedAt": "2026-11-23T15:00:00.000Z",
-      "summary": "11月23日のニューヨーク外国為替市場における値動きをまとめた概況記事。"
     },
     {
       "categoryId": "base-economy",
@@ -466,132 +674,12 @@
       "summary": "トランプ米大統領がイランへの再攻撃に言及し、交渉の停滞にいら立ちを見せていることを伝える記事。"
     },
     {
-      "categoryId": "base-economy",
-      "title": "日経平均は大幅反落、アンソロピックIPOに向けた換金売りを警戒か／相場概況(フィスコ)",
-      "url": "https://finance.yahoo.co.jp/news/detail/31073608314df403069834f64dc5138211a00ebb",
-      "source": "Yahoo!ファイナンス（フィスコ）",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "日経平均株価が大幅反落となり、アンソロピックのIPOに向けた換金売りが警戒されているとの見方が示された。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日本銀行 １１月２２日の外為市場出来高(みんかぶ（FX）)",
-      "url": "https://finance.yahoo.co.jp/news/detail/32e1dc63f402520e725da1460fba65f8afaea159",
-      "source": "Yahoo!ファイナンス（みんかぶ FX）",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "日本銀行が発表した11月22日の外国為替市場における出来高に関する情報が伝えられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "英遠泳選手、ホルムズ海峡泳ぎ戦争の環境被害訴え",
-      "url": "https://www.afpbb.com/articles/-/3663616",
-      "source": "AFPBB News",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "英国の遠泳選手がホルムズ海峡を泳ぎ、戦争による環境被害を訴える活動を行ったことが伝えられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "習主席が高市総理に返した“一言” APECでの中国訪問で花束も演奏もなし…政府関係者「最低限の礼儀もない」 プーチン氏とは30分対話【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
-      "url": "https://news.yahoo.co.jp/articles/68296eeeb9d780642e59b2624616df8542fd4f1e",
-      "source": "Yahoo!ニュース（TBS NEWS DIG）",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "APECでの中国訪問時、習近平国家主席が高市首相に花束や歓迎演奏のない対応をしたとされ、日本政府関係者が「最低限の礼儀もない」と述べた一方、プーチン氏とは30分の対話が行われた。"
-    },
-    {
       "categoryId": "base-law",
       "title": "受刑者の選挙権制限に“合憲”判決も…最高裁15人全員が個別意見、6人が違憲・8人が“見直し”言及 「議論せず維持なら違憲」の警告も",
       "url": "https://ben54.jp/news/4103",
       "source": "弁護士ドットコムニュース（ben54.jp）",
       "publishedAt": "2026-11-22T22:09:01.000Z",
       "summary": "受刑者の選挙権を制限する規定について最高裁大法廷は合憲と判断したが、15人の裁判官全員が個別意見を述べ、6人が違憲、8人が制度の見直しに言及した。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "与党、月内衆院通過にまい進 定数削減、野党の懸念置き去り",
-      "url": "https://news.yahoo.co.jp/articles/54357be0b021315b66a9548018f88de9283fc921",
-      "source": "Yahoo!ニュース（時事通信）",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "比例代表定数31削減法案について、与党が月内の衆院通過に向けて審議を急いでおり、野党からの懸念が置き去りにされているとの指摘がある。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "自民との連立は意味がないと国民玉木氏",
-      "url": "https://news.yahoo.co.jp/articles/a234372b95f1d8af67ca7a303e655d47f126e7a9",
-      "source": "Yahoo!ニュース（共同通信）",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "国民民主党の玉木雄一郎代表が、自民党との連立に参加することに意味がないとの考えを示した。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "孤立や停電も…強烈寒波が3連休直撃 各地で大雪の影響広がる 都内は初の氷点下",
-      "url": "https://news.infoseek.co.jp/article/tvasahi_900204934/",
-      "source": "Infoseekニュース（テレビ朝日）",
-      "publishedAt": "2026-11-22T22:09:01.000Z",
-      "summary": "強烈な寒波が3連休を直撃し、各地で大雪の影響が広がる中、一部地域では孤立や停電も発生し、都内では今シーズン初の氷点下を記録した。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "【今週の注目材料】東京都区部消費者物価指数はしっかりとした伸びを期待",
-      "url": "https://fx.minkabu.jp/news/385159",
-      "source": "みんかぶ FX/為替",
-      "publishedAt": "2026-11-22T08:10:00.000Z",
-      "summary": "今週の注目材料として、東京都区部消費者物価指数がしっかりとした伸びとなることが期待されていると報じられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "Taiwan Assesses Impact of Trump-Xi Meeting",
-      "url": "https://www.taiwanplus.com/news/newscasts/heres-what-happened/261121004/taiwan-assesses-impact-of-trump-xi-meeting-nov-22-2026",
-      "source": "TaiwanPlus",
-      "publishedAt": "2026-11-22T03:00:00.000Z",
-      "summary": "トランプ氏と習近平氏の会談が台湾に与える影響について、台湾側が分析・評価している状況が報じられた。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "英政府、トランプ氏のイラン攻撃再開に強い懸念―ブルームバーグ報道",
-      "url": "https://www.zaikei.co.jp/article/20261122/878732.html",
-      "source": "財経新聞",
-      "publishedAt": "2026-11-22T03:00:00.000Z",
-      "summary": "英国政府が、トランプ米大統領によるイラン攻撃再開の動きに強い懸念を示していると、ブルームバーグが報じた。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "首相動静（１１月２２日）",
-      "url": "https://www.jiji.com/jc/article?k=2026112200163&g=pol&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-22T03:00:00.000Z",
-      "summary": "11月22日の首相の一日の動静（日程）が報じられた。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "来週のドル円相場はどうなる？11/23週のイベント予定「米PCE・東京都区部CPIに注目！160円を巡る攻防が続く見込み」",
-      "url": "https://www.gaitame.com/media/entry/2026/11/22/070000",
-      "source": "外為どっとコム マネ育チャンネル",
-      "publishedAt": "2026-11-21T22:00:00.000Z",
-      "summary": "11月23日週は米PCEや東京都区部CPIなどの指標が注目され、ドル円は160円を巡る攻防が続く見込みであると解説された。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "【独自】公明、統一選で自民系推薦せず 閣僚疑惑や定数削減に反発",
-      "url": "https://373news.com/news/national/detail/2026112101001117",
-      "source": "共同通信（373news.com）",
-      "publishedAt": "2026-11-21T03:00:00.000Z",
-      "summary": "公明党が来春の統一地方選挙で自民党系候補を推薦しない方針であることが分かり、閣僚の疑惑や定数削減への反発が背景にあるとみられる。"
-    },
-    {
-      "categoryId": "base-society",
-      "title": "国道を歩いて横断していた女性、バックしてきた除雪車にはねられ死亡",
-      "url": "https://news.infoseek.co.jp/article/yomiuri_20261121_gyt1t00260",
-      "source": "Infoseekニュース（読売新聞）",
-      "publishedAt": "2026-11-21T03:00:00.000Z",
-      "summary": "国道を歩いて横断していた女性が、バックしてきた除雪車にはねられて死亡した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "【緊急開催】飲食料品に係る消費税率の臨時的な引下げ 全国7都市で説明会を開催します",
-      "url": "https://www.zeiken.co.jp/special/shohizei/news_seminar_202611.php",
-      "source": "税務研究会",
-      "publishedAt": "2026-11-20T22:09:28.000Z",
-      "summary": "飲食料品に係る消費税率の臨時的な引下げについて、税務研究会が全国7都市で緊急の説明会を開催することを案内する記事。"
     },
     {
       "categoryId": "base-accounting",
@@ -602,44 +690,12 @@
       "summary": "国税庁が、飲食料品に係る消費税率の臨時的な引下げに関する説明会を開催したことを伝える記事。"
     },
     {
-      "categoryId": "base-law",
-      "title": "【2026年11月更新】能動的サイバー防御法（サイバー対処能力強化法）の企業対応 施行令・主務省令を踏まえた届出・報告義務を弁護士が解説",
-      "url": "https://unitis.jp/articles/16521/",
-      "source": "UNITIS",
-      "publishedAt": "2026-11-20T22:09:28.000Z",
-      "summary": "能動的サイバー防御法（サイバー対処能力強化法）に関する施行令・主務省令を踏まえた企業の届出・報告義務について、弁護士が解説した記事。"
-    },
-    {
       "categoryId": "base-accounting",
       "title": "東京海上など損保が上方修正、JTは想定内も下方修正＆減配/日経平均急落【今日の注目株＆日本株市場見通し】「デイリーZAi」11月20日号(ダイヤモンド・ザイ)",
       "url": "https://finance.yahoo.co.jp/news/detail/1a150951cd059a94698f08048d7583e3df06e806",
       "source": "Yahoo!ファイナンス（ダイヤモンド・ザイ）",
       "publishedAt": "2026-11-20T08:00:00.000Z",
       "summary": "東京海上など損害保険各社が業績を上方修正した一方、JTは下方修正と減配を発表し、日経平均が急落したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "日経平均「3,007円安」で下げ幅歴代5位…省エネ新技術を発表もプライム値下がり1位となった〈要注目株〉の正体【11月20日の国内株式市場概況】（THE GOLD ONLINE）",
-      "url": "https://news.yahoo.co.jp/articles/f07f690ecb5daa4ecee0e0f00b4a1571c6a2f244",
-      "source": "Yahoo!ニュース（THE GOLD ONLINE）",
-      "publishedAt": "2026-11-20T06:00:00.000Z",
-      "summary": "11月20日の日経平均が3,007円安となり歴代5位の下げ幅を記録したことや、値下がり率1位となった注目銘柄について解説した記事。"
-    },
-    {
-      "categoryId": "base-economy",
-      "title": "3007円安の5万6436円65銭＝20日の平均株価(時事通信)",
-      "url": "https://finance.yahoo.co.jp/news/detail/4d9fa7b2b0fa08960e56095e17b3337615c95839",
-      "source": "Yahoo!ファイナンス（時事通信）",
-      "publishedAt": "2026-11-20T06:00:00.000Z",
-      "summary": "11月20日の東京株式市場で日経平均株価が3007円安の5万6436円65銭となったことを伝える記事。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "今週の決算発表予定 ＳＯＭＰＯ、ＭＳ＆ＡＤ、東京海上など (11月16日～20日)(株探ニュース)",
-      "url": "https://finance.yahoo.co.jp/news/detail/b5a1ef6ec599a6749161f27eca05580553903576",
-      "source": "Yahoo!ファイナンス（株探ニュース）",
-      "publishedAt": "2026-11-20T03:00:00.000Z",
-      "summary": "11月16日から20日にかけてＳＯＭＰＯ、ＭＳ＆ＡＤ、東京海上など主要企業の決算発表が予定されていることをまとめた記事。"
     },
     {
       "categoryId": "base-international",
@@ -650,44 +706,12 @@
       "summary": "ロシアによる攻撃でウクライナの首都にある外国大使館が被害を受け、窓が吹き飛ぶ被害が出たことを伝える記事。"
     },
     {
-      "categoryId": "base-international",
-      "title": "中国、改めて「是正」要求 高市首相の台湾有事発言：時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026112001030&g=int&m=rss",
-      "source": "時事ドットコム",
-      "publishedAt": "2026-11-20T03:00:00.000Z",
-      "summary": "高市首相の台湾有事に関する発言について、中国が改めて「是正」を要求したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-international",
-      "title": "中国「態度だけでなく、行動を」 台湾めぐる高市首相の立場表明に（朝日新聞）",
-      "url": "https://news.yahoo.co.jp/articles/c3e96687fff05d787b482b20337225b5dfd73d54",
-      "source": "Yahoo!ニュース（朝日新聞）",
-      "publishedAt": "2026-11-20T03:00:00.000Z",
-      "summary": "台湾に関する高市首相の立場表明について、中国側が「態度だけでなく行動を」示すよう求めたことを伝える記事。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "比例定数31減案が衆院審議入り 自・維・国が特別委で趣旨説明",
       "url": "https://kumanichi.com/articles/2058719",
       "source": "熊本日日新聞（共同通信）",
       "publishedAt": "2026-11-20T03:00:00.000Z",
       "summary": "衆議院比例代表の定数を31削減する法案が審議入りし、自民・維新・国民の3党が衆院特別委員会で趣旨説明を行った。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "石破前首相に「ザイム真理教の信者か」と直撃 返答は",
-      "url": "https://news.livedoor.com/topics/detail/32858789",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-20T03:00:00.000Z",
-      "summary": "石破前首相に対し「財務省（ザイム）真理教の信者か」との質問が直接ぶつけられ、その返答が注目されたことを伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "受刑者の選挙権制限は合憲 最高裁、公選法で初判断",
-      "url": "https://kumanichi.com/articles/2059194",
-      "source": "熊本日日新聞（共同通信）",
-      "publishedAt": "2026-11-19T22:09:28.000Z",
-      "summary": "受刑者の選挙権を制限する公職選挙法の規定について、最高裁が合憲との初めての判断を示したことを伝える記事。"
     },
     {
       "categoryId": "base-society",
@@ -730,36 +754,12 @@
       "summary": "台湾の頼政権は、米中ロ首脳会談において台湾問題は議題ではなかったと強調し、3カ国それぞれ重点が異なるとの見方を示した。"
     },
     {
-      "categoryId": "base-international",
-      "title": "トランプ氏、プーチン氏とウ巡り良好な協議 米中ロ会談は強い一体感",
-      "url": "https://www.newsweekjapan.jp/articles/-/340914",
-      "source": "Newsweek日本版",
-      "publishedAt": "2026-11-19T03:00:00.000Z",
-      "summary": "トランプ氏がプーチン氏とウクライナ情勢について良好な協議を行ったとし、米中ロ首脳会談が強い一体感を示したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "統一選は来年4月11、25日 投票日定める特例法成立",
-      "url": "https://kumanichi.com/articles/2056560",
-      "source": "熊本日日新聞（共同通信）",
-      "publishedAt": "2026-11-19T03:00:00.000Z",
-      "summary": "来年の統一地方選挙の投票日を4月11日と25日とする特例法が成立したことを伝える記事。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "国交相、ランチ会で会費超の支出 公選法違反は否定",
       "url": "https://kumanichi.com/articles/2057351",
       "source": "熊本日日新聞（共同通信）",
       "publishedAt": "2026-11-19T03:00:00.000Z",
       "summary": "井林国土交通相が主催した「女性部ランチ会」で会費を超える支出があったことについて、公選法違反は否定したことを伝える記事。"
-    },
-    {
-      "categoryId": "base-politics",
-      "title": "松山氏「参院では造反ない」 減税法案、石破氏ら退席",
-      "url": "https://kumanichi.com/articles/2059695",
-      "source": "熊本日日新聞（共同通信）",
-      "publishedAt": "2026-11-19T03:00:00.000Z",
-      "summary": "消費税減税法案の参議院審議を巡り、自民党の松山政司参院幹事長が「参院では造反はない」と述べたことを伝える記事。石破前首相らが採決を退席したことにも言及している。"
     },
     {
       "categoryId": "base-accounting",
@@ -770,44 +770,12 @@
       "summary": "日本企業が海外進出先国で実際に経験した国際課税に関する問題点について解説した記事。"
     },
     {
-      "categoryId": "base-law",
-      "title": "内部通報制度とは？目的や企業の義務をわかりやすく解説",
-      "url": "https://www.businesslawyers.jp/articles/1493",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-11-18T09:30:00.000Z",
-      "summary": "内部通報制度の目的や、企業に求められる義務についてわかりやすく解説された。"
-    },
-    {
       "categoryId": "base-politics",
       "title": "自民、比例３１減で公約実現　野党「民意反映されず」",
       "url": "https://www.kobe-np.co.jp/news/zenkoku/compact/202611/0021047031.shtml",
       "source": "神戸新聞NEXT（共同通信）",
       "publishedAt": "2026-11-18T08:28:00.000Z",
       "summary": "18日の衆院政治改革特別委員会で、自民・維新・国民の3党が主導する比例代表定数を31削減する法案について各党が意見を述べ、自民党は公約実現だと主張したが、他の野党からは「民意が反映されなくなる」との批判が上がった。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "能動的サイバー防御関連法の概要と民間企業への影響",
-      "url": "https://www.businesslawyers.jp/articles/1465",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-11-18T04:20:00.000Z",
-      "summary": "能動的サイバー防御に関連する法律の概要と、民間企業への影響について解説された。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "総務省「「令和９年度地方税制改正等に関する地方財政審議会意見」の提出」を公表",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/11/202611_14433",
-      "source": "TKCエクスプレス",
-      "publishedAt": "2026-11-18T03:00:00.000Z",
-      "summary": "総務省が、令和9年度の地方税制改正等に関する地方財政審議会の意見が提出されたことを公表した。"
-    },
-    {
-      "categoryId": "base-accounting",
-      "title": "金融庁「金融審議会「ディスクロージャーワーキング・グループ」（第７回）議事次第」を公表",
-      "url": "https://www.tkc.jp/consolidate/tkc_express/2026/11/202611_14436",
-      "source": "TKCエクスプレス",
-      "publishedAt": "2026-11-18T03:00:00.000Z",
-      "summary": "金融庁が、金融審議会「ディスクロージャーワーキング・グループ」第7回会合の議事次第を公表した。"
     },
     {
       "categoryId": "base-law",
@@ -832,14 +800,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-18T03:00:00.000Z",
       "summary": "受刑者の選挙権制限を合憲とした最高裁判決を受け、原告の八木橋さんが「意味のある訴訟だった」と述べたことを伝える記事。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "受刑者の選挙権制限、最高裁判決に原告「結果ありきに見えた」 裁判官15人中6人は違憲無効「最大公約数的な判決」",
-      "url": "https://news.livedoor.com/topics/detail/32848223/",
-      "source": "ライブドアニュース",
-      "publishedAt": "2026-11-18T03:00:00.000Z",
-      "summary": "受刑者の選挙権制限を合憲とした最高裁判決について、原告が「結果ありきに見えた」と述べたことを伝える記事。"
     },
     {
       "categoryId": "base-law",
@@ -891,11 +851,11 @@
     },
     {
       "categoryId": "base-accounting",
-      "title": "政府税調 租税回避対応の方向性示す",
-      "url": "https://www.zeiken.co.jp/zeimutusin/article/no3923/TA00039231001.html",
-      "source": "税務通信（税務研究会）",
-      "publishedAt": "2026-11-16T22:08:12.000Z",
-      "summary": "政府税制調査会が租税回避への対応に関する方向性を示したことを伝える記事。"
+      "title": "第588回企業会計基準委員会の概要",
+      "url": "https://www.asb-j.jp/jp/project/proceedings/y2026/2026-1117.html",
+      "source": "企業会計基準委員会（ASBJ）",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "summary": "2026年11月17日に開催された第588回企業会計基準委員会の概要が公表された。"
     },
     {
       "categoryId": "base-accounting",
@@ -984,14 +944,6 @@
       "source": "時事ドットコム",
       "publishedAt": "2026-11-11T03:00:00.000Z",
       "summary": "最高裁大法廷は、1票の格差を巡り昨年の参院選について「違憲状態」だったとする判決を示した。"
-    },
-    {
-      "categoryId": "base-law",
-      "title": "東証「市場区分の見直しに関するフォローアップ会議」第30回を開催",
-      "url": "https://www.businesslawyers.jp/articles/1589",
-      "source": "BUSINESS LAWYERS",
-      "publishedAt": "2026-11-10T22:00:00.000Z",
-      "summary": "東京証券取引所が、市場区分の見直しに関するフォローアップ会議の第30回会合を開催した。"
     },
     {
       "categoryId": "base-society",
